@@ -1,0 +1,72 @@
+%reseta-lista {
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+%reseta-botao {
+	background-color: transparent;
+	border: 0;
+}
+
+%divisor {
+	&::after {
+		content: '';
+		display: block;
+		height: 1px;
+		width: 100%;
+		position: absolute;
+		left: 0;
+		bottom: 1px;
+		background-color: rgba(255, 255, 255, 0.1);
+	}
+}
+
+%gradiente-section-40-60 {
+	background: linear-gradient(
+		180deg,
+		white 0%,
+		white 25%,
+		$cor_bg_secao 25%,
+		$cor_bg_secao 100%
+	);
+	& > :nth-child(1) {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	@include mq(sm) {
+		background: linear-gradient(
+			90deg,
+			white 0%,
+			white 25%,
+			$cor_bg_secao 25%,
+			$cor_bg_secao 100%
+		);
+	}
+}
+
+%gradiente-section-60-40 {
+	background: linear-gradient(
+		180deg,
+		$cor_bg_secao 0%,
+		$cor_bg_secao 75%,
+		white 75%,
+		white 100%
+	);
+	& > :nth-child(2) {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	@include mq(sm) {
+		background: linear-gradient(
+			90deg,
+			$cor_bg_secao 0%,
+			$cor_bg_secao 75%,
+			white 75%,
+			white 100%
+		);
+	}
+}

@@ -1,0 +1,65 @@
+/* GUTENBERG styles */
+
+// botões
+.wp-block-button,
+.is-style-outline,
+.is-style-fill {
+	> .wp-block-button__link {
+		background-color: transparent;
+		color: $cor_texto_claro;
+		text-transform: uppercase;
+		font-size: 0.75rem;
+		line-height: 40px;
+		border: 1px solid $cor_texto_claro;
+		border-radius: 10px;
+		height: 40px;
+
+		padding: 0 15px 0 15px;
+
+		&:hover {
+			background-color: $cor_marca;
+			border-color: $cor_marca;
+			color: white;
+		}
+	}
+}
+
+.wp-block-buttons {
+	margin-top: 40px;
+}
+
+.is-style-outline.big,
+.is-style-fill.big {
+	width: 100%;
+	> .wp-block-button__link {
+		display: block;
+	}
+}
+
+// divisores
+.wp-block-separator {
+	background-color: $cor_linhas;
+	height: 1px;
+	border: 0;
+	margin-bottom: 40px;
+}
+
+.wp-block-image figcaption {
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	position: absolute;
+	bottom: 0;
+	background: white;
+	left: 15px;
+	padding: 2px 7px;
+	text-transform: uppercase;
+	font-size: 0.625rem;
+}
+
+.wpml-ls-legacy-list-horizontal .wpml-ls-item {
+	margin-right: 10px;
+
+	&:last-child {
+		margin-right: 0;
+	}
+}

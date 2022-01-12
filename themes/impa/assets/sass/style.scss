@@ -1,0 +1,42 @@
+@use "sass:map";
+
+/* Resets
+--------------------------------------------- */
+@import 'resets/box-sizing';
+@import 'resets/normalize';
+
+/* Bootstrap
+--------------------------------------------- */
+@import 'bootstrap/bootstrap_grid';
+
+/* Abstratos
+--------------------------------------------- */
+@import 'abstratos/classes';
+
+/* Gutenberg
+--------------------------------------------- */
+@import 'gutenberg/gutenberg';
+
+/* Navegação
+--------------------------------------------- */
+@import 'componentes/navigation';
+
+/* Página
+--------------------------------------------- */
+@import 'pagina/pagina';
+
+/* Elementos
+--------------------------------------------- */
+@import 'elementos/elementos';
+
+/* Headings
+--------------------------------------------- */
+@import 'tipografia/headings';
+
+/* Singles
+--------------------------------------------- */
+@import 'singles/singles';
+
+/* Templates
+--------------------------------------------- */
+@import 'templates/templates';

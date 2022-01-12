@@ -1,0 +1,142 @@
+#header {
+	&-linha1 {
+		background-color: $cor_marca;
+		height: 90px;
+		color: white;
+		display: flex;
+		align-items: center;
+
+		.container {
+			display: flex;
+			justify-content: space-between;
+		}
+
+		a,
+		button {
+			color: white;
+		}
+	}
+
+	.site-branding {
+		.custom-logo-link img {
+			display: block;
+			width: auto;
+			height: 52px;
+		}
+	}
+
+	.menu-toggle {
+		font-size: 1.375rem;
+	}
+
+	.secondary-navigation {
+		display: flex;
+		align-items: center;
+	}
+
+	&-search {
+		button {
+			display: none;
+			@extend %reseta-botao;
+		}
+	}
+
+	form[role='search'] {
+		@extend %divisor;
+		background-color: darken($cor_marca, 6%);
+		padding: 15px;
+		position: relative;
+
+		.search-field {
+			width: 100%;
+			height: 47px;
+			padding: 15px;
+			padding-right: 50px;
+		}
+		button {
+			@extend %reseta-botao;
+			position: absolute;
+			right: 30px;
+			top: 25px;
+			font-size: 1.375rem;
+			color: $cor_texto_claro;
+		}
+	}
+
+	&-linha-2 {
+		// display: none;
+		.search-form {
+			display: none;
+		}
+
+		@include mq(md) {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+
+			.search-form {
+				// display: none;
+				order: 2;
+				flex-basis: 100%;
+			}
+		}
+	}
+}
+
+#primary-menu {
+	font-size: 0.875rem;
+	> ul {
+		@extend %reseta-lista;
+		margin-top: 0;
+		margin-bottom: 0;
+		background-color: $cor_marca;
+
+		li {
+			position: relative;
+			@extend %divisor;
+		}
+
+		a {
+			padding: 8px 11px;
+			display: block;
+			color: white;
+			text-transform: uppercase;
+			text-decoration: none;
+			background-color: darken($cor_marca, 6%);
+
+			&:hover {
+				color: lighten(white, 20%);
+			}
+
+			ul {
+				a {
+					background-color: $cor_marca;
+				}
+			}
+		}
+	}
+
+	@include mq(sm) {
+		font-size: 0.75rem;
+		> ul {
+			display: flex;
+			justify-content: center;
+			gap: 25px;
+
+			a {
+				color: $cor_texto;
+			}
+		}
+	}
+
+	@include mq(md) {
+		> ul {
+			background-color: transparent;
+
+			a {
+				background-color: transparent;
+				font-size: 0.75rem;
+			}
+		}
+	}
+}

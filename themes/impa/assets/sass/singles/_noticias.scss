@@ -1,0 +1,142 @@
+.ultimas-noticias {
+	// background-color: lighten($cor_linhas, 5%);
+	background-color: $cor_bg_secao;
+	margin-top: 55px;
+
+	&-lista {
+		@extend %reseta-lista;
+
+		li {
+			margin-bottom: 30px;
+
+			&:nth-child(1),
+			&:nth-child(6) {
+				figure {
+					margin-bottom: 0;
+				}
+
+				h4 {
+					display: block;
+					padding: 5px;
+					margin: -30px 15px 0 15px;
+					color: white;
+					width: fit-content;
+					font-size: 1.5rem;
+					line-height: 1.875rem;
+
+					span {
+						background-color: $cor_noticias;
+						box-shadow: 0.5rem 0 0 $cor_noticias, -0.5rem 0 0 $cor_noticias;
+						border: 4px solid $cor_noticias;
+					}
+				}
+			}
+		}
+	}
+
+	h4 {
+		font-size: 1.125rem;
+		font-weight: bold;
+		line-height: 1.375rem;
+		margin: 0;
+		margin-top: 10px;
+		position: relative;
+	}
+
+	a {
+		text-decoration: none;
+		color: $cor_texto;
+		display: block;
+	}
+
+	.wp-block-buttons {
+		margin-top: 40px;
+		justify-content: center;
+	}
+
+	@include mq(md) {
+		&-lista {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 35px;
+
+			li {
+				flex-basis: calc(30% - 70px);
+				background-color: white;
+				padding: 15px;
+
+				&:nth-child(1),
+				&:nth-child(6) {
+					flex-basis: 40%;
+					background-color: transparent;
+					padding: 0;
+				}
+			}
+
+			figure {
+				margin: 0;
+				margin-bottom: 15px;
+			}
+		}
+	}
+}
+
+.blog {
+	h2::after {
+		background-color: $cor_noticias;
+	}
+
+	figure {
+		margin: 0 0 10px 0;
+	}
+
+	#noticias {
+		@extend %reseta-lista;
+
+		h4 {
+			margin-top: 10px;
+			margin-bottom: 30px;
+			font-size: 1.25rem;
+			line-height: 1.5rem;
+		}
+		a {
+			text-decoration: none;
+			color: $cor_texto;
+		}
+	}
+}
+
+#imagem-destaque {
+	margin: 0 0 10px 0;
+}
+
+.single-post {
+	h2 {
+		font-size: 2rem;
+		font-weight: bold;
+		line-height: 2.5rem;
+		text-align: left;
+		text-transform: none;
+		color: $cor_texto;
+
+		margin-top: 50px;
+		margin-bottom: 10px;
+
+		&::after {
+			display: none;
+		}
+	}
+}
+
+.destaque {
+	font-size: 1.25rem;
+	line-height: 1.8rem;
+	margin-bottom: 30px;
+}
+
+time {
+	font-size: 0.75rem;
+	color: $cor_texto_claro;
+	display: block;
+	margin-bottom: 40px;
+}

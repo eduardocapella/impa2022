@@ -1,0 +1,292 @@
+.main-navigation {
+	display: block;
+
+	ul {
+		display: none;
+		list-style: none;
+		margin: 0;
+		padding-left: 0;
+		background-color: $cor_marca;
+
+		a {
+			color: white;
+		}
+
+		ul {
+			float: left;
+			position: absolute;
+			top: 100%;
+			left: -999em;
+			z-index: 99999;
+
+			ul {
+				left: -999em;
+				top: 0;
+			}
+
+			li {
+				&:hover > ul,
+				&.focus > ul {
+					display: block;
+					left: auto;
+				}
+			}
+
+			a {
+				display: block;
+			}
+
+			:hover > a,
+			.focus > a {
+			}
+
+			a:hover,
+			a.focus {
+			}
+		}
+
+		li:hover > ul,
+		li.focus > ul {
+			left: auto;
+		}
+
+		@include mq(sm) {
+			background-color: white;
+
+			a {
+				color: $cor_texto;
+			}
+		}
+	}
+
+	ul.sub-menu {
+		background-color: darken($cor_marca, 2%);
+		min-width: 240px;
+		display: block;
+
+		padding: 0;
+		margin: 0;
+		// font-size: 1rem;
+		color: white;
+		text-align: left;
+		list-style: none;
+		background-clip: padding-box;
+		// border: 1px solid rgba(0, 0, 0, 0.15);
+
+		li {
+			border-bottom: 1px solid rgba($cor_linhas, 0.3);
+		}
+
+		a {
+			display: block;
+			width: 100%;
+			padding: 14px 12px;
+			color: white;
+			line-height: 1.2rem;
+
+			transition: all 0.2s ease-in-out;
+
+			&:hover {
+				background-color: darken($cor_marca, 4%);
+				color: white;
+				transition: all 0.2s ease-in-out;
+			}
+
+			@include mq(mobile) {
+				color: white !important;
+			}
+		}
+
+		@include mq(mobile) {
+			position: static;
+			width: 100%;
+		}
+	}
+
+	li {
+		position: relative;
+
+		&:hover > a,
+		&.focus > a {
+		}
+	}
+
+	a {
+		display: block;
+		text-transform: uppercase;
+		text-decoration: none;
+		color: $cor_texto;
+		padding: 8px 11px;
+	}
+
+	.current_page_item > a,
+	.current-menu-item > a,
+	.current_page_ancestor > a,
+	.current-menu-ancestor > a {
+	}
+}
+
+li.menu-item-has-children > a::after {
+	display: inline-block;
+	font-family: 'Font Awesome 5 Free';
+	content: '\f0d7';
+	margin-left: 9px;
+}
+
+/* Small menu. */
+.menu-toggle,
+.main-navigation.toggled ul {
+	display: block;
+
+	@include mq(mobile) {
+		display: block;
+		background-color: transparent;
+		padding: 10px;
+		border: none;
+		color: white;
+		font-size: 1.4rem;
+
+		position: static;
+		width: 100%;
+	}
+}
+
+.menu-toggle {
+	@include mq(mobile) {
+		position: absolute;
+		top: 20px;
+		left: 15px;
+		width: auto;
+	}
+}
+
+@media screen and (min-width: 37.5em) {
+	.menu-toggle {
+		display: none;
+	}
+
+	.main-navigation ul {
+		display: flex;
+		// gap: 35px;
+
+		> li {
+			a {
+				padding-left: 20px;
+				padding-right: 20px;
+				&:hover {
+					color: white;
+					background-color: $cor_marca;
+				}
+			}
+		}
+	}
+}
+
+.comment-navigation,
+.posts-navigation,
+.post-navigation {
+	.site-main & {
+		margin: 0 0 1.5em;
+	}
+
+	.nav-links {
+		display: flex;
+	}
+
+	.nav-previous {
+		flex: 1 0 50%;
+	}
+
+	.nav-next {
+		text-align: end;
+		flex: 1 0 50%;
+	}
+}
+
+/* wpml menu */
+.wpml-ls-display {
+	display: none;
+}
+
+.wpml-ls-current-language {
+	text-decoration: underline;
+}
+
+.wpml-ls-legacy-list-horizontal a {
+	padding: 5px 0;
+}
+
+/* SEARCH */
+#search-field {
+	display: none;
+
+	padding: 20px;
+	background-color: black;
+	position: absolute;
+	top: 84px;
+	left: 0;
+	width: 100%;
+	opacity: 0.8;
+
+	z-index: 10;
+
+	form {
+		position: relative;
+	}
+
+	input[type='search'] {
+		width: 100%;
+
+		&:focus-visible {
+			outline: 0;
+		}
+	}
+
+	.search-submit {
+		position: absolute;
+		right: 0px;
+		z-index: 5;
+		top: 1px;
+		border: none;
+		text-transform: uppercase;
+		font-size: 0.765rem;
+		background-color: transparent;
+		line-height: 22px;
+		vertical-align: middle;
+		width: 100px;
+		height: 32px;
+		display: block;
+	}
+}
+
+.redes-sociais {
+	@extend %reseta-lista;
+
+	display: flex;
+	gap: 18px;
+}
+
+.idiomas {
+	text-align: center;
+	margin-bottom: 11px;
+
+	a {
+		font-size: 0.8rem;
+		letter-spacing: 2px;
+	}
+
+	li:first-child a::after {
+		display: inline-block;
+		content: '/';
+		margin-left: 5px;
+		margin-right: 5px;
+		color: white;
+	}
+}
+
+.wpml-ls-legacy-list-horizontal {
+	border: none;
+	padding: 0;
+	margin-bottom: 6px;
+	margin-right: 10px;
+}

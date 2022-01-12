@@ -1,0 +1,71 @@
+.single-livros {
+	.content {
+		margin-top: 50px;
+	}
+
+	h2 {
+		margin-top: 0;
+		text-align: left;
+		text-transform: initial;
+
+		&::after {
+			display: none;
+		}
+	}
+
+	h3 {
+		font-size: 0.9rem;
+		line-height: 1.5rem;
+		text-align: left;
+		text-transform: uppercase;
+		margin-bottom: 0;
+		margin-top: 35px;
+		padding-top: 0;
+	}
+
+	h3 + p,
+	h3 + ul {
+		margin-top: 0;
+	}
+}
+
+.livros-relacionados {
+	margin-bottom: 0;
+
+	h5 {
+		margin-top: 10px;
+		font-size: 1rem;
+		line-height: 1.375rem;
+		margin-bottom: 0;
+
+		a {
+			color: $cor_texto;
+			text-decoration: none;
+		}
+	}
+}
+
+#h_editora {
+	text-align: center;
+
+	.wp-block-buttons {
+		justify-content: center;
+	}
+}
+
+.publicacoes {
+	@extend %reseta-lista;
+
+	margin-top: 30px;
+
+	h4 {
+		font-size: 1rem;
+		line-height: 1.25rem;
+		margin-top: 10px;
+	}
+}
+
+.publicacoes.row {
+	margin-left: -15px;
+	margin-right: -15px;
+}

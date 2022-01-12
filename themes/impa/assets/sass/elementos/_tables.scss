@@ -1,0 +1,20 @@
+table {
+	border: 1px solid $cor_linhas;
+
+	tr {
+		border: 1px solid $cor_linhas;
+	}
+
+	td {
+		border: 1px solid $cor_linhas;
+		padding: 5px 10px;
+
+		&:first-child {
+			min-width: 100px;
+		}
+	}
+
+	td[rowspan] {
+		border: 1px solid $cor_linhas !important;
+	}
+}

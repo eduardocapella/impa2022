@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IMPA 2022\n"
+"POT-Creation-Date: 2021-12-22 14:30-0300\n"
+"PO-Revision-Date: 2022-01-05 15:23-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:20 front-page.php:30 home.php:40 index.php:12 page.php:22
+#: single-eventos.php:134 single-livros.php:88 single.php:35
+#: taxonomy-tipos-de-eventos.php:21
+msgid "Sorry, no posts matched your criteria."
+msgstr "Desculpe, nenhum post corresponde aos seus critérios de busca."
+
+#: footer.php:24
+msgid "Follow IMPA"
+msgstr "Acompanhe o IMPA"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Primário"
+
+#: functions.php:54
+msgid "Footer"
+msgstr "Rodapé"
+
+#: functions.php:128
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: functions.php:130
+msgid "Add widgets here."
+msgstr "Adicione widgets aqui."
+
+#: header.php:15
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: home.php:34
+msgid "Back"
+msgstr "Anterior"
+
+#: home.php:35
+msgid "Onward"
+msgstr "Seguinte"
+
+#: inc/cpts/cpt-autor.php:11
+msgctxt "post type general name"
+msgid "Authors"
+msgstr "Autores"
+
+#: inc/cpts/cpt-autor.php:12
+msgctxt "post type singular name"
+msgid "Author"
+msgstr "Autor"
+
+#: inc/cpts/cpt-autor.php:13 inc/cpts/cpt-divulgacao-da-matematica.php:13
+#: inc/cpts/cpt-evento-cientifico.php:13 inc/cpts/cpt-livro.php:13
+#: inc/cpts/cpt-speaker.php:13
+msgctxt "Novo item"
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: inc/cpts/cpt-autor.php:14 inc/cpts/cpt-autor.php:16
+#: inc/cpts/cpt-divulgacao-da-matematica.php:14
+#: inc/cpts/cpt-divulgacao-da-matematica.php:16
+#: inc/cpts/cpt-evento-cientifico.php:14 inc/cpts/cpt-evento-cientifico.php:16
+#: inc/cpts/cpt-livro.php:14 inc/cpts/cpt-livro.php:16
+#: inc/cpts/cpt-speaker.php:14 inc/cpts/cpt-speaker.php:16
+msgid "New Item"
+msgstr "Novo Item"
+
+#: inc/cpts/cpt-autor.php:15 inc/cpts/cpt-divulgacao-da-matematica.php:15
+#: inc/cpts/cpt-evento-cientifico.php:15 inc/cpts/cpt-livro.php:15
+#: inc/cpts/cpt-speaker.php:15
+msgid "Edit Item"
+msgstr "Editar Item"
+
+#: inc/cpts/cpt-autor.php:17 inc/cpts/cpt-divulgacao-da-matematica.php:17
+#: inc/cpts/cpt-evento-cientifico.php:17 inc/cpts/cpt-livro.php:17
+#: inc/cpts/cpt-speaker.php:17
+msgid "See Item"
+msgstr "Ver Item"
+
+#: inc/cpts/cpt-autor.php:18 inc/cpts/cpt-divulgacao-da-matematica.php:18
+#: inc/cpts/cpt-evento-cientifico.php:18 inc/cpts/cpt-livro.php:18
+#: inc/cpts/cpt-speaker.php:18
+msgid "Search Itens"
+msgstr "Procurar Itens"
+
+#: inc/cpts/cpt-autor.php:19 inc/cpts/cpt-divulgacao-da-matematica.php:19
+#: inc/cpts/cpt-evento-cientifico.php:19 inc/cpts/cpt-livro.php:19
+#: inc/cpts/cpt-speaker.php:19
+msgid "No record found"
+msgstr "Nenhum registro encontrado"
+
+#: inc/cpts/cpt-autor.php:20 inc/cpts/cpt-livro.php:20
+#: inc/cpts/cpt-speaker.php:20
+msgid "Nenhum registro encontrado na lixeira"
+msgstr "Nenhum encontrado registro na lixeira"
+
+#: inc/cpts/cpt-autor.php:22 single-livros.php:23 single-livros.php:45
+msgid "Authors"
+msgstr "Autores"
+
+#: inc/cpts/cpt-divulgacao-da-matematica.php:11
+msgctxt "post type general name"
+msgid "Outreach"
+msgstr "Divulgação da Matemática"
+
+#: inc/cpts/cpt-divulgacao-da-matematica.php:12
+msgctxt "post type singular name"
+msgid "Outreach"
+msgstr "Divulgação da Matemática"
+
+#: inc/cpts/cpt-divulgacao-da-matematica.php:20
+#: inc/cpts/cpt-evento-cientifico.php:20
+msgid "No record found in trash"
+msgstr "Nenhum registro encontrado na lixeira"
+
+#: inc/cpts/cpt-divulgacao-da-matematica.php:22
+msgid "Outreach"
+msgstr "Divulgação da Matemática"
+
+#: inc/cpts/cpt-evento-cientifico.php:11
+msgctxt "post type general name"
+msgid "Scientific Events"
+msgstr "Eventos Científicos"
+
+#: inc/cpts/cpt-evento-cientifico.php:12
+msgctxt "post type singular name"
+msgid "Scientific Event"
+msgstr "Evento Científico"
+
+#: inc/cpts/cpt-evento-cientifico.php:22
+msgid "Scientific Events"
+msgstr "Eventos Científicos"
+
+#: inc/cpts/cpt-livro.php:11
+msgctxt "post type general name"
+msgid "Books"
+msgstr "Livros"
+
+#: inc/cpts/cpt-livro.php:12
+msgctxt "post type singular name"
+msgid "Book"
+msgstr "Livro"
+
+#: inc/cpts/cpt-livro.php:22
+msgid "Books"
+msgstr "Livros"
+
+#: inc/cpts/cpt-livro.php:53
+msgctxt "taxonomy general name"
+msgid "Book Collections"
+msgstr "Coleções de Livro"
+
+#: inc/cpts/cpt-livro.php:54
+msgctxt "taxonomy singular name"
+msgid "Book Collection"
+msgstr "Coleção de Livros"
+
+#: inc/cpts/cpt-livro.php:55
+msgid "Search Book Collections"
+msgstr "Pesquisar por Coleções de Livros"
+
+#: inc/cpts/cpt-livro.php:56
+msgid "All Book Collections"
+msgstr "Todas as Coleções de Livros"
+
+#: inc/cpts/cpt-livro.php:57
+msgid "Parent Book Collection"
+msgstr ""
+
+#: inc/cpts/cpt-livro.php:58
+msgid "Parent Book Collection:"
+msgstr ""
+
+#: inc/cpts/cpt-livro.php:59
+msgid "Edit Book Collection"
+msgstr "Editar coleção de livros"
+
+#: inc/cpts/cpt-livro.php:60
+msgid "Update Book Collection"
+msgstr "Atualizar Coleção de Livros"
+
+#: inc/cpts/cpt-livro.php:61
+msgid "Add New Book Collection"
+msgstr "Adicionar nova coleção de livros"
+
+#: inc/cpts/cpt-livro.php:62
+msgid "New Book Collection Name"
+msgstr "Nome da nova coleção de livros"
+
+#: inc/cpts/cpt-livro.php:63
+msgid "Book Collections"
+msgstr "Coleções de Livro"
+
+#: inc/cpts/cpt-speaker.php:11
+msgctxt "post type general name"
+msgid "Speakers"
+msgstr "Palestrantes"
+
+#: inc/cpts/cpt-speaker.php:12
+msgctxt "post type singular name"
+msgid "Speaker"
+msgstr "Palestrante"
+
+#: inc/cpts/cpt-speaker.php:22
+msgid "Speakers"
+msgstr "Palestrantes"
+
+#: inc/fn/fn-ultimas-noticias.php:14
+msgid "News"
+msgstr "Notícias"
+
+#: inc/fn/fn-ultimas-noticias.php:30
+msgid "See more news"
+msgstr "Ver mais notícias"
+
+#: inc/translation-resources.php:4
+msgid "Jan"
+msgstr "Jan"
+
+#: inc/translation-resources.php:5
+msgid "Feb"
+msgstr "Fev"
+
+#: inc/translation-resources.php:6
+msgid "Mar"
+msgstr "Mar"
+
+#: inc/translation-resources.php:7
+msgid "Apr"
+msgstr "Abr"
+
+#: inc/translation-resources.php:8
+msgid "May"
+msgstr "Mai"
+
+#: inc/translation-resources.php:9
+msgid "Jun"
+msgstr "Jun"
+
+#: inc/translation-resources.php:10
+msgid "Jul"
+msgstr "Jul"
+
+#: inc/translation-resources.php:11
+msgid "Aug"
+msgstr "Ago"
+
+#: inc/translation-resources.php:12
+msgid "Sep"
+msgstr "Set"
+
+#: inc/translation-resources.php:13
+msgid "Oct"
+msgstr "Out"
+
+#: inc/translation-resources.php:14
+msgid "Nov"
+msgstr "Nov"
+
+#: inc/translation-resources.php:15
+msgid "Dec"
+msgstr "Dez"
+
+#: searchform.php:3 searchform.php:4
+msgid "Search"
+msgstr "Pesquisa"
+
+#: single-autores.php:15
+msgid "Books published"
+msgstr "Livros publicados"
+
+#: single-eventos.php:50
+msgid "Start"
+msgstr "Início"
+
+#: single-eventos.php:61
+msgid "End"
+msgstr "Fim"
+
+#: single-eventos.php:75
+msgid "Local"
+msgstr "Local"
+
+#: single-eventos.php:102
+msgid "Subscribe"
+msgstr "Inscreva-se"
+
+#: single-livros.php:26
+msgid "Description"
+msgstr "Descrição"
+
+#: single-livros.php:29
+msgid "Target Audience"
+msgstr "Público-alvo"
+
+#: single-livros.php:32
+msgid "Content"
+msgstr "Conteúdo"
+
+#: single-livros.php:40
+msgid "Product Details"
+msgstr "Detalhes"
+
+#: single-livros.php:42
+msgid "Name"
+msgstr "Nome"
+
+#: single-livros.php:50
+msgid "Pages: "
+msgstr "Páginas: "
+
+#: single-livros.php:54
+msgid "Publication: "
+msgstr "Publicação: "
+
+#: single-livros.php:58
+msgid "ISBN: "
+msgstr "ISBN: "
+
+#: single-livros.php:62
+msgid "Format: "
+msgstr "Formato: "
+
+#: single-livros.php:68
+msgid "Edition"
+msgstr "Edição"
+
+#: single-livros.php:78
+msgid "Related Books"
+msgstr "Livros Relacionados"
+
+#. Theme Name of the plugin/theme
+msgid "IMPA 2022"
+msgstr "IMPA 2022"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.capellaweb.com.br"
+msgstr "https://www.capellaweb.com.br"
+
+#. Description of the plugin/theme
+msgid "Tema criado para o novo site do IMPA."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CapellaWeb"
+msgstr "Capellaweb"
+
+#~ msgid "Events"
+#~ msgstr "Eventos"
+
+#~ msgctxt "post type general name"
+#~ msgid "Events"
+#~ msgstr "Eventos"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Event"
+#~ msgstr "Evento"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Event Types"
+#~ msgstr "Tipos de eventos"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Event Type"
+#~ msgstr "Tipo de Evento"
+
+#~ msgid "Search Event Types"
+#~ msgstr "Procurar por Tipos de Evento"
+
+#~ msgid "All Event Types"
+#~ msgstr "Todos os Tipos de Eventos"
+
+#~ msgid "Parent Event Type"
+#~ msgstr "Tipo de evento pai"
+
+#~ msgid "Parent Event Type:"
+#~ msgstr "Tipo de evento pai:"
+
+#~ msgid "Edit Event Type"
+#~ msgstr "Editar Tipo de Evento"
+
+#~ msgid "Update Event Type"
+#~ msgstr "Atualizar Tipo de Evento"
+
+#~ msgid "Add New Event Type"
+#~ msgstr "Adicionar Tipo de Evento"
+
+#~ msgid "New Event Type Name"
+#~ msgstr "Novo nome do tipo de evento"
+
+#~ msgid "Event Types"
+#~ msgstr "Tipos de eventos"
+
+#~ msgid "OCT"
+#~ msgstr "OUT"
+
+#~ msgid "Social Media"
+#~ msgstr "Redes Sociais"
+
+#~ msgid "Conctats"
+#~ msgstr "Contatos"
+
+#~ msgid "Government Logos"
+#~ msgstr "Logos do Governo"

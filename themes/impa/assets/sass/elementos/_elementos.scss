@@ -1,0 +1,143 @@
+@import 'header';
+@import 'footer';
+@import 'tables';
+
+a {
+	text-decoration: underline;
+	color: $cor_marca;
+	transition: all 0.2s ease-in-out;
+	&:hover {
+		transition: all 0.2s ease-in-out;
+		color: lighten($cor_marca, 20%);
+	}
+}
+
+#page {
+	figure {
+		margin: 0;
+		position: relative;
+
+		img {
+			display: block;
+			margin-bottom: 0;
+			border: 1px solid $cor_linhas;
+		}
+	}
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+section {
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+	h3 {
+		padding-top: 0;
+		margin-bottom: 20px;
+	}
+
+	.wp-block-buttons {
+		justify-content: center;
+	}
+}
+
+#breadcrumbs {
+	background-color: #f8f8f8;
+	text-transform: uppercase;
+	font-size: 0.625rem;
+	margin-top: 0;
+	padding: 0 15px;
+
+	p {
+		margin: 0;
+		padding-top: 0.25rem;
+		padding-bottom: 0.25rem;
+		line-height: 1rem;
+		border-top: 1px solid #dadada;
+	}
+
+	a {
+		color: $cor_texto_claro;
+		text-decoration: underline;
+	}
+}
+
+a {
+	figure {
+		overflow: hidden;
+		img {
+			transition: all 0.2s ease-in-out;
+			&:hover {
+				transition: all 0.2s ease-in-out;
+				transform: scale(1.2) rotate(-2deg);
+			}
+		}
+	}
+}
+
+#h_impa {
+	text-align: center;
+	background-color: black;
+	color: white;
+	text-align: center;
+
+	& > * {
+		color: white;
+	}
+}
+
+section:nth-child(even) {
+	background-color: #f8f8f8;
+}
+
+.secao-evento:nth-child(odd) {
+	background-color: #f8f8f8;
+}
+.secao-evento:nth-child(even) {
+	background-color: white;
+}
+
+#h_videos {
+	text-align: center;
+}
+
+#h_apoiadores {
+	.publicacoes {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 15px;
+
+		li {
+			flex-basis: calc(50% - 15px);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			height: 100px;
+			padding-left: 20px;
+			padding-right: 20px;
+			// margin-left: auto;
+			// margin-right: auto;
+
+			border-radius: 10px;
+			border: 1px solid $cor_linhas;
+			background-color: white;
+
+			@include mq(sm) {
+				width: fit-content;
+				max-width: 25%;
+				flex-basis: auto;
+			}
+		}
+		figure {
+			img {
+				display: block;
+				border: 0;
+				max-height: 50px;
+			}
+		}
+	}
+}

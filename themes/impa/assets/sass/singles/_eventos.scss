@@ -1,0 +1,412 @@
+// .single-eventos-cientificos {
+// 	h2 {
+//
+//
+// 		&::after {
+// 			display: block;
+// 			content: '';
+// 			height: 1px;
+// 			background-color: $cor_linhas;
+// 			margin-bottom: 8px;
+// 		}
+//
+// 		@include mq(sm) {
+// 			margin-top: -55px;
+// 		}
+// 	}
+//
+//
+// }
+
+.post-type-archive-eventos-cientificos {
+	h2 {
+		&::after {
+			background-color: $cor_eventos;
+		}
+	}
+}
+
+.evento-dados {
+	padding: 30px 15px;
+	text-align: center;
+	font-size: 1rem;
+	background-color: lighten($cor_bg_secao, 3%);
+	text-transform: uppercase;
+
+	.datas {
+		border: 1px solid $cor_linhas;
+		display: flex;
+		align-content: center;
+		justify-content: center;
+
+		time {
+			flex-basis: 50%;
+			margin-bottom: 0;
+			padding: 7px;
+
+			&:first-child {
+				// background-color: $cor_marca;
+				// color: white;
+				border-right: 1px solid $cor_linhas;
+			}
+		}
+	}
+
+	.day {
+		color: $cor_marca;
+		font-size: 1.375rem;
+		font-weight: bold;
+	}
+
+	.box {
+		border: 1px solid $cor_linhas;
+		padding: 12px;
+		padding-top: 25px;
+
+		p {
+			margin-top: 0;
+			margin-bottom: 10px;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		ul {
+			margin-bottom: 0;
+		}
+	}
+
+	.box + .box {
+		margin-top: 40px;
+	}
+
+	.bold {
+		margin-top: 0;
+	}
+
+	.wp-block-button__link {
+		width: 100%;
+		border-radius: 0;
+		background-color: $cor_marca;
+		font-size: 1.125rem;
+		color: white;
+		margin-top: 25px;
+	}
+
+	@include mq(sm) {
+		font-size: 0.75rem;
+	}
+}
+
+.year {
+	margin-top: -1px;
+	margin-bottom: 10px;
+	font-size: 1rem;
+	border: 1px solid $cor_linhas;
+}
+
+.evento-descricao {
+	& > * {
+		margin-left: 20px;
+	}
+}
+
+.evento-titulo {
+	padding: 0;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.single-eventos-cientificos {
+	h2 {
+		margin-top: -50px;
+		padding: 20px 30px;
+		padding-bottom: 0;
+		background-color: white;
+		z-index: 50;
+		position: relative;
+		text-transform: capitalize;
+		color: $cor_texto;
+		font-weight: bold;
+
+		margin-bottom: 0;
+		font-size: 2rem;
+
+		&::after {
+			display: none;
+		}
+	}
+
+	.content {
+		margin-top: 40px;
+	}
+
+	.subtitulo {
+		margin-top: 6px;
+		border-top: 1px solid $cor_linhas;
+		text-align: center;
+		padding-top: 8px;
+		max-width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.no-post-thumbnail {
+		h2 {
+			margin-top: 50px;
+		}
+	}
+}
+
+.evento-conteudo {
+	margin-bottom: 50px;
+}
+
+.lista-de-pessoas {
+	@extend %reseta-lista;
+	text-align: center;
+
+	h4 {
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 1rem;
+		line-height: 1.4rem;
+		margin-bottom: 5px;
+	}
+
+	p {
+		font-size: 0.875rem;
+		margin-top: 0;
+	}
+}
+
+.secao-evento {
+	.wp-block-buttons {
+		justify-content: center;
+	}
+
+	.wp-block-button {
+		min-width: 300px;
+	}
+
+	.wp-block-button__link {
+		width: 100%;
+		border-radius: 0;
+		background-color: #074b87;
+		font-size: 1.125rem;
+		color: #fff;
+		// margin-top: 25px;
+	}
+}
+
+.evento-local {
+	&::before {
+		content: '\f3c5';
+	}
+}
+.evento-email {
+	&::before {
+		content: '\f0e0';
+	}
+}
+
+.evento-local,
+.evento-email {
+	position: relative;
+	margin-top: 40px;
+
+	&::before {
+		display: block;
+		padding: 5px;
+		width: 36px;
+		height: 36px;
+		border-radius: 50% 50%;
+		background-color: lighten($cor_bg_secao, 3%);
+
+		font-family: 'Font Awesome 5 Free';
+		font-size: 1.2rem;
+
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: -18px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.foto-de-grupo {
+	@extend %reseta-lista;
+
+	li {
+		margin-bottom: 30px;
+	}
+}
+
+section.section-eventos {
+	background-color: #f2f2f2;
+}
+
+.eventos {
+	--gap: 30px;
+	@extend %reseta-lista;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 1140px;
+	gap: var(--gap);
+	margin-left: auto;
+	margin-right: auto;
+
+	li {
+		padding: 50px 20px;
+		padding-bottom: 20px;
+		background-color: white;
+		position: relative;
+		margin-left: 15px;
+		margin-right: 15px;
+
+		@include mq(md) {
+			flex-basis: calc(100% / 3 - var(--gap));
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+
+	h3 {
+		text-align: left;
+		font-size: 1.25rem;
+		line-height: 1.5rem;
+		padding-top: 0;
+		margin-bottom: 0;
+
+		&::after {
+			display: block;
+			width: 40px;
+			height: 5px;
+			margin-bottom: 10px;
+			margin-top: 10px;
+			content: '';
+			background-color: $cor_eventos;
+		}
+	}
+
+	.inicio {
+		position: absolute;
+		left: 10px;
+		top: 10px;
+		width: 70px;
+		text-align: center;
+		z-index: 5;
+		background-color: white;
+		border: 1px solid $cor_linhas;
+
+		time {
+			font-weight: 700;
+			font-size: 1.0625rem;
+			text-transform: uppercase;
+			display: inline-block;
+			margin-bottom: 0;
+			display: block;
+		}
+
+		.ano {
+			font-size: 0.875rem;
+		}
+		.dia {
+			background-color: $cor_eventos;
+			color: white;
+			font-size: 2.3125rem;
+			line-height: 45px;
+			vertical-align: middle;
+			height: 45px;
+		}
+		.mes {
+			font-size: 1.0625rem;
+		}
+	}
+
+	.eventos-content {
+		max-width: 90%;
+		margin-top: -20px;
+		padding: 15px;
+		background: white;
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+
+		h3 {
+			a {
+				color: $cor_texto;
+				text-decoration: none;
+
+				&:hover {
+				}
+			}
+		}
+		p {
+			margin-top: 0;
+		}
+	}
+}
+
+span.bairro::after,
+span.cidade::after {
+	content: ' - ';
+	display: inline;
+}
+
+.filtro-anos {
+	@extend %reseta-lista;
+	display: flex;
+	gap: 20px;
+	justify-content: center;
+	margin-bottom: 30px;
+
+	li {
+		button {
+			cursor: pointer;
+			border: 2px solid $cor_eventos;
+			padding: 10px 15px;
+			background-color: $cor_eventos;
+			color: white;
+			text-decoration: none;
+			text-transform: uppercase;
+			transition: all 0.2s ease-in-out;
+
+			&:hover {
+				background-color: darken($cor_eventos, 5%);
+			}
+		}
+	}
+
+	.selecionado {
+		cursor: initial;
+		background-color: white;
+		color: $cor_eventos;
+		&:hover {
+			background-color: white;
+		}
+	}
+}
+
+/*
+
+grid cinza/branco/cinza
+
+&:nth-child(3n + 2) {
+	border-left: 1px solid $cor_linhas;
+	border-right: 1px solid $cor_linhas;
+}
+
+&:nth-child(even) {
+	background-color: $cor_bg_breadcrumb;
+}
+
+&:last-child {
+	border-right: 0;
+}
+
+*/
