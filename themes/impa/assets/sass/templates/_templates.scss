@@ -3,7 +3,7 @@ section.zigue-zague {
 	background-color: transparent;
 
 	&:nth-child(odd) {
-		.row {
+		.row.zigue-zague-linha {
 			@extend %gradiente-section-40-60;
 
 			.zigue-zague-conteudo {
@@ -16,7 +16,7 @@ section.zigue-zague {
 	}
 
 	&:nth-child(even) {
-		.row {
+		.row.zigue-zague-linha {
 			@extend %gradiente-section-60-40;
 
 			.zigue-zague-conteudo {
@@ -38,7 +38,7 @@ section.zigue-zague {
 		}
 	}
 
-	.row {
+	.row.zigue-zague-linha {
 		padding-top: 50px;
 		padding-bottom: 50px;
 		align-items: center;
@@ -52,14 +52,14 @@ section.zigue-zague {
 
 section.zigue-zague.branco {
 	background-color: white;
-	.row {
+	.row.zigue-zague-linha {
 		background: white !important;
 	}
 }
 
 section.zigue-zague.cinza {
 	background-color: $cor_bg_secao;
-	.row {
+	.row.zigue-zague-linha {
 		background: $cor_bg_secao !important;
 	}
 }

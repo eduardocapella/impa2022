@@ -77,15 +77,40 @@ get_header();
 							
 						<div class="row local">
 							<div class="col-sm-12">
-<!-- 								<p class="bold"><?php // echo __( 'Local', 'impa' ); ?></p> -->
+								
 								<div class="box evento-local">
 									<?php $local = get_field( 'evento_local_do_evento' ); ?>
 									
 									<?php if ( $local['local'] ) { ?>
-									<p class="bold"><?php echo $local['local'] ?></p>
+									<p class="bold"><?php echo $local[ 'local' ] ?></p>
 									<?php } ?>
 									
-									<p><?php echo $local['bairro'] . '<br>' . $local['cidade'] . ' - ' . $local['estado'] ?></p>
+									<?php
+									$bairro_cidade_estado = [];
+									$separadores = [ '<br>', '|' ];
+									
+									echo '<p>';
+									
+									if ( $local[ 'bairro' ] ) { 
+										// array_push( $bairro_cidade_estado, $local[ 'bairro' ] );
+										echo $local[ 'bairro' ] . '<br>';
+									}
+									
+									if ( $local[ 'cidade' ] ) { 
+										array_push( $bairro_cidade_estado, $local[ 'cidade' ] );
+									}
+									
+									if ( $local[ 'estado' ] ) { 
+										array_push( $bairro_cidade_estado, $local[ 'estado' ] );
+									}
+									
+									echo implode( ' - ', $bairro_cidade_estado );
+									// print_r( $bairro_cidade_estado );
+									
+									echo '</p>';
+									
+									?>
+
 								</div>
 								<!-- /.datas -->
 									
@@ -171,6 +196,11 @@ get_header();
 							if( $tipo_de_conteudo == 'Logos de Parceiros ou Apoiadores' ) {
 								secao_parceiros();
 							}
+							
+							if( $tipo_de_conteudo == 'Conteúdo Livre' ) {
+								conteudo_livre();
+							}
+							
 							?>
 							</div>
 							<!-- /.col-sm-12 -->
@@ -186,7 +216,7 @@ get_header();
 			<?php
 		// No value.
 		else :
-		 	// Do something...
+			 // Do something...
 		endif;
 	
 	?>

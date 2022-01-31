@@ -147,7 +147,12 @@ function impa_scripts() {
 	
 	/* FONT AWESOME */
 	wp_enqueue_script( 'font-awesome', 'https://kit.fontawesome.com/0d1506af8d.js', array(), true );
-
+	
+	/* BOOTSTRAP JS */
+	if ( is_page( 'como-ingressar') || is_page( 'videos' ) ) {
+	wp_enqueue_script( 'bootstrap', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array ( 'jquery' ), _S_VERSION, true );
+	}
+	
 	wp_enqueue_script( 'impa-navigation', get_template_directory_uri() . '/assets/js/navigation.js', array(), _S_VERSION, true );
 	
 	wp_enqueue_script( 'impa-script', get_template_directory_uri() . '/assets/js/script.js', array ( 'jquery' ), _S_VERSION, true );
@@ -160,6 +165,24 @@ function my_custom_admin_css() {
 	wp_enqueue_style( 'style-admin', get_template_directory_uri() . '/style-admin.css', array(), _S_VERSION );
 }
 add_action( 'admin_head', 'my_custom_admin_css' );
+
+
+function wpse_cpt_enqueue( $hook_suffix ){
+	 $cpt = 'vagas';
+
+	 if( in_array( $hook_suffix, array('post.php', 'post-new.php' ) ) ){
+		  $screen = get_current_screen();
+
+		  if( is_object( $screen ) && $cpt == $screen->post_type ) {
+
+				// Register, enqueue scripts and styles here
+				wp_enqueue_script( 'impa-script', get_template_directory_uri() . '/assets/js/vagas.js', array ( 'jquery' ), _S_VERSION, true );
+				
+		  }
+	 }
+}
+
+add_action( 'admin_enqueue_scripts', 'wpse_cpt_enqueue');
 
 
 
@@ -182,6 +205,20 @@ require get_template_directory() . '/inc/cpts/cpt-livro.php';
  * CPT Autor
  */
 require get_template_directory() . '/inc/cpts/cpt-autor.php';
+
+/**
+ * CPT Vagas
+ */
+require get_template_directory() . '/inc/cpts/cpt-vagas.php';
+
+/**
+ * CPT Defesa de Tese
+ */
+require get_template_directory() . '/inc/cpts/cpt-defesa-de-tese.php';
+
+
+
+
 
 /**
  * Functions which enhance the theme by hooking into WordPress.

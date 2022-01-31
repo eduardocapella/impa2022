@@ -167,3 +167,34 @@ function secao_parceiros() {
 	endif;
 		
 }
+
+
+
+function conteudo_livre() {
+	?>
+	<h3><?php the_sub_field( 'titulo_da_secao' ); ?></h3>
+	
+	<?php the_sub_field( 'conteudo_livre' ); ?>
+	
+	<?php
+	// Check rows exists.
+	if( have_rows('conteudo_livre') ):
+		
+		// Loop through rows.
+		while( have_rows('conteudo_livre') ) : the_row();
+			
+			// Load sub field value.
+			$botao_texto = get_sub_field( 'secao_botao_de_download_texto' );
+			$botao_url = get_sub_field( 'secao_botao_de_download_link' );
+			?>
+			
+			<?php the_sub_field( 'conteudo_livre' ); ?>
+			
+			<?php
+		endwhile;
+	
+	else :
+		// Do something
+	endif;
+		
+}

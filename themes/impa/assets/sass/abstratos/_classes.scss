@@ -5,6 +5,11 @@
 	display: none !important;
 }
 
+.no-padding {
+	padding-left: 0;
+	padding-right: 0;
+}
+
 .menu-toggle {
 	background-color: transparent;
 	border: 0;
@@ -218,3 +223,165 @@
 	width: 100%;
 	height: 100%;
 }
+
+#page {
+	.has-thumbnail {
+		h2 + figure {
+			margin-bottom: 40px;
+		}
+	}
+}
+
+// BOOTSTRAP TABS
+.tab-content > .tab-pane {
+	display: none;
+	margin-top: 0;
+
+	padding: 30px;
+
+	& > *:first-of-type {
+		margin-top: 0;
+	}
+}
+
+.fade:not(.show) {
+	opacity: 0;
+}
+.fade {
+	transition: opacity 0.15s linear;
+}
+.tab-content {
+	border: 1px solid #e1e1e1;
+	& > .active {
+		display: block;
+	}
+}
+
+.nav.nav-tabs {
+	@extend %reseta-lista;
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 0;
+
+	> li {
+		width: 100%;
+	}
+
+	button {
+		width: 100%;
+		text-align: left;
+
+		padding: 10px 15px;
+		background-color: $cor_educacao;
+		color: white;
+		border: 1px solid $cor_linhas;
+		border-bottom: 0;
+		position: relative;
+		text-transform: uppercase;
+		font-size: 0.875rem;
+
+		&.active {
+			border-color: $cor_linhas;
+			background-color: white;
+			color: $cor_texto;
+
+			&::before {
+				display: block;
+				content: '';
+				width: 10px;
+				background-color: $cor_marca;
+				position: absolute;
+				left: 0;
+				height: 100%;
+				top: 0;
+			}
+			&::after {
+				display: block;
+				width: 100%;
+				background-color: white;
+				content: '';
+				height: 2px;
+				position: absolute;
+				left: 0;
+				bottom: 0;
+				transform: translateY(2px);
+			}
+
+			@include mq(sm) {
+				&::before {
+					display: none;
+				}
+			}
+		}
+
+		@include mq(sm) {
+			width: auto;
+			text-align: center;
+			border: 1px solid white;
+		}
+	}
+
+	@include mq(sm) {
+		flex-wrap: nowrap;
+
+		li {
+			width: auto;
+		}
+	}
+}
+
+// BOOTSTRAP TABS
+
+// BOOTSTRAP ACCORDION
+
+.accordion {
+	margin-top: 50px;
+}
+.accordion-header {
+	margin-bottom: 0;
+	padding-top: 0;
+	font-size: 1rem;
+	border: 1px solid white;
+	position: relative;
+
+	button {
+		background-color: $cor_marca;
+		color: white;
+		text-align: left;
+		border: 0;
+		display: block;
+		width: 100%;
+		margin: 0;
+		padding: 12px;
+	}
+
+	&::after {
+		display: block;
+		position: absolute;
+		right: 20px;
+		top: -4px;
+		content: '\f107';
+		font-family: 'Font Awesome 5 Free';
+		font-size: 1.2rem;
+		color: white;
+	}
+}
+
+.accordion-item + .accordion-item {
+	h3 {
+		border-top: 0;
+	}
+}
+
+.accordion-collapse {
+	border: 1px solid $cor_linhas;
+	border-top: 0;
+
+	padding: 15px;
+	display: none;
+	&.show {
+		display: block;
+	}
+}
+
+// FIM - BOOTSTRAP ACCORDION

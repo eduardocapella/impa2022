@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: IMPA 2022\n"
-"POT-Creation-Date: 2021-12-22 14:30-0300\n"
-"PO-Revision-Date: 2022-01-05 15:23-0300\n"
+"POT-Creation-Date: 2022-01-19 18:05-0300\n"
+"PO-Revision-Date: 2022-01-19 18:06-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -21,9 +21,14 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
-#: archive.php:20 front-page.php:30 home.php:40 index.php:12 page.php:22
-#: single-eventos.php:134 single-livros.php:88 single.php:35
-#: taxonomy-tipos-de-eventos.php:21
+#: archive-eventos-cientificos.php:50
+msgid "all"
+msgstr "todos"
+
+#: archive-eventos-cientificos.php:127 archive.php:20 front-page.php:35
+#: home.php:40 index.php:12 page-como-ingressar.php:57 page.php:31
+#: single-livros.php:88 single.php:35 taxonomy-tipos-de-eventos.php:21
+#: template-10-colunas.php:25 template-8-colunas.php:32
 msgid "Sorry, no posts matched your criteria."
 msgstr "Desculpe, nenhum post corresponde aos seus critérios de busca."
 
@@ -185,11 +190,11 @@ msgstr "Todas as Coleções de Livros"
 
 #: inc/cpts/cpt-livro.php:57
 msgid "Parent Book Collection"
-msgstr ""
+msgstr "Coleção-Pai de Livros"
 
 #: inc/cpts/cpt-livro.php:58
 msgid "Parent Book Collection:"
-msgstr ""
+msgstr "Coleção-Pai de Livros:"
 
 #: inc/cpts/cpt-livro.php:59
 msgid "Edit Book Collection"
@@ -224,6 +229,14 @@ msgstr "Palestrante"
 #: inc/cpts/cpt-speaker.php:22
 msgid "Speakers"
 msgstr "Palestrantes"
+
+#: inc/fn/fn-atalhos-educacao.php:27
+msgid "Student's Access"
+msgstr "Acesso ao Aluno"
+
+#: inc/fn/fn-atalhos-educacao.php:56
+msgid "Learn more"
+msgstr "Saiba mais"
 
 #: inc/fn/fn-ultimas-noticias.php:14
 msgid "News"
@@ -289,21 +302,13 @@ msgstr "Pesquisa"
 msgid "Books published"
 msgstr "Livros publicados"
 
-#: single-eventos.php:50
+#: single-eventos-cientificos.php:53 template-formato-evento.php:55
 msgid "Start"
 msgstr "Início"
 
-#: single-eventos.php:61
+#: single-eventos-cientificos.php:64 template-formato-evento.php:66
 msgid "End"
 msgstr "Fim"
-
-#: single-eventos.php:75
-msgid "Local"
-msgstr "Local"
-
-#: single-eventos.php:102
-msgid "Subscribe"
-msgstr "Inscreva-se"
 
 #: single-livros.php:26
 msgid "Description"
@@ -349,6 +354,10 @@ msgstr "Edição"
 msgid "Related Books"
 msgstr "Livros Relacionados"
 
+#: template-formato-evento.php:136
+msgid "Subscribe"
+msgstr "Inscreva-se"
+
 #. Theme Name of the plugin/theme
 msgid "IMPA 2022"
 msgstr "IMPA 2022"
@@ -365,6 +374,29 @@ msgstr ""
 #. Author of the plugin/theme
 msgid "CapellaWeb"
 msgstr "Capellaweb"
+
+#. Template Name of the plugin/theme
+msgid "8 colunas */ ?>"
+msgstr "8 colunas */ ?>"
+
+#. Template Name of the plugin/theme
+msgid "10 colunas */ ?>"
+msgstr "10 colunas */ ?>"
+
+#. Template Name of the plugin/theme
+msgid "Formato Evento */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Imagem (E) + Texto (D) */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Seções em ZigZag */ ?>"
+msgstr ""
+
+#~ msgid "Local"
+#~ msgstr "Local"
 
 #~ msgid "Events"
 #~ msgstr "Eventos"

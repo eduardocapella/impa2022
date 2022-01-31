@@ -1,4 +1,5 @@
-table {
+table,
+.tablepress {
 	border: 1px solid $cor_linhas;
 
 	tr {
@@ -6,7 +7,7 @@ table {
 	}
 
 	td {
-		border: 1px solid $cor_linhas;
+		border: 1px solid $cor_linhas !important;
 		padding: 5px 10px;
 
 		&:first-child {
@@ -16,5 +17,24 @@ table {
 
 	td[rowspan] {
 		border: 1px solid $cor_linhas !important;
+	}
+
+	@include mq(md) {
+		width: max-content !important;
+	}
+}
+
+.tabela-prolimpico-programacao {
+	tr:nth-child(2),
+	tr:nth-child(5) {
+		background-color: $cor_linhas;
+	}
+	td {
+		border: 1px solid $cor_linhas !important;
+		padding: 5px 10px !important;
+	}
+
+	td[colspan] {
+		text-align: center;
 	}
 }

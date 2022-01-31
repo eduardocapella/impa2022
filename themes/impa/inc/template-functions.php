@@ -30,8 +30,33 @@ function my_theme_archive_title( $title ) {
   
     return $title;
 }
- 
 add_filter( 'get_the_archive_title', 'my_theme_archive_title' );
+
+
+// Adiciona classe "Educação" - educacao - para determinadas páginas
+add_filter( 'body_class', 'dc_parent_body_class' );
+function dc_parent_body_class( $classes ) {
+   if( is_page() ) { 
+      $parents = get_post_ancestors( get_the_ID() );
+      
+      // caso haja páginas-mãe, 
+      $id = ( $parents ) ? $parents[ count( $parents )-1 ]: get_the_ID();
+      
+      $slug = get_post ( $id );
+      // print_r( $slug );
+         
+      if ( $id ) {
+         $classes[] = 'top-parent-' . $id;
+         // $classes[] = $slug;
+      } else {
+         $classes[] = 'top-parent-' . get_the_ID();
+      }
+      // adiciono o nome da classe pai
+      $classes[] = 'bc-' . $slug->post_name;
+   }
+ 
+   return $classes;
+}
 
 /**
  * Translation Resources
@@ -87,4 +112,19 @@ require get_template_directory() . '/inc/fn/fn-home-editora.php';
  * Function Seções Conteúdo
  */
 require get_template_directory() . '/inc/fn/fn-secoes-de-conteudo.php';
+
+/**
+ * Function Atalhos Educação
+ */
+require get_template_directory() . '/inc/fn/fn-atalhos-educacao.php';
+
+/**
+ * Functions Saiba Mais
+ */
+require get_template_directory() . '/inc/fn/fn-saiba-mais.php';
+
+
+
+
+
 

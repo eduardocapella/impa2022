@@ -21,11 +21,27 @@ h2,
 	}
 }
 
+.has-thumbnail h2,
+.has-thumbnail .h2 {
+	margin-bottom: 40px;
+	&::after {
+		margin-bottom: 40px;
+	}
+}
+
+.bc-educacao,
+.bc-education {
+	h2 {
+		&::after {
+			background-color: $cor_educacao;
+		}
+	}
+}
+
 h3,
 .h3 {
 	font-weight: 800;
 	font-size: 2.5rem;
-	text-align: center;
 	line-height: 3.0625rem;
 
 	margin-bottom: 50px;
@@ -35,8 +51,13 @@ h3,
 	// padding-bottom: 50px;
 }
 
+section h3 {
+	text-align: center;
+}
+
 h4,
 .h4 {
 	font-size: 1.625rem;
 	line-height: 2.125rem;
+	margin-bottom: 0;
 }

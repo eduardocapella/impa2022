@@ -75,15 +75,40 @@ get_header();
 							
 						<div class="row local">
 							<div class="col-sm-12">
-<!-- 								<p class="bold"><?php // echo __( 'Local', 'impa' ); ?></p> -->
+								
 								<div class="box evento-local">
 									<?php $local = get_field( 'evento_local_do_evento' ); ?>
 									
 									<?php if ( $local['local'] ) { ?>
-									<p class="bold"><?php echo $local['local'] ?></p>
+									<p class="bold"><?php echo $local[ 'local' ] ?></p>
 									<?php } ?>
 									
-									<p><?php echo $local['bairro'] . '<br>' . $local['cidade'] . ' - ' . $local['estado'] ?></p>
+									<?php
+									$bairro_cidade_estado = [];
+									$separadores = [ '<br>', '|' ];
+									
+									echo '<p>';
+									
+									if ( $local[ 'bairro' ] ) { 
+										// array_push( $bairro_cidade_estado, $local[ 'bairro' ] );
+										echo $local[ 'bairro' ] . '<br>';
+									}
+									
+									if ( $local[ 'cidade' ] ) { 
+										array_push( $bairro_cidade_estado, $local[ 'cidade' ] );
+									}
+									
+									if ( $local[ 'estado' ] ) { 
+										array_push( $bairro_cidade_estado, $local[ 'estado' ] );
+									}
+									
+									echo implode( ' - ', $bairro_cidade_estado );
+									// print_r( $bairro_cidade_estado );
+									
+									echo '</p>';
+									
+									?>
+
 								</div>
 								<!-- /.datas -->
 									
@@ -106,7 +131,9 @@ get_header();
 								<!-- /.datas -->
 									
 								<div class="wp-block-button is-style-fill">
-									<a href="<?php ?>" class="wp-block-button__link"><?php echo __( 'Subscribe', 'impa' ); ?></a>
+									<a href="<?php echo get_field( 'url_do_botao' ); ?>" class="wp-block-button__link">
+										<?php echo get_field( 'texto_do_botao' ); ?>
+									</a>
 									<!-- /.wp-block-button__link --></div>
 								<!-- /.wp-block-button -->
 
@@ -169,6 +196,11 @@ get_header();
 							if( $tipo_de_conteudo == 'Logos de Parceiros ou Apoiadores' ) {
 								secao_parceiros();
 							}
+							
+							if( $tipo_de_conteudo == 'Conteúdo Livre' ) {
+								conteudo_livre();
+							}
+
 							?>
 							</div>
 							<!-- /.col-sm-12 -->

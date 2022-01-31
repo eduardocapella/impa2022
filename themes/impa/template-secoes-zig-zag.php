@@ -4,6 +4,7 @@
 get_header();
 ?>
 <main id="site-main">
+
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-sm-12">
@@ -20,6 +21,17 @@ get_header();
 		<!-- /.row -->
 	</div>
 	<!-- /.container -->
+		
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12">
+				<?php tem_atalhos_com_icone(); ?>
+			</div>
+			<!-- /.col-sm-12 -->
+		</div>
+		<!-- /.row -->
+	</div>
+	<!-- /.container-fluid -->
 				
 	<?php 
 	// Check rows exists.
@@ -53,12 +65,21 @@ get_header();
 			?>
 			
 			<section class="<?php echo $classe; ?>">
-				<?php if ( get_sub_field('titulo_da_secao' ) ) { ?>
-				<h3><?php the_sub_field( 'titulo_da_secao' ); ?></h3>
-				<?php } ?>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<?php if ( get_sub_field('titulo_da_secao' ) ) { ?>
+							<h3><?php the_sub_field( 'titulo_da_secao' ); ?></h3>
+							<?php } ?>
+						</div>
+						<!-- /.col-sm-12 -->
+					</div>
+					<!-- /.row -->
+				</div>
+				<!-- /.container -->
 				
 				<div class="container">
-					<div class="row justify-content-center">
+					<div class="row justify-content-center zigue-zague-linha">
 						<div class="col-sm-8 zigue-zague-conteudo">
 							<?php the_sub_field( 'conteudo' ); ?>
 							
