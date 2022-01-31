@@ -37,6 +37,6 @@ ehthumbs.db
 Thumbs.db
 
 # WordPress folders to be ignored in this git #
-uploads/*
+uploads/
 
-Applications/MAMP/htdocs/impa2022/wp-content/themes/impa/.nova
+themes/impa/.nova/
