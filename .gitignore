@@ -39,4 +39,4 @@ Thumbs.db
 # WordPress folders to be ignored in this git #
 uploads/
 
-themes/impa/.nova/
+.nova/
