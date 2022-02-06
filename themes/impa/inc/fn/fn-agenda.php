@@ -52,6 +52,9 @@ function exibeAgenda() {
 					
 					$data_obj = DateTime::createFromFormat('d/m/Y g:i a', $data);
 					$data_num = $data_obj->getTimestamp();
+					$data_day = $data_obj->format( 'd' );
+					$data_month = $data_obj->format( 'M' );
+					$data_year = $data_obj->format( 'Y' );
 					
 					if( $today_int > $data_num ) {
 						// echo 'Já ocorreu';
@@ -59,6 +62,15 @@ function exibeAgenda() {
 					}
 					?>
 					<li class="col-sm-4">
+						<div class="header">
+							<div class="data">
+								<time class="year"><?php echo $data_year; ?></time>
+								<time class="day"><?php echo $data_day; ?></time>
+								<time class="month"><?php echo $data_month; ?></time>
+							</div>
+							<!-- /.data -->
+						</div>
+						<!-- /.header -->
 						<h3 class="<?php echo $class; ?>"><?php the_title(); ?></h3>
 						<?php if( $linha1 ) {
 							echo '<p>' . $linha1 . '</p>';

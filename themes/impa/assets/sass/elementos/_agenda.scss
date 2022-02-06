@@ -5,6 +5,8 @@
 		line-height: 1.5rem;
 		font-weight: bold;
 		margin: 0;
+		margin-top: 10px;
+		padding-top: 0;
 
 		&::after {
 			display: block;
@@ -25,6 +27,54 @@
 	.educacao {
 		&::after {
 			background-color: $cor_educacao;
+		}
+	}
+
+	li {
+		padding-bottom: 50px;
+		padding-top: 25px;
+	}
+
+	.header {
+		display: flex;
+		time {
+			margin: 0;
+		}
+		.data {
+			width: 60px;
+			padding: 3px;
+			border: 1px solid $cor_linhas;
+			text-align: center;
+
+			.day {
+				height: 38px;
+				background-color: $cor_linhas;
+				color: white;
+				font-size: 1.75rem;
+				font-weight: bold;
+				line-height: 38px;
+				vertical-align: middle;
+			}
+
+			.year {
+				height: 18px;
+				font-size: 0.75rem;
+				line-height: 16px;
+				vertical-align: middle;
+				border: 0;
+				color: $cor_linhas;
+			}
+
+			.month {
+				height: 20px;
+				line-height: 20px;
+				vertical-align: middle;
+				font-size: 0.875rem;
+				font-weight: 500;
+				text-transform: uppercase;
+				padding-top: 2px;
+				color: $cor_linhas;
+			}
 		}
 	}
 
