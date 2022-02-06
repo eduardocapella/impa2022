@@ -74,4 +74,12 @@ jQuery(document).ready(function ($) {
 			console.log('$cat = ' + $cat);
 		}
 	}
+
+	$('#lista-de-anos a').click(function (e) {
+		e.preventDefault();
+		const $ano = this.text;
+
+		$('#lista-de-defesas li').hide();
+		$('#lista-de-defesas .' + $ano).show();
+	});
 });

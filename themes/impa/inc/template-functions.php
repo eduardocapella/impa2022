@@ -58,6 +58,7 @@ function dc_parent_body_class( $classes ) {
    return $classes;
 }
 
+
 /**
  * Translation Resources
  */
@@ -122,6 +123,11 @@ require get_template_directory() . '/inc/fn/fn-atalhos-educacao.php';
  * Functions Saiba Mais
  */
 require get_template_directory() . '/inc/fn/fn-saiba-mais.php';
+
+/**
+ * Functions Agenda
+ */
+require get_template_directory() . '/inc/fn/fn-agenda.php';
 
 
 

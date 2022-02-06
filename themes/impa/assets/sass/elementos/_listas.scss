@@ -1,0 +1,67 @@
+#lista-de-anos {
+	@extend %reseta-lista;
+	display: flex;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	width: max-content;
+	border: 1px solid $cor_linhas;
+	border-width: 1px 0 0 1px;
+
+	li {
+		border: 1px solid $cor_linhas;
+		border-width: 0 1px 1px 0;
+		width: 60px;
+		text-align: center;
+
+		a {
+			display: block;
+			padding: 5px 8px;
+			text-decoration: none;
+		}
+	}
+}
+
+#lista-de-defesas {
+	@extend %reseta-lista;
+
+	h3 {
+		margin-bottom: 0;
+		padding-top: 0;
+
+		font-size: 1rem;
+		font-weight: normal;
+		line-height: 1.2rem;
+		text-transform: uppercase;
+	}
+	h4 {
+		margin-top: 10px;
+
+		font-size: 1.2rem;
+		line-height: 1.6rem;
+		font-weight: normal;
+	}
+
+	time {
+		display: inline-block;
+		font-size: 1rem;
+		color: inherit;
+		margin-bottom: 0;
+	}
+
+	li {
+		&::after {
+			content: '';
+			display: block;
+			height: 1px;
+			background-color: $cor_linhas;
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
+	}
+
+	p {
+		margin-top: 10px;
+		margin-bottom: 0;
+	}
+}

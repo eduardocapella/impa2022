@@ -1,0 +1,35 @@
+#agenda {
+	@extend %reseta-lista;
+	h3 {
+		font-size: 1.25rem;
+		line-height: 1.5rem;
+		font-weight: bold;
+		margin: 0;
+
+		&::after {
+			display: block;
+			content: '';
+			width: 38px;
+			height: 5px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			background-color: $cor_marca;
+		}
+	}
+
+	.evento {
+		&::after {
+			background-color: $cor_eventos;
+		}
+	}
+	.educacao {
+		&::after {
+			background-color: $cor_educacao;
+		}
+	}
+
+	p {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+}
