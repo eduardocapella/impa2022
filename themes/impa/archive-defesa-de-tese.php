@@ -40,6 +40,7 @@ get_header();
 							$data_defesa = $datas[ 'data_da_defesa' ];
 							$data_defesa_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_defesa);
 							$data_defesa = $data_defesa_obj->format( 'd/m/Y' );
+							
 							$data_concessao = $datas[ 'data_da_concessao_do_grau' ];
 							$data_concessao_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_concessao);
 							$data_concessao = $data_concessao_obj->format( 'd/m/Y' );

@@ -36,6 +36,7 @@ function exibeAgenda() {
 		));
 
 		$seminarios = busca_seminarios();
+		print_r( $seminarios );
 
 		foreach ( $seminarios as $seminario ) {
 			$sem_obj             = new stdClass();
@@ -93,7 +94,7 @@ function exibeAgenda() {
 						$class = 'educacao';
 						$data = get_field( 'dt_datas_data_da_defesa', $post->ID );
 					} else {
-						$class = 'seminario';
+						$class = 'educacao seminario';
 						$data  = $post->post_date;
 					}
 
