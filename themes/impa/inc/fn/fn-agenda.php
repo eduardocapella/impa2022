@@ -36,7 +36,7 @@ function exibeAgenda() {
 		));
 
 		$seminarios = busca_seminarios();
-		print_r( $seminarios );
+		// print_r( $seminarios );
 
 		foreach ( $seminarios as $seminario ) {
 			$sem_obj             = new stdClass();
@@ -44,6 +44,10 @@ function exibeAgenda() {
 			$sem_obj->sem_obj    = $seminario->id;
 			$sem_obj->post_title = $seminario->titulo;
 			$sem_obj->post_type  = 'seminario';
+			$sem_obj->local	   = $seminario->local;
+			$sem_obj->expositor  = $seminario->expositor;
+			$sem_obj->instituicaoExpositor = $seminario->instituicaoExpositor;
+			
 
 			$sem_obj->post_date  = wp_convert_to_timezone( $seminario->dataHora, wp_timezone_string() );
 			$sem_obj->post_date = date( 'd/m/Y g:i a', strtotime( $sem_obj->post_date ) );
@@ -91,11 +95,18 @@ function exibeAgenda() {
 						$linha1 = $linha[ 'local' ];
 
 					} else if( get_field( 'dt_datas_data_da_defesa', $post->ID ) ) {
-						$class = 'educacao';
+						$class = 'defesa-de-tese';
 						$data = get_field( 'dt_datas_data_da_defesa', $post->ID );
+						$linha = get_field( 'dt_aluno', $post->ID );
+						$linha1 = $linha[ 'nome' ];
 					} else {
-						$class = 'educacao seminario';
+						$class = 'seminario';
 						$data  = $post->post_date;
+						$aluno = $post->expositor;
+						// $hora  = $data->format( 'g:i' );
+						$local = $post->local;
+						
+						$linha1 = $aluno;
 					}
 
 					$data_obj   = DateTime::createFromFormat( 'd/m/Y g:i a', $data );
@@ -103,26 +114,58 @@ function exibeAgenda() {
 					$data_day   = $data_obj->format( 'd' );
 					$data_month = $data_obj->format( 'M' );
 					$data_year  = $data_obj->format( 'Y' );
+					$data_hour  = $data_obj->format( 'G:i');
+
+					if ( $post->post_type == 'eventos-cientificos' ) {
+						$dados_do_local = get_field( 'evento_local_do_evento', $post->ID );
+						
+						$bairro = $dados_do_local[ 'bairro' ];
+						$cidade = $dados_do_local[ 'cidade' ];
+						$estado = $dados_do_local[ 'estado' ];
+						
+						$linha2 = [];
+						
+						if( $bairro ) { array_push( $linha2, $bairro ); }
+						if( $cidade ) { array_push( $linha2, $cidade ); }
+						if( $estado ) { array_push( $linha2, $estado ); }
+						
+						$linha2 = implode( ' - ', $linha2 );
+						
+					} else if ( $post->post_type == 'defesa-de-tese' ) {
+						$linha2 = '';
+					} else {
+						$linha2 = $data_hour . ' | ' . $local;
+					}
 
 					if( $today_int > $data_num ) {
 						// echo 'Já ocorreu';
 						continue;
 					}
 					?>
-					<li class="col-sm-4">
+					<li class="col-sm-4 <?php echo $class ?>">
 						<div class="header">
 							<div class="data">
 								<time class="year"><?php echo $data_year; ?></time>
 								<time class="day"><?php echo $data_day; ?></time>
-								<time class="month"><?php echo $data_month; ?></time>
+								<time class="month"><?php echo __( $data_month, 'impa' ); ?></time>
 							</div>
 							<!-- /.data -->
+							<div class="categorias">
+								<?php the_taxonomies(); ?>
+							</div>
+							<!-- /.categorias -->
 						</div>
 						<!-- /.header -->
-						<h3 class="<?php echo $class; ?>"><?php echo $post->post_title; ?></h3>
-						<?php if( $linha1 ) {
-							echo '<p>' . $linha1 . '</p>';
-						} ?>
+						<h3><?php echo $post->post_title; ?></h3>
+						<?php 
+							if( $linha1 ) {
+								echo '<p>' . $linha1 . '</p>';
+							}
+							
+							if( $linha2 ) {
+								echo '<p>' . $linha2 . '</p>';
+							}
+						?>
 					</li>
 					<?php
 

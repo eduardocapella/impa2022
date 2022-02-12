@@ -19,13 +19,17 @@ get_header();
 					);
 					?>
 					<ul id="lista-de-anos">
-					<?php wp_get_archives( $args ); ?>
+						<?php wp_get_archives( $args ); ?>
 					</ul>
 					
 					<ul id="lista-de-defesas">
 						<?php 
 						while ( have_posts() ) : the_post();
 							// $date = $post->post_date;
+							$datas = get_field( 'dt_datas' );
+							if ( !$datas[ 'data_da_concessao_do_grau' ] ) {
+								continue;
+							}
 							
 							$aluno_obj = get_field( 'dt_aluno' );
 							$aluno_nome = $aluno_obj[ 'nome' ];
@@ -36,13 +40,13 @@ get_header();
 							$tese_url = $tese[ 'url' ];
 							$tese_link = $tese[ 'link_para_video' ];
 							
-							$datas = get_field( 'dt_datas' );
+							
 							$data_defesa = $datas[ 'data_da_defesa' ];
-							$data_defesa_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_defesa);
+							$data_defesa_obj = DateTime::createFromFormat( 'd/m/Y g:i a', $data_defesa );
 							$data_defesa = $data_defesa_obj->format( 'd/m/Y' );
 							
 							$data_concessao = $datas[ 'data_da_concessao_do_grau' ];
-							$data_concessao_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_concessao);
+							$data_concessao_obj = DateTime::createFromFormat( 'd/m/Y g:i a', $data_concessao );
 							$data_concessao = $data_concessao_obj->format( 'd/m/Y' );
 							$data_concessao_ano = $data_concessao_obj->format( 'Y' );
 							
@@ -82,8 +86,6 @@ get_header();
 								<?php } else if( $co_orientador ) { ?>
 									<p><strong><?php echo __( 'Professor Co-Advisor: ', 'impa' ) ?></strong><?php echo $co_orientador; ?></p>
 								<?php } ?>
-								
-								
 								
 							</li>
 							<?php

@@ -1,5 +1,12 @@
 #agenda {
 	@extend %reseta-lista;
+
+	&.row > * {
+		--bs-gutter-x: 2rem;
+		padding-right: calc(var(--bs-gutter-x) * 0.5);
+		padding-left: calc(var(--bs-gutter-x) * 0.5);
+	}
+
 	h3 {
 		font-size: 1.25rem;
 		line-height: 1.5rem;
@@ -20,12 +27,17 @@
 	}
 
 	.evento {
-		&::after {
+		h3::after {
 			background-color: $cor_eventos;
 		}
 	}
-	.educacao {
-		&::after {
+	.seminario {
+		h3::after {
+			background-color: $cor_educacao;
+		}
+	}
+	.defesa-de-tese {
+		h3::after {
 			background-color: $cor_educacao;
 		}
 	}
@@ -33,6 +45,26 @@
 	li {
 		padding-bottom: 50px;
 		padding-top: 25px;
+		border: 1px solid $cor_linhas;
+		border-bottom: 0;
+
+		&:nth-child(1),
+		&:nth-child(2),
+		&:nth-child(3) {
+			border-top: 0;
+		}
+
+		&:nth-child(3n) {
+			border-left: 0;
+			border-right: 0;
+			border-bottom: 0;
+		}
+
+		&:nth-child(3n + 1) {
+			border-left: 0;
+			border-right: 0;
+			border-bottom: 0;
+		}
 	}
 
 	.header {
