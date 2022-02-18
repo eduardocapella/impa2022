@@ -51,7 +51,8 @@
 
 	.wp-block-buttons {
 		margin-top: 40px;
-		justify-content: center;
+		// justify-content: center;
+		text-align: center;
 	}
 
 	@include mq(md) {

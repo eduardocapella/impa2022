@@ -19,14 +19,14 @@ function type_post_vagas() {
 		'not_found' =>  __( 'Nenhuma vaga encontrada' ),
 		'not_found_in_trash' => __( 'Nenhuma vaga encontrada na lixeira' ),
 		'parent_item_colon' => '',
-		'menu_name' => __( 'Trabalhe Conosco - Vagas','impa' )
+		'menu_name' => __( 'Trabalhe Conosco', 'impa' )
 	);
 
 	$args = array(
 		'labels' => $labels,
 		'public' => true,
 		'public_queryable' => true,
-		'show_ui' => true,           
+		'show_ui' => true,
 		'query_var' => true,
 		'rewrite' => true,
 		'capability_type' => 'post',

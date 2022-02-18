@@ -207,6 +207,11 @@ require get_template_directory() . '/inc/cpts/cpt-livro.php';
 require get_template_directory() . '/inc/cpts/cpt-autor.php';
 
 /**
+ * CPT Aluno
+ */
+require get_template_directory() . '/inc/cpts/cpt-aluno.php';
+
+/**
  * CPT Vagas
  */
 require get_template_directory() . '/inc/cpts/cpt-vagas.php';
@@ -215,6 +220,17 @@ require get_template_directory() . '/inc/cpts/cpt-vagas.php';
  * CPT Defesa de Tese
  */
 require get_template_directory() . '/inc/cpts/cpt-defesa-de-tese.php';
+
+
+/**
+ * CPT Funcionários
+ */
+require get_template_directory() . '/inc/cpts/cpt-funcionarios.php';
+
+/**
+ * CPT Tecnologistas
+ */
+require get_template_directory() . '/inc/cpts/cpt-tecnologistas.php';
 
 
 

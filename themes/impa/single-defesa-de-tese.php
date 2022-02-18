@@ -13,7 +13,6 @@ get_header();
 					
 					while ( have_posts() ) : the_post();
 						
-						
 						// ALUNO
 						$aluno_obj = get_field( 'dt_aluno' );
 						$aluno_nome = $aluno_obj[ 'nome' ];
@@ -55,6 +54,8 @@ get_header();
 						<!-- /.orientador -->
 							
 						<p><time class="data-de-concessao"><?php echo __( 'Approval date', 'impa' ) . ': ' . $data_concessao; ?></time></p>
+						
+						
 
 						<?php
 					endwhile;

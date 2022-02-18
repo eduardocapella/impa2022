@@ -1,0 +1,48 @@
+{
+	"seminarios": [
+		{
+			"id": 9362,
+			"titulo": "Hidden symmetries in turbulence resulting from quotient-like constructions",
+			"dataHora": "2022-02-15T15:30:00-03:00",
+			"local": "SALA 236",
+			"expositor": "Alexei A. Mailybaev",
+			"instituicaoExpositor": "IMPA",
+			"conteudo": "<p>I would like to discuss some non-standard constructions resembling quotient groups in the situation, when a subgroup is not normal but satisfies specific commutation relations. This situation appears in applications to turbulence, where the symmetry group under consideration is the sum of space-time scaling&nbsp;and Galilean groups. In this case, the subgroup&nbsp;of interest includes time scalings and Galilean transformations that do not commute with the evolution operator.&nbsp;</p>\n",
+			"area": "Seminário de Geometria Diferencial",
+			"areaEn": "Differential Geometry"
+		},
+		{
+			"id": 9365,
+			"titulo": " Dynamics of Hénon Maps with Zero Entropy- Part 1",
+			"dataHora": "2022-02-21T13:30:00-03:00",
+			"local": "SALA 236",
+			"expositor": "Enrique Pujals",
+			"instituicaoExpositor": "Graduate Center-CUNY",
+			"conteudo": "<p>&nbsp;</p>\n\n<p>I will focus on surface diffeomorphisms with zero entropy: Can the dynamics of these &#39;simple&#39; systems be described? How does it bifurcate to positive entropy systems? These questions will be discussed for a class of volume-contracting surface diffeomorphisms whose dynamics is intermediate between one-dimensional dynamics and general surface dynamics. It includes the dynamics of any&nbsp;H&eacute;non&nbsp;diffeomorphism with Jacobian smaller than 1/4.</p>\n\n<p>In this first talk, for that type of systems, we will try to prove that any&nbsp;H&eacute;non&nbsp;map with zero entropy and Jacobian smaller than 1/4 &quot;is renormalizable&quot; from a topological point of view.&nbsp; This is part of a joint work with S. Crovisier and C. Tresser.</p>\n\n<p>&nbsp;</p>\n",
+			"area": "Seminário de Sistemas Dinâmicos e Teoria Ergódica",
+			"areaEn": "Ergodic Theory"
+		},
+		{
+			"id": 9364,
+			"titulo": "Holomorphic connections on Hopf manifolds and a new proof of Poincare-Dulac linearization theorem",
+			"dataHora": "2022-02-22T15:30:00-03:00",
+			"local": "SALA 236",
+			"expositor": "Misha Verbitsky",
+			"instituicaoExpositor": "IMPA",
+			"conteudo": "<p>Let H be a quotient of $C^n$ without 0 by a group Z acting by holomorphic contractions. The complex manifold H is called a Hopf manifold; it is a compact, complex, non-Kahler manifold diffeomorphic to $S^1 \\times S^{n-1}$. I will prove that a Hopf manifold always admits a holomorphic connection, that is, an holomorphic covariant derivative on the tangent bundle. When the action of the contraction on $T_0C^n\\ $ is non-resonant, this connection is automatically flat and torsion-free. This implies a classical theorem of Poincare, Lattes, Dulac and Sternberg about linearization of holomorphic contractions (or a contraction vector field). This is a joint work with Liviu Ornea.</p>\n",
+			"area": "Seminário de Geometria Diferencial",
+			"areaEn": "Differential Geometry"
+		},
+		{
+			"id": 9366,
+			"titulo": "Dynamics of Hénon Maps with Zero Entropy- Part 2",
+			"dataHora": "2022-02-23T13:30:00-03:00",
+			"local": "SALA 236",
+			"expositor": "Enrique Pujals",
+			"instituicaoExpositor": "Graduate Center - CUNY",
+			"conteudo": "<p>On the previous Monday, we were discussing that&nbsp;any mild dissipative dynamic of the two dimensional disc with zero entropy &nbsp;(that includes the&nbsp;H&eacute;non&nbsp;map with Jacobian smaller than 1/4) &quot;is renormalizable&quot; from a topological point of view. &nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>But what about its geometry? Is it bounded? In this second talk, I&nbsp;will discuss a work in progress with Sylvain Crovisier, Misha Lyubich and Jonguk Jang about the bounded geometry of those renormalizable systems. The proof is based on an &quot;axiomatization of unimodal surface diffeomorphisms&quot; that in particular, requires to develpe the notion of &quot;critical point&quot; for surface diffeos. &nbsp;</p>\n\n<p>For that type of systems, first we will try to prove that any&nbsp;H&eacute;non&nbsp;map with zero entropy and Jacobian smaller than 1/4 &quot;is renormalized&quot; (this is part of joint work with S. Crovisier and C. Tresser).</p>\n\n<p>&nbsp;</p>\n\n<p>Later, we will discuss work in progress with Sylvain Crovisier, Misha Lyubich and Jonguk Jang about the bounded geometry of those renormalizable systems.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+			"area": "Seminário de Sistemas Dinâmicos e Teoria Ergódica",
+			"areaEn": "Ergodic Theory"
+		}
+	]
+}

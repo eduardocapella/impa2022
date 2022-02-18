@@ -3,7 +3,7 @@ jQuery(document).ready(function ($) {
 		ajustaProporcao();
 	});
 
-	function ajustaProporcao() {
+	function ajustaProporcao(elemento) {
 		$('.ultimas-noticias figure').each(function () {
 			$figure = $(this);
 			$imagem = $figure.find('img');
@@ -21,6 +21,18 @@ jQuery(document).ready(function ($) {
 			$imagem = $figure.find('img');
 			$width = $figure.width();
 			$height = ($width * 9) / 16;
+
+			$figure.css({
+				height: $height,
+				overflow: 'hidden',
+			});
+		});
+
+		$('.list-thumb-title-link figure').each(function () {
+			$figure = $(this);
+			$imagem = $figure.find('img');
+			$width = $figure.width();
+			$height = ($width * 4) / 3;
 
 			$figure.css({
 				height: $height,

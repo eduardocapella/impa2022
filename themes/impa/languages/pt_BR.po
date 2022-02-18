@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: IMPA 2022\n"
-"POT-Creation-Date: 2022-01-19 18:05-0300\n"
-"PO-Revision-Date: 2022-01-19 18:06-0300\n"
+"POT-Creation-Date: 2022-02-17 23:03-0300\n"
+"PO-Revision-Date: 2022-02-17 23:04-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -21,16 +21,31 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
+#: archive-defesa-de-tese.php:76
+msgid "Graduation Date: "
+msgstr "Data de Aprovação: "
+
+#: archive-defesa-de-tese.php:79 archive-defesa-de-tese.php:81
+msgid "Professor Advisor: "
+msgstr "Orientador: "
+
+#: archive-defesa-de-tese.php:85 archive-defesa-de-tese.php:87
+msgid "Professor Co-Advisor: "
+msgstr "Co-Orientador: "
+
+#: archive-defesa-de-tese.php:101 archive-eventos-cientificos.php:127
+#: archive-vagas.php:20 archive.php:20 front-page.php:35 home.php:40
+#: index.php:12 page-agenda.php:42 page-como-ingressar.php:57
+#: page-videos.php:77 page.php:39 single-defesa-de-tese.php:64
+#: single-livros.php:88 single-vagas.php:23 single.php:35
+#: taxonomy-tipos-de-eventos.php:21 template-10-colunas.php:43
+#: template-8-colunas.php:32
+msgid "Sorry, no posts matched your criteria."
+msgstr "Desculpe, nenhum post corresponde aos seus critérios de busca."
+
 #: archive-eventos-cientificos.php:50
 msgid "all"
 msgstr "todos"
-
-#: archive-eventos-cientificos.php:127 archive.php:20 front-page.php:35
-#: home.php:40 index.php:12 page-como-ingressar.php:57 page.php:31
-#: single-livros.php:88 single.php:35 taxonomy-tipos-de-eventos.php:21
-#: template-10-colunas.php:25 template-8-colunas.php:32
-msgid "Sorry, no posts matched your criteria."
-msgstr "Desculpe, nenhum post corresponde aos seus critérios de busca."
 
 #: footer.php:24
 msgid "Follow IMPA"
@@ -64,6 +79,79 @@ msgstr "Anterior"
 msgid "Onward"
 msgstr "Seguinte"
 
+#: inc/cpts/cpt-aluno.php:11
+msgctxt "post type general name"
+msgid "Students"
+msgstr "Alunos"
+
+#: inc/cpts/cpt-aluno.php:12
+msgctxt "post type singular name"
+msgid "Student"
+msgstr "Aluno"
+
+#: inc/cpts/cpt-aluno.php:13 inc/cpts/cpt-autor.php:13
+#: inc/cpts/cpt-divulgacao-da-matematica.php:13
+#: inc/cpts/cpt-evento-cientifico.php:13 inc/cpts/cpt-funcionarios.php:13
+#: inc/cpts/cpt-livro.php:13 inc/cpts/cpt-speaker.php:13
+#: inc/cpts/cpt-tecnologistas.php:13
+msgctxt "Novo item"
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: inc/cpts/cpt-aluno.php:14 inc/cpts/cpt-aluno.php:16
+#: inc/cpts/cpt-autor.php:14 inc/cpts/cpt-autor.php:16
+#: inc/cpts/cpt-divulgacao-da-matematica.php:14
+#: inc/cpts/cpt-divulgacao-da-matematica.php:16
+#: inc/cpts/cpt-evento-cientifico.php:14 inc/cpts/cpt-evento-cientifico.php:16
+#: inc/cpts/cpt-funcionarios.php:14 inc/cpts/cpt-funcionarios.php:16
+#: inc/cpts/cpt-livro.php:14 inc/cpts/cpt-livro.php:16
+#: inc/cpts/cpt-speaker.php:14 inc/cpts/cpt-speaker.php:16
+#: inc/cpts/cpt-tecnologistas.php:14 inc/cpts/cpt-tecnologistas.php:16
+msgid "New Item"
+msgstr "Novo Item"
+
+#: inc/cpts/cpt-aluno.php:15 inc/cpts/cpt-autor.php:15
+#: inc/cpts/cpt-divulgacao-da-matematica.php:15
+#: inc/cpts/cpt-evento-cientifico.php:15 inc/cpts/cpt-funcionarios.php:15
+#: inc/cpts/cpt-livro.php:15 inc/cpts/cpt-speaker.php:15
+#: inc/cpts/cpt-tecnologistas.php:15
+msgid "Edit Item"
+msgstr "Editar Item"
+
+#: inc/cpts/cpt-aluno.php:17 inc/cpts/cpt-autor.php:17
+#: inc/cpts/cpt-divulgacao-da-matematica.php:17
+#: inc/cpts/cpt-evento-cientifico.php:17 inc/cpts/cpt-funcionarios.php:17
+#: inc/cpts/cpt-livro.php:17 inc/cpts/cpt-speaker.php:17
+#: inc/cpts/cpt-tecnologistas.php:17
+msgid "See Item"
+msgstr "Ver Item"
+
+#: inc/cpts/cpt-aluno.php:18 inc/cpts/cpt-autor.php:18
+#: inc/cpts/cpt-divulgacao-da-matematica.php:18
+#: inc/cpts/cpt-evento-cientifico.php:18 inc/cpts/cpt-funcionarios.php:18
+#: inc/cpts/cpt-livro.php:18 inc/cpts/cpt-speaker.php:18
+#: inc/cpts/cpt-tecnologistas.php:18
+msgid "Search Itens"
+msgstr "Procurar Itens"
+
+#: inc/cpts/cpt-aluno.php:19 inc/cpts/cpt-autor.php:19
+#: inc/cpts/cpt-divulgacao-da-matematica.php:19
+#: inc/cpts/cpt-evento-cientifico.php:19 inc/cpts/cpt-funcionarios.php:19
+#: inc/cpts/cpt-livro.php:19 inc/cpts/cpt-speaker.php:19
+#: inc/cpts/cpt-tecnologistas.php:19
+msgid "No record found"
+msgstr "Nenhum registro encontrado"
+
+#: inc/cpts/cpt-aluno.php:20 inc/cpts/cpt-autor.php:20
+#: inc/cpts/cpt-funcionarios.php:20 inc/cpts/cpt-livro.php:20
+#: inc/cpts/cpt-speaker.php:20 inc/cpts/cpt-tecnologistas.php:20
+msgid "Nenhum registro encontrado na lixeira"
+msgstr "Nenhum encontrado registro na lixeira"
+
+#: inc/cpts/cpt-aluno.php:22 inc/fn/fn-exibe-alunos.php:16
+msgid "Students"
+msgstr "Alunos"
+
 #: inc/cpts/cpt-autor.php:11
 msgctxt "post type general name"
 msgid "Authors"
@@ -74,54 +162,100 @@ msgctxt "post type singular name"
 msgid "Author"
 msgstr "Autor"
 
-#: inc/cpts/cpt-autor.php:13 inc/cpts/cpt-divulgacao-da-matematica.php:13
-#: inc/cpts/cpt-evento-cientifico.php:13 inc/cpts/cpt-livro.php:13
-#: inc/cpts/cpt-speaker.php:13
-msgctxt "Novo item"
-msgid "Add New"
-msgstr "Adicionar Novo"
-
-#: inc/cpts/cpt-autor.php:14 inc/cpts/cpt-autor.php:16
-#: inc/cpts/cpt-divulgacao-da-matematica.php:14
-#: inc/cpts/cpt-divulgacao-da-matematica.php:16
-#: inc/cpts/cpt-evento-cientifico.php:14 inc/cpts/cpt-evento-cientifico.php:16
-#: inc/cpts/cpt-livro.php:14 inc/cpts/cpt-livro.php:16
-#: inc/cpts/cpt-speaker.php:14 inc/cpts/cpt-speaker.php:16
-msgid "New Item"
-msgstr "Novo Item"
-
-#: inc/cpts/cpt-autor.php:15 inc/cpts/cpt-divulgacao-da-matematica.php:15
-#: inc/cpts/cpt-evento-cientifico.php:15 inc/cpts/cpt-livro.php:15
-#: inc/cpts/cpt-speaker.php:15
-msgid "Edit Item"
-msgstr "Editar Item"
-
-#: inc/cpts/cpt-autor.php:17 inc/cpts/cpt-divulgacao-da-matematica.php:17
-#: inc/cpts/cpt-evento-cientifico.php:17 inc/cpts/cpt-livro.php:17
-#: inc/cpts/cpt-speaker.php:17
-msgid "See Item"
-msgstr "Ver Item"
-
-#: inc/cpts/cpt-autor.php:18 inc/cpts/cpt-divulgacao-da-matematica.php:18
-#: inc/cpts/cpt-evento-cientifico.php:18 inc/cpts/cpt-livro.php:18
-#: inc/cpts/cpt-speaker.php:18
-msgid "Search Itens"
-msgstr "Procurar Itens"
-
-#: inc/cpts/cpt-autor.php:19 inc/cpts/cpt-divulgacao-da-matematica.php:19
-#: inc/cpts/cpt-evento-cientifico.php:19 inc/cpts/cpt-livro.php:19
-#: inc/cpts/cpt-speaker.php:19
-msgid "No record found"
-msgstr "Nenhum registro encontrado"
-
-#: inc/cpts/cpt-autor.php:20 inc/cpts/cpt-livro.php:20
-#: inc/cpts/cpt-speaker.php:20
-msgid "Nenhum registro encontrado na lixeira"
-msgstr "Nenhum encontrado registro na lixeira"
-
 #: inc/cpts/cpt-autor.php:22 single-livros.php:23 single-livros.php:45
 msgid "Authors"
 msgstr "Autores"
+
+#: inc/cpts/cpt-defesa-de-tese.php:11
+msgctxt "post type general name"
+msgid "Defesas de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:12
+msgctxt "post type singular name"
+msgid "Defesa de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:13
+msgctxt "Novo item"
+msgid "Adicionar Defesa de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:14 inc/cpts/cpt-defesa-de-tese.php:16
+msgid "Nova Defesa de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:15
+msgid "Editar Defesa de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:17
+msgid "Ver Defesa de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:18
+msgid "Procurar Defesas de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:19
+msgid "Nenhuma Defesa de Tese encontrada"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:20
+#, fuzzy
+#| msgid "Nenhum registro encontrado na lixeira"
+msgid "Nenhuma Defesa de Tese encontrada na lixeira"
+msgstr "Nenhum encontrado registro na lixeira"
+
+#: inc/cpts/cpt-defesa-de-tese.php:22
+msgid "Defesas de Tese"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:54
+msgctxt "taxonomy general name"
+msgid "Graus Acadêmicos"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:55
+msgctxt "taxonomy singular name"
+msgid "Grau Acadêmico"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:56
+msgid "Procurar Grau Acadêmico"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:57
+msgid "Todos Graus Acadêmicos"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:58
+msgid "Grau Acadêmico Pai"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:59
+msgid "Grau Acadêmico Pai:"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:60
+msgid "Editar Grau Acadêmico"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:61
+msgid "Atualizar Grau Acadêmico"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:62
+msgid "Adicionar Grau Acadêmico"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:63
+msgid "Novo Nome de Grau Acadêmico"
+msgstr ""
+
+#: inc/cpts/cpt-defesa-de-tese.php:64
+msgid "Graus Acadêmicos"
+msgstr ""
 
 #: inc/cpts/cpt-divulgacao-da-matematica.php:11
 msgctxt "post type general name"
@@ -155,6 +289,20 @@ msgstr "Evento Científico"
 #: inc/cpts/cpt-evento-cientifico.php:22
 msgid "Scientific Events"
 msgstr "Eventos Científicos"
+
+#: inc/cpts/cpt-funcionarios.php:11
+msgctxt "post type general name"
+msgid "Employees"
+msgstr "Funcionários"
+
+#: inc/cpts/cpt-funcionarios.php:12
+msgctxt "post type singular name"
+msgid "Employee"
+msgstr "Funcionario"
+
+#: inc/cpts/cpt-funcionarios.php:22 inc/fn/fn-exibe-funcionarios.php:16
+msgid "Employees"
+msgstr "Funcionários"
 
 #: inc/cpts/cpt-livro.php:11
 msgctxt "post type general name"
@@ -230,11 +378,130 @@ msgstr "Palestrante"
 msgid "Speakers"
 msgstr "Palestrantes"
 
-#: inc/fn/fn-atalhos-educacao.php:27
-msgid "Student's Access"
-msgstr "Acesso ao Aluno"
+#: inc/cpts/cpt-tecnologistas.php:11
+msgctxt "post type general name"
+msgid "Technologists"
+msgstr "Tecnologistas"
 
-#: inc/fn/fn-atalhos-educacao.php:56
+#: inc/cpts/cpt-tecnologistas.php:12
+msgctxt "post type singular name"
+msgid "Technologist"
+msgstr "Tecnologista"
+
+#: inc/cpts/cpt-tecnologistas.php:22
+msgid "Technologists"
+msgstr "Tecnologistas"
+
+#: inc/cpts/cpt-vagas.php:11
+msgctxt "post type general name"
+msgid "Vagas"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:12
+msgctxt "post type singular name"
+msgid "Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:13
+msgctxt "Novo item"
+msgid "Adicionar Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:14 inc/cpts/cpt-vagas.php:16
+msgid "Nova Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:15
+msgid "Editar Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:17
+msgid "Ver Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:18
+msgid "Procurar Vagas"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:19
+#, fuzzy
+#| msgid "Nenhum registro encontrado na lixeira"
+msgid "Nenhuma vaga encontrada"
+msgstr "Nenhum encontrado registro na lixeira"
+
+#: inc/cpts/cpt-vagas.php:20
+#, fuzzy
+#| msgid "Nenhum registro encontrado na lixeira"
+msgid "Nenhuma vaga encontrada na lixeira"
+msgstr "Nenhum encontrado registro na lixeira"
+
+#: inc/cpts/cpt-vagas.php:22
+msgid "Trabalhe Conosco"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:54
+msgctxt "taxonomy general name"
+msgid "Tipo de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:55
+msgctxt "taxonomy singular name"
+msgid "Tipo de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:56
+msgid "Procurar Tipo de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:57
+msgid "Todos Tipos de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:58
+msgid "Tipo de Vaga Pai"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:59
+msgid "Tipo de Vaga Pai:"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:60
+msgid "Editar Tipo de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:61
+msgid "Atualizar Tipo de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:62
+msgid "Adicionar Tipo de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:63
+msgid "Novo Nome de Tipo de Vaga"
+msgstr ""
+
+#: inc/cpts/cpt-vagas.php:64
+msgid "Tipos de Vaga"
+msgstr ""
+
+#: inc/fn/fn-exibe-alunos.php:17
+msgid "Program"
+msgstr "Programa"
+
+#: inc/fn/fn-exibe-alunos.php:18 inc/fn/fn-exibe-funcionarios.php:17
+msgid "Branch"
+msgstr "Ramal"
+
+#: inc/fn/fn-exibe-alunos.php:19 inc/fn/fn-exibe-funcionarios.php:18
+msgid "Room"
+msgstr "Sala"
+
+#: inc/fn/fn-exibe-alunos.php:20
+msgid "Email"
+msgstr ""
+
+#: inc/fn/fn-saiba-mais.php:30
 msgid "Learn more"
 msgstr "Saiba mais"
 
@@ -302,6 +569,14 @@ msgstr "Pesquisa"
 msgid "Books published"
 msgstr "Livros publicados"
 
+#: single-defesa-de-tese.php:53
+msgid "Thesis Advisor"
+msgstr "Orientador"
+
+#: single-defesa-de-tese.php:56
+msgid "Approval date"
+msgstr "Data de Aprovação"
+
 #: single-eventos-cientificos.php:53 template-formato-evento.php:55
 msgid "Start"
 msgstr "Início"
@@ -353,6 +628,10 @@ msgstr "Edição"
 #: single-livros.php:78
 msgid "Related Books"
 msgstr "Livros Relacionados"
+
+#: single-vagas.php:16
+msgid "Consent Form"
+msgstr "Formulário de Consentimento"
 
 #: template-formato-evento.php:136
 msgid "Subscribe"

@@ -16,7 +16,7 @@ get_header();
 		</div>
 	</div>
 	
-	<?php analisa_atalhos_educacao( 16 ); ?>
+	<?php tem_atalhos_com_icone(); ?>
 	
 	<div class="container">
 		<div class="row">
@@ -71,11 +71,6 @@ get_header();
 						</div>
 						<!-- .accordion.accordion-flush -->
 						
-							
-							
-						  
-						
-						
 						<?php
 					endwhile;
 				else :
@@ -89,7 +84,7 @@ get_header();
 	</div>
 	<!-- /.container -->
 		
-	<?php analisa_atalhos_doutorado( '12' ); ?>
+	<?php tem_saiba_mais(); ?>
 </main>
 
 <?php

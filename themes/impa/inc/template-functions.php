@@ -129,8 +129,26 @@ require get_template_directory() . '/inc/fn/fn-saiba-mais.php';
  */
 require get_template_directory() . '/inc/fn/fn-agenda.php';
 
+/**
+ * Function Exibe Alunos
+ */
+require get_template_directory() . '/inc/fn/fn-exibe-alunos.php';
+
+/**
+ * Function Exibe Funcionários
+ */
+require get_template_directory() . '/inc/fn/fn-exibe-funcionarios.php';
+
+/**
+ * Function Exibe Tecnologistas
+ */
+require get_template_directory() . '/inc/fn/fn-exibe-tecnologistas.php';
+
+/**
+ * Function Seção Logo com Link
+ */
+require get_template_directory() . '/inc/fn/fn-secao-logo-com-link.php';
 
 
-
-
+add_filter( 'tablepress_use_default_css', '__return_false' );
 

@@ -330,6 +330,77 @@
 	}
 }
 
+.logos-com-links {
+	@extend %reseta-lista;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 30px;
+
+	li {
+		border-radius: 10px;
+		overflow: hidden;
+		a {
+			img {
+				display: block;
+				height: 100px;
+			}
+		}
+	}
+}
+
+.bc-biblioteca {
+	.logos-com-links {
+		li {
+			border-radius: 0;
+		}
+		img {
+			height: 50px;
+		}
+	}
+}
+
+.width-100 {
+	width: 100% !important;
+}
+.width-100 table {
+	width: 100% !important;
+}
+
+.list-thumb-title-link {
+	@extend %reseta-lista;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
+
+	li {
+		flex-basis: 50%;
+
+		@include mq(sm) {
+			flex-basis: calc(100% / 3);
+		}
+
+		@include mq(md) {
+			flex-basis: 25%;
+		}
+	}
+
+	figure {
+		overflow: hidden;
+	}
+
+	h3 {
+		margin-top: 10px;
+		padding-top: 0;
+		font-size: 1.375rem;
+		text-align: center;
+
+		a {
+			text-decoration: none;
+		}
+	}
+}
+
 // BOOTSTRAP TABS
 
 // BOOTSTRAP ACCORDION

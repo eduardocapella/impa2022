@@ -87,6 +87,8 @@ get_header();
 									<p><strong><?php echo __( 'Professor Co-Advisor: ', 'impa' ) ?></strong><?php echo $co_orientador; ?></p>
 								<?php } ?>
 								
+								<p><a href="<?php echo esc_html( $tese_link ) ?>">YouTube</a></p>
+								
 							</li>
 							<?php
 						endwhile;

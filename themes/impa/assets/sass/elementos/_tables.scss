@@ -1,12 +1,15 @@
 table,
 .tablepress {
 	border: 1px solid $cor_linhas;
+	max-width: 100%;
+	border-collapse: collapse;
 
 	tr {
 		border: 1px solid $cor_linhas;
 	}
 
-	td {
+	td,
+	th {
 		border: 1px solid $cor_linhas !important;
 		padding: 5px 10px;
 
@@ -15,12 +18,20 @@ table,
 		}
 	}
 
+	th {
+		background-color: $cor_marca !important;
+		color: white;
+		font-weight: normal;
+		text-align: left;
+	}
+
 	td[rowspan] {
 		border: 1px solid $cor_linhas !important;
 	}
 
 	@include mq(md) {
-		width: max-content !important;
+		width: max-content;
+		width: 100%;
 	}
 }
 
