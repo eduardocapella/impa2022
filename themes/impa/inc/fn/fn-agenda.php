@@ -46,6 +46,7 @@ function exibeAgenda() {
 			$sem_obj->post_type  = 'seminario';
 			$sem_obj->local	   = $seminario->local;
 			$sem_obj->expositor  = $seminario->expositor;
+			$sem_obj->area 		= $seminario->area;
 			$sem_obj->instituicaoExpositor = $seminario->instituicaoExpositor;
 			
 
@@ -130,11 +131,21 @@ function exibeAgenda() {
 						if( $estado ) { array_push( $linha2, $estado ); }
 						
 						$linha2 = implode( ' - ', $linha2 );
+						$header1 = '';
+						$header2 = __( 'Event', 'impa' );
 						
 					} else if ( $post->post_type == 'defesa-de-tese' ) {
 						$linha2 = '';
+						$tax = get_the_terms( $post->ID, 'graus-academicos');
+						if( !empty( $tax[0] ) ) {
+							$header2 = $tax[0]->name;
+						}
+						$header1 = __( 'Thesis Defense', 'impa' );
 					} else {
 						$linha2 = $data_hour . ' | ' . $local;
+
+						$header1 = __( 'Seminar', 'impa' );
+						$header2 = $post->area;
 					}
 
 					if( $today_int > $data_num ) {
@@ -151,7 +162,18 @@ function exibeAgenda() {
 							</div>
 							<!-- /.data -->
 							<div class="categorias">
-								<?php the_taxonomies(); ?>
+								<?php if ( !empty( $header1 ) ) { ?>
+									<p class="<?php echo $class ?>">
+										<?php echo $header1 ?>
+									</p>
+								<?php } ?>
+								
+								<?php if ( !empty( $header2 ) ) { ?>
+									<p class="<?php echo $class . '-neg' ?>">
+										<span><?php echo $header2; ?></span>
+									</p>
+								<?php } ?>
+								
 							</div>
 							<!-- /.categorias -->
 						</div>

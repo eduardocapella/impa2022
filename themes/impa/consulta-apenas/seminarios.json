@@ -1,48 +1,37 @@
 {
 	"seminarios": [
 		{
-			"id": 9362,
-			"titulo": "Hidden symmetries in turbulence resulting from quotient-like constructions",
-			"dataHora": "2022-02-15T15:30:00-03:00",
-			"local": "SALA 236",
-			"expositor": "Alexei A. Mailybaev",
+			"id": 9376,
+			"titulo": "Melhor do que a média",
+			"dataHora": "2022-03-25T15:30:00-03:00",
+			"local": "AUDITORIO 2",
+			"expositor": "Paulo Orenstein",
 			"instituicaoExpositor": "IMPA",
-			"conteudo": "<p>I would like to discuss some non-standard constructions resembling quotient groups in the situation, when a subgroup is not normal but satisfies specific commutation relations. This situation appears in applications to turbulence, where the symmetry group under consideration is the sum of space-time scaling&nbsp;and Galilean groups. In this case, the subgroup&nbsp;of interest includes time scalings and Galilean transformations that do not commute with the evolution operator.&nbsp;</p>\n",
-			"area": "Seminário de Geometria Diferencial",
-			"areaEn": "Differential Geometry"
+			"conteudo": "<p>Dada uma amostra de uma distribui&ccedil;&atilde;o com m&eacute;dia desconhecida, qual &eacute; a melhor maneira de se estimar essa m&eacute;dia? A resposta mais popular para essa pergunta &eacute; a m&eacute;dia amostral (ou m&eacute;dia aritm&eacute;tica). Ela &eacute; usada para decidir se um aluno passar&aacute; de ano, se casos de COVID est&atilde;o baixos e se o B&oacute;son de Higgs realmente foi encontrado. No meio do s&eacute;culo passado, contudo, estat&iacute;sticos mostraram que, em altas dimens&otilde;es, h&aacute; uma alternativa melhor. Desde ent&atilde;o, em v&aacute;rios outros contextos, o uso da m&eacute;dia amostral tem sido revisitado. Nesta apresenta&ccedil;&atilde;o, vou discutir um pouco da minha pesquisa em cima dessa pergunta, apresentar estimadores alternativos, e sugerir algumas novas maneiras de ser melhor do que a m&eacute;dia.</p>\n",
+			"area": "Palestra Especial",
+			"areaEn": "Special Talk"
 		},
 		{
-			"id": 9365,
-			"titulo": " Dynamics of Hénon Maps with Zero Entropy- Part 1",
-			"dataHora": "2022-02-21T13:30:00-03:00",
-			"local": "SALA 236",
-			"expositor": "Enrique Pujals",
-			"instituicaoExpositor": "Graduate Center-CUNY",
-			"conteudo": "<p>&nbsp;</p>\n\n<p>I will focus on surface diffeomorphisms with zero entropy: Can the dynamics of these &#39;simple&#39; systems be described? How does it bifurcate to positive entropy systems? These questions will be discussed for a class of volume-contracting surface diffeomorphisms whose dynamics is intermediate between one-dimensional dynamics and general surface dynamics. It includes the dynamics of any&nbsp;H&eacute;non&nbsp;diffeomorphism with Jacobian smaller than 1/4.</p>\n\n<p>In this first talk, for that type of systems, we will try to prove that any&nbsp;H&eacute;non&nbsp;map with zero entropy and Jacobian smaller than 1/4 &quot;is renormalizable&quot; from a topological point of view.&nbsp; This is part of a joint work with S. Crovisier and C. Tresser.</p>\n\n<p>&nbsp;</p>\n",
-			"area": "Seminário de Sistemas Dinâmicos e Teoria Ergódica",
-			"areaEn": "Ergodic Theory"
-		},
-		{
-			"id": 9364,
-			"titulo": "Holomorphic connections on Hopf manifolds and a new proof of Poincare-Dulac linearization theorem",
-			"dataHora": "2022-02-22T15:30:00-03:00",
-			"local": "SALA 236",
-			"expositor": "Misha Verbitsky",
+			"id": 9379,
+			"titulo": "Oil Recovery: Fundamental research and Industrial applications",
+			"dataHora": "2022-03-28T09:00:00-03:00",
+			"local": "SALA 232",
+			"expositor": "Yulia Petrova",
 			"instituicaoExpositor": "IMPA",
-			"conteudo": "<p>Let H be a quotient of $C^n$ without 0 by a group Z acting by holomorphic contractions. The complex manifold H is called a Hopf manifold; it is a compact, complex, non-Kahler manifold diffeomorphic to $S^1 \\times S^{n-1}$. I will prove that a Hopf manifold always admits a holomorphic connection, that is, an holomorphic covariant derivative on the tangent bundle. When the action of the contraction on $T_0C^n\\ $ is non-resonant, this connection is automatically flat and torsion-free. This implies a classical theorem of Poincare, Lattes, Dulac and Sternberg about linearization of holomorphic contractions (or a contraction vector field). This is a joint work with Liviu Ornea.</p>\n",
-			"area": "Seminário de Geometria Diferencial",
-			"areaEn": "Differential Geometry"
+			"conteudo": "<p>In the talk we will consider what kind of industrial and mathematical problems arise in the petroleum industry.<br />\n<br />\nImagine a reservoir with oil. If you imagine it as a &quot;lake of oil&quot; - you are strongly mistaken! The oil is &quot;usually&quot; located in a porous medium which looks like a brick with non-trivial internal structure. One of the main problems in oil recovery is the low &quot;efficiency&quot;: taking all known oil in the subsurface of Brazil as 100% only 21% of it can be recovered by standard techniques. This happens due to many factors: macro factors (e.g. instabilities of the displacement), micro factors (e.g. blocked oil in pores due to capillary forces) and many others. Enhanced oil recovery (EOR) methods, like adding chemicals or gas, help to increase the amount of recovered oil. We will talk about our experience with chemical flooding (polymer and surfactant) which was done in collaboration with Petroleum Company &quot;GazpromNeft&quot;.<br />\n<br />\nThe mathematical formulation of the oil recovery process consists in a system of nonlinear PDEs (conservation laws). There are two types of problems: if a front is stable, it is reasonable to look for a long-time behavior of solutions; if the front is unstable it corresponds to the so-called viscous fingering phenomenon (in non-porous medium it is known as Hele-Shaw experiment: injecting a less viscous liquid into a more viscous one, like water into oil). Experiments show that the size of the appearing mixing zone grows linearly in time. Although there are many empirical models, little is known rigorously, so there are many problems for mathematicians to solve.<br />\n&nbsp;</p>\n\n<p>No special knowledge is assumed, everybody is welcome!</p>\n",
+			"area": "Centro Pi",
+			"areaEn": "Centro Pi"
 		},
 		{
-			"id": 9366,
-			"titulo": "Dynamics of Hénon Maps with Zero Entropy- Part 2",
-			"dataHora": "2022-02-23T13:30:00-03:00",
-			"local": "SALA 236",
-			"expositor": "Enrique Pujals",
-			"instituicaoExpositor": "Graduate Center - CUNY",
-			"conteudo": "<p>On the previous Monday, we were discussing that&nbsp;any mild dissipative dynamic of the two dimensional disc with zero entropy &nbsp;(that includes the&nbsp;H&eacute;non&nbsp;map with Jacobian smaller than 1/4) &quot;is renormalizable&quot; from a topological point of view. &nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>But what about its geometry? Is it bounded? In this second talk, I&nbsp;will discuss a work in progress with Sylvain Crovisier, Misha Lyubich and Jonguk Jang about the bounded geometry of those renormalizable systems. The proof is based on an &quot;axiomatization of unimodal surface diffeomorphisms&quot; that in particular, requires to develpe the notion of &quot;critical point&quot; for surface diffeos. &nbsp;</p>\n\n<p>For that type of systems, first we will try to prove that any&nbsp;H&eacute;non&nbsp;map with zero entropy and Jacobian smaller than 1/4 &quot;is renormalized&quot; (this is part of joint work with S. Crovisier and C. Tresser).</p>\n\n<p>&nbsp;</p>\n\n<p>Later, we will discuss work in progress with Sylvain Crovisier, Misha Lyubich and Jonguk Jang about the bounded geometry of those renormalizable systems.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-			"area": "Seminário de Sistemas Dinâmicos e Teoria Ergódica",
-			"areaEn": "Ergodic Theory"
+			"id": 9377,
+			"titulo": "Geometria das diástoles",
+			"dataHora": "2022-04-01T15:30:00-03:00",
+			"local": "AUDITORIO 2",
+			"expositor": "Lucas Ambrozio",
+			"instituicaoExpositor": "IMPA",
+			"conteudo": "<p>S&iacute;stoles e di&aacute;stoles s&atilde;o termos utilizados na Biologia para descrever dois momentos do ciclo de batimentos do cora&ccedil;&atilde;o: o momento da contra&ccedil;&atilde;o e o momento da expans&atilde;o. Marcel Berger trouxe esta terminologia para a Geometria, propondo uma met&aacute;fora para descrever intuitivamente o car&aacute;ter de certos invariantes geom&eacute;tricos relacionados a geod&eacute;sicas e superf&iacute;cies m&iacute;nimas. Nesta palestra, exploraremos a geometria de s&iacute;stoles e di&aacute;stoles de esferas de modo intuitivo, tendo como foco as desigualdades isodiast&oacute;licas, isto &eacute;, as estimativas para a di&aacute;stole de esferas que t&ecirc;m o mesmo volume. Em particular, apresentaremos algumas contribui&ccedil;&otilde;es pr&oacute;prias ao assunto e tentaremos enfatizar aqueles aspectos do problema que nos parecem similares aos de outros problemas em outras &aacute;reas da Matem&aacute;tica.</p>\n",
+			"area": "Palestra Especial",
+			"areaEn": "Special Talk"
 		}
 	]
 }

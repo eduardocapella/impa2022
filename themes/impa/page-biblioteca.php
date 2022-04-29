@@ -16,6 +16,17 @@ get_header();
 		</div>
 	</div>
 	
+	<div class="container-fluid no-padding">
+		<div class="row">
+			<div class="col-sm-12">
+				<?php exibe_atalhos(); ?>
+			</div>
+			<!-- /.col-sm-12 -->
+		</div>
+		<!-- /.row -->
+	</div>
+	<!-- /.container -->
+	
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">			
@@ -35,7 +46,10 @@ get_header();
 		
 	
 	<?php secao_logos_com_links(); ?>
-			
+	
+	<?php show_custom_section(); ?>
+	
+	<?php exibe_saiba_mais(); ?>
 
 </main>
 

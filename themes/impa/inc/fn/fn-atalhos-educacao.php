@@ -1,37 +1,44 @@
 <?php
 
 function tem_atalhos_com_icone() {
+	// função para descobrir se a página em que a função foi chamada possui atalhos
 	$atalhos_por_icones = get_field( 'atalhos_por_icones', 'option' );
 	
-	global $post;
-	$page_id = $post->ID;
-	
-	
-	if( $atalhos_por_icones ) {
-		$paginas_com_atalhos_por_icones = $atalhos_por_icones[0][ 'paginas_com_atalhos' ];
+	if( !empty( $atalhos_por_icones ) ) {
+
+		global $post;
+		$page_id = $post->ID;
 		
-		foreach ( $paginas_com_atalhos_por_icones as $pagina) {
-			// print_r($pagina);
-			if ( $page_id == $pagina  ) {
-				// echo 'RAH!';
-				exibe_atalhos();
-				// exit;
+		// criar objeto vazio para receber os dados dos campos
+		$obj = [];
+		foreach ( $atalhos_por_icones as $atalho ) {
+			
+			$array_paginas = $atalho[  'paginas_com_atalhos' ];
+			
+			foreach ( $array_paginas as $pagina ) {
+				// print_r( $pagina );
+				if( $pagina == $page_id ) {
+					array_push( $obj, $atalho );
+					continue;
+				}
 			}
 		}
+		
+		if( !empty( $obj ) ) {
+			exibe_atalhos( $obj );
+		}
+		
+		wp_reset_postdata();
 	}
-	
-	wp_reset_postdata();
-	// print_r( $paginas_com_saiba_mais );
 }
 
-function exibe_atalhos() {
+function exibe_atalhos( $obj ) {
 	?>
 	<div class="atalhos">
 		<?php
-		
-		$atalhos_por_icones = get_field( 'atalhos_por_icones', 'option' );
-		$atalhos = $atalhos_por_icones[0][ 'atalhos' ];
 
+		$atalhos = $obj[0][ 'atalhos' ];
+		
 		?>
 		<ul id="atalhos-educacao">
 			<?php
@@ -86,14 +93,8 @@ function exibe_atalhos() {
 		
 		</ul>
 		<!-- #atalhos-educacao -->
-		
-			
+
 	</div>
 	<!-- /.saiba-mais -->
 	<?php
 }
-
-	
-// Como Ingressar
-// Títulos Concedidos
-// Cursos Gravados

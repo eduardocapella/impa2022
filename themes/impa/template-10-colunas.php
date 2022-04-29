@@ -6,29 +6,30 @@ get_header();
 <main id="site-main">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-sm-10">
+			<div class="col-sm-12">
 				<h2><?php the_title(); ?></h2>
-				
+			</div>
+		</div>
+	</div>
+	
+	<div class="container destaque">
+		<div class="row justify-content-center">
+			<div class="col-sm-12">
 				<?php
-				
 				if ( has_post_thumbnail() ) { ?>
 					<figure><?php the_post_thumbnail(); ?></figure>
 				<?php }
 				?>
 			</div>
-		</div>
-	</div>
-	
-	<div class="container-fluid no-padding">
-		<div class="row">
-			<div class="col-sm-10">
-				<?php tem_atalhos_com_icone(); ?>
-			</div>
 			<!-- /.col-sm-12 -->
 		</div>
-		<!-- /.row -->
+		<!-- /.row justify-content-center -->
 	</div>
-	<!-- /.container-fluid -->
+	<!-- /.container header -->
+	
+	
+	<?php exibe_atalhos(); ?>
+			
 		
 	<div class="container">
 		<div class="row justify-content-center">
@@ -45,16 +46,17 @@ get_header();
 				?>
 			</div>
 			<!-- /.col-sm-10 -->
-				
 			<div class="col-sm-10">
-				<?php tem_saiba_mais(); ?>
+				<?php exibe_saiba_mais(); ?>
 			</div>
 			<!-- /.col-sm-10 -->
 		</div>
 		<!-- /.row -->
 	</div>
 	<!-- /.container -->
-		
+	
+	
+	
 
 </main>
 

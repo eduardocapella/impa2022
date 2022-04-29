@@ -36,7 +36,7 @@ get_header();
 			<!-- /.col-sm-8 -->
 				
 			<div class="col-sm-8">
-				<?php tem_saiba_mais(); ?>
+				<?php exibe_saiba_mais(); ?>
 			</div>
 			<!-- /.col-sm-8 -->
 		</div>

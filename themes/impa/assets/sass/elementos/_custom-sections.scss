@@ -1,0 +1,17 @@
+.custom-section {
+	&.botao-de-download {
+		text-align: center;
+		.wp-block-buttons {
+			text-align: center;
+		}
+	}
+
+	h5 {
+		margin-bottom: 5px;
+		margin-top: 0px;
+		font-size: 0.75rem;
+		line-height: 1rem;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+	}
+}

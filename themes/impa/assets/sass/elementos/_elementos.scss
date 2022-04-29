@@ -4,6 +4,7 @@
 @import 'forms';
 @import 'listas';
 @import 'agenda';
+@import 'custom-sections';
 
 a {
 	text-decoration: underline;
@@ -29,14 +30,15 @@ button {
 	figure {
 		margin: 0;
 		position: relative;
+		overflow: hidden;
 
 		img {
 			display: block;
 			margin-bottom: 0;
-			border: 1px solid $cor_linhas;
 		}
 	}
 }
+
 img {
 	max-width: 100%;
 	height: auto;
@@ -101,15 +103,43 @@ a {
 	}
 }
 
-section:nth-child(even) {
+section:nth-child(even),
+.custom-section {
 	background-color: #f8f8f8;
 }
 
-.secao-evento:nth-child(odd) {
+.secao-evento:nth-child(odd),
+.custom-section {
 	background-color: #f8f8f8;
 }
-.secao-evento:nth-child(even) {
+.secao-evento:nth-child(even),
+.custom-section {
 	background-color: white;
+}
+
+.custom-section {
+	figure {
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+	.lista-de-pessoas {
+		h4 {
+			font-size: 1.2rem;
+			line-height: 1.4rem;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			padding-top: 0;
+			color: #074b87;
+		}
+		h5 {
+			margin-bottom: 5px;
+			margin-top: 0px;
+			font-size: 0.75rem;
+			line-height: 1rem;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+		}
+	}
 }
 
 #h_videos {
@@ -146,6 +176,7 @@ section:nth-child(even) {
 			}
 		}
 		figure {
+			border: 0;
 			img {
 				display: block;
 				border: 0;
@@ -172,7 +203,7 @@ section:nth-child(even) {
 	text-align: center;
 
 	li {
-		max-width: 100px;
+		width: 100px;
 		text-align: center;
 	}
 
@@ -205,7 +236,7 @@ section:nth-child(even) {
 	}
 
 	@include mq(sm) {
-		gap: 80px;
+		gap: 40px;
 	}
 }
 
@@ -223,14 +254,25 @@ section:nth-child(even) {
 			content: '';
 			width: 7px;
 			height: 12px;
-			background-color: $cor_educacao;
-
+			background-color: $cor_marca;
 			position: absolute;
 			top: 5px;
 			left: 0;
 		}
 	}
 }
+
+.parent-pageid-16 {
+	.saiba-mais {
+		p {
+			&::before {
+				background-color: $cor_educacao;
+			}
+		}	
+	}
+}
+
+
 .atalhos {
 	margin-top: 40px;
 	.wp-block-buttons {
@@ -238,7 +280,7 @@ section:nth-child(even) {
 		margin-top: 0;
 
 		.wp-block-button__link {
-			background-color: $cor_educacao;
+			background-color: $cor_marca;
 			color: white;
 			border-radius: 0;
 			border-color: white;
@@ -247,6 +289,17 @@ section:nth-child(even) {
 			&:hover {
 				background-color: darken($cor_educacao, 5%);
 				transition: all 0.2s ease-in-out;
+			}
+		}
+	}
+}
+
+.parent-pageid-16 {
+	.wp-block-buttons {
+		.wp-block-button__link {
+			background-color: $cor_educacao;
+			&:hover {
+				background-color: darken($cor_marca, 5%);
 			}
 		}
 	}

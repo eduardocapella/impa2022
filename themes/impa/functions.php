@@ -146,14 +146,16 @@ function impa_scripts() {
 	wp_enqueue_style( 'impa-style', get_template_directory_uri() . '/assets/css/style.css', array(), _S_VERSION );
 	
 	/* FONT AWESOME */
-	wp_enqueue_script( 'font-awesome', 'https://kit.fontawesome.com/0d1506af8d.js', array(), true );
+	// wp_enqueue_script( 'font-awesome', 'https://kit.fontawesome.com/0d1506af8d.js', array(), true );
+	// wp_enqueue_script( 'font-awesome', 'https:use.fontawesome.com/8cb993461d.js', array(), true );
+	
 	
 	/* BOOTSTRAP JS */
-	if ( is_page( 'como-ingressar') || is_page( 'videos' ) ) {
+	if ( is_page( 'como-ingressar') || is_page( 'videos' ) || is_page( 'faq' ) ) {
 	wp_enqueue_script( 'bootstrap', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array ( 'jquery' ), _S_VERSION, true );
 	}
 	
-	wp_enqueue_script( 'impa-navigation', get_template_directory_uri() . '/assets/js/navigation.js', array(), _S_VERSION, true );
+	// wp_enqueue_script( 'impa-navigation', get_template_directory_uri() . '/assets/js/navigation.js', array(), _S_VERSION, true );
 	
 	wp_enqueue_script( 'impa-script', get_template_directory_uri() . '/assets/js/script.js', array ( 'jquery' ), _S_VERSION, true );
 
@@ -184,7 +186,15 @@ function wpse_cpt_enqueue( $hook_suffix ){
 
 add_action( 'admin_enqueue_scripts', 'wpse_cpt_enqueue');
 
-
+//Page Slug Body Class
+function add_slug_body_class( $classes ) {
+	global $post;
+	if ( isset( $post ) ) {
+		$classes[] = $post->post_type . '-' . $post->post_name;
+	}
+	return $classes;
+}
+add_filter( 'body_class', 'add_slug_body_class' );
 
 /**
  * CPT Divulgação da Matemática
@@ -212,6 +222,11 @@ require get_template_directory() . '/inc/cpts/cpt-autor.php';
 require get_template_directory() . '/inc/cpts/cpt-aluno.php';
 
 /**
+ * CPT Aluno Visitante
+ */
+require get_template_directory() . '/inc/cpts/cpt-aluno-visitante.php';
+
+/**
  * CPT Vagas
  */
 require get_template_directory() . '/inc/cpts/cpt-vagas.php';
@@ -221,6 +236,15 @@ require get_template_directory() . '/inc/cpts/cpt-vagas.php';
  */
 require get_template_directory() . '/inc/cpts/cpt-defesa-de-tese.php';
 
+/**
+ * CPT PAPMEM
+ */
+require get_template_directory() . '/inc/cpts/cpt-papmem.php';
+
+/**
+ * CPT PROLÍMPICO
+ */
+require get_template_directory() . '/inc/cpts/cpt-prolimpico.php';
 
 /**
  * CPT Funcionários
@@ -232,7 +256,25 @@ require get_template_directory() . '/inc/cpts/cpt-funcionarios.php';
  */
 require get_template_directory() . '/inc/cpts/cpt-tecnologistas.php';
 
+/**
+ * CPT Afastamentos
+ */
+require get_template_directory() . '/inc/cpts/cpt-afastamentos.php';
 
+/**
+ * CPT Atas
+ */
+require get_template_directory() . '/inc/cpts/cpt-atas.php';
+
+/**
+ * CPT Balanços Anuais
+ */
+require get_template_directory() . '/inc/cpts/cpt-balancos-anuais.php';
+
+/**
+ * CPT Contratos de Prestação de Serviços Continuada
+ */
+require get_template_directory() . '/inc/cpts/cpt-contratos-de-prestacao-de-servicos-continuada.php';
 
 
 

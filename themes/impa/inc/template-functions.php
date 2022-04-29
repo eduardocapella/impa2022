@@ -115,9 +115,9 @@ require get_template_directory() . '/inc/fn/fn-home-editora.php';
 require get_template_directory() . '/inc/fn/fn-secoes-de-conteudo.php';
 
 /**
- * Function Atalhos Educação
+ * Function Atalhos
  */
-require get_template_directory() . '/inc/fn/fn-atalhos-educacao.php';
+require get_template_directory() . '/inc/fn/fn-atalhos.php';
 
 /**
  * Functions Saiba Mais
@@ -140,14 +140,80 @@ require get_template_directory() . '/inc/fn/fn-exibe-alunos.php';
 require get_template_directory() . '/inc/fn/fn-exibe-funcionarios.php';
 
 /**
- * Function Exibe Tecnologistas
- */
-require get_template_directory() . '/inc/fn/fn-exibe-tecnologistas.php';
-
-/**
  * Function Seção Logo com Link
  */
 require get_template_directory() . '/inc/fn/fn-secao-logo-com-link.php';
+
+/**
+ * Function Seções
+ */
+require get_template_directory() . '/inc/fn/fn-secoes.php';
+
+/**
+ * Function Custom Sections
+ */
+require get_template_directory() . '/inc/fn/fn-custom-section.php';
+
+/**
+ * Function Exibe Destaque (Carrossel ou Banner)
+ */
+require get_template_directory() . '/inc/fn/fn-exibe-destaque.php';
+
+/**
+ * Function Exibe bloco 1 e 2 de 'Eventos Divulgação da Matemática'
+ */
+require get_template_directory() . '/inc/fn/fn-ddm-bloco1.php';
+require get_template_directory() . '/inc/fn/fn-ddm-bloco2.php';
+
+/**
+ * Function Accordion
+ */
+require get_template_directory() . '/inc/fn/fn-accordion.php';
+
+/**
+ * Function Exibe Tecnologistas
+ */
+// if( is_page( 'tecnologistas-em-projetos' ) ) {
+   require get_template_directory() . '/inc/fn/fn-exibe-tecnologistas.php';
+// }
+
+/**
+ * Function Seminários
+ */
+require get_template_directory() . '/inc/fn/fn-seminarios.php';
+/**
+ * Pesquisadores
+ */
+// if( is_page( 'pesquisadores' ) ) {
+   require get_template_directory() . '/inc/fn/fn-pesquisadores.php';
+// }
+
+/**
+ * Pesquisadores Honorários
+ */
+// if( is_page( 'pesquisadores' ) ) {
+   require get_template_directory() . '/inc/fn/fn-pesquisadores-honorarios.php';
+// }
+
+/**
+ * Pesquisadores UMI
+ */
+// if( is_page( 'pesquisadores-umi' ) ) {
+   require get_template_directory() . '/inc/fn/fn-pesquisadores-umi.php';
+// }
+
+/**
+ * Pesquisadores Visitantes
+ */
+ // if( is_page( 2612 ) ) {
+   require get_template_directory() . '/inc/fn/fn-pesquisadores-visitantes.php';  
+ // }
+ 
+ /**
+  * Function Pós-Doutores
+  */
+ 
+   require get_template_directory() . '/inc/fn/fn-pos-doutores.php';
 
 
 add_filter( 'tablepress_use_default_css', '__return_false' );

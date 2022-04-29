@@ -23,7 +23,6 @@ function secao_home_videos() {
 									// Loop through rows.
 									while( have_rows( 'videos' ) ) : the_row();
 								
-										// Load sub field value.
 										// $video = get_sub_field( 'video' );
 										// Do something...
 										?>
@@ -47,10 +46,26 @@ function secao_home_videos() {
 							 	// Do something...
 							endif;
 							?>
+							
+							<?php
+							
+							// Load sub field value.
+							$texto_do_botao = get_sub_field( 'texto_do_botao' );
+							$escolha = get_sub_field( 'pagina_do_site_ou_url_externa' );
+							
+							if ( $escolha == 'Página do site' ) {
+								$video_page_id = get_sub_field( 'link_para_pagina_interna' );
+								$video_url = get_permalink( $video_page_id[0] );
 								
+							} else if ( $escolha == 'URL externa' ) {
+								$video_url = get_sub_field( 'url_do_botao' );
+							}
+							
+							?>
+							
 							<div class="wp-block-buttons">
 								<div class="wp-block-button">
-									<a class="wp-block-button__link" href="<?php echo get_sub_field( 'url_do_botao' ); ?>"><?php echo get_sub_field( 'texto_do_botao' ); ?></a>
+									<a class="wp-block-button__link" href="<?php echo $video_url ?>"><?php echo $texto_do_botao; ?></a>
 								</div>
 							</div>
 							

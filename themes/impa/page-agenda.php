@@ -19,7 +19,7 @@ get_header();
 	<div class="container-fluid no-padding">
 		<div class="row">
 			<div class="col-sm-12">
-				<?php tem_atalhos_com_icone(); ?>
+				<?php exibe_atalhos(); ?>
 			</div>
 			<!-- /.col-sm-12 -->
 		</div>
@@ -46,7 +46,7 @@ get_header();
 			<!-- /.col-sm-12 -->
 				
 			<div class="col-sm-12">
-				<?php tem_saiba_mais(); ?>
+				<?php exibe_saiba_mais(); ?>
 			</div>
 			<!-- /.col-sm-12 -->
 		</div>

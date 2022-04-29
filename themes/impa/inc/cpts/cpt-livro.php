@@ -4,22 +4,22 @@
 CPT - Eventos
 **/
 
-add_action('init', 'type_post_livros');
+add_action( 'init', 'type_post_livros' );
 
 function type_post_livros() { 
 	$labels = array(
-		'name' => _x('Books', 'post type general name'),
-		'singular_name' => _x('Book', 'post type singular name'),
-		'add_new' => _x('Add New', 'Novo item'),
-		'add_new_item' => __('New Item'),
-		'edit_item' => __('Edit Item'),
-		'new_item' => __('New Item'),
-		'view_item' => __('See Item'),
-		'search_items' => __('Search Itens'),
-		'not_found' =>  __('No record found'),
-		'not_found_in_trash' => __('Nenhum registro encontrado na lixeira'),
+		'name' => _x( 'Books', 'post type general name', 'impa' ),
+		'singular_name' => _x( 'Book', 'post type singular name' ),
+		'add_new' => _x( 'Add New', 'Novo item' ),
+		'add_new_item' => __( 'New Item' ),
+		'edit_item' => __( 'Edit Item' ),
+		'new_item' => __( 'New Item' ),
+		'view_item' => __( 'See Item' ),
+		'search_items' => __( 'Search Itens' ),
+		'not_found' =>  __( 'No record found' ),
+		'not_found_in_trash' => __( 'Nenhum registro encontrado na lixeira' ),
 		'parent_item_colon' => '',
-		'menu_name' => __('Books','impa')
+		'menu_name' => __( 'Books', 'impa' )
 	);
 
 	$args = array(
@@ -35,7 +35,7 @@ function type_post_livros() {
 		'menu_icon' => 'dashicons-book',
 		'menu_position' => null,
 		'show_in_rest' => true,
-		'supports' => array('title','editor','thumbnail', 'revisions')
+		'supports' => array( 'title', 'editor', 'thumbnail', 'revisions' )
 	);
 
 	register_post_type( 'livros' , $args );
@@ -50,7 +50,7 @@ TAXONOMY - Livros
 
 function register_taxonomy_colecoes_de_livros() {
 	  $labels = array(
-			'name'              => _x( 'Book Collections', 'taxonomy general name' ),
+			'name'              => _x( 'Book Collections', 'taxonomy general name', 'impa' ),
 			'singular_name'     => _x( 'Book Collection', 'taxonomy singular name' ),
 			'search_items'      => __( 'Search Book Collections' ),
 			'all_items'         => __( 'All Book Collections' ),

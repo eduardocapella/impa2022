@@ -7,50 +7,23 @@ get_header();
 
 			<div class="col-sm-12">
 				<?php
-				
-				// query
-				$the_query = new WP_Query(array(
-					'post_type'			=> 'eventos-cientificos',
-					'posts_per_page'	=> -1,
-					'meta_key'			=> 'evento_data_de_inicio',
-					'orderby'			=> 'meta_value',
-					'order'				=> 'ASC'
-				));
-				
-				if ( $the_query->have_posts() ) :
-					
-					$anos = [];
-					
-					while( $the_query->have_posts() ) : $the_query->the_post();
-						
-						$data_de_inicio = get_field( 'evento_data_de_inicio' );
-						$data_de_inicio_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_de_inicio);
-						$ano = $data_de_inicio_obj->format( 'Y' );
-						
-						if ( !in_array( $ano, $anos) ) {
-							 // $anos[] = $value; 
-							 array_push( $anos, $ano );
-						}
-					endwhile;
-					
-					// print_r( $anos );
-					
-					// para conseguir printar o título com tradução, é preciso usar a função de tradução
+				if ( have_posts() ) : 
 					?>
 					
-					<h2><?php echo __( get_the_archive_title(), 'impa' ); ?></h2>
+					<h2><?php the_archive_title(); ?></h2>
 					
 					<?php
-					
-					// loop para gerar os filtros
-					echo '<ul class="filtro-anos">';
-						foreach ( $anos as $ano ) {
-							echo '<li><button class="ano'. $ano . '">' . $ano . '</button></li>';
-						}
-						echo '<li><button class="todos selecionado">' . __( 'all', 'impa' ) . '</button></li>';
-						echo '</ul>';
-					
-					?>
+					while ( have_posts() ) : the_post();
+						?>
+						<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></h3>
+						<?php
+						// the_content();
+					endwhile;
+				else :
+					_e( 'Sorry, no posts matched your criteria.', 'impa' );
+				endif;
+				
+				?>
 					
 			</div>
 			
@@ -58,78 +31,7 @@ get_header();
 		
 	</div>
 	
-	<section class="section-eventos">
-						
-			<ul class="eventos eventos-cientificos">
-				
-				<?php
-				while( $the_query->have_posts() ) : $the_query->the_post();
-					$data_de_inicio = get_field( 'evento_data_de_inicio' );
-					$data_de_inicio_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_de_inicio);
-					
-					$month_inicio = $data_de_inicio_obj->format( 'M' );
-					
-					$evento_local_do_evento = get_field( 'evento_local_do_evento' );
-					
-					$imagem_16_9 = get_field( 'evento_imagem_16_9' );
-				?>
-					
-					<li class="<?php echo 'ano' . $data_de_inicio_obj->format( 'Y' ) ?>">
-						<div class="inicio">
-							<time class="ano">
-								<?php echo $data_de_inicio_obj->format( 'Y' ); ?>
-							</time>
-							<time class="dia">
-								<?php echo $data_de_inicio_obj->format( 'd' ); ?>
-							</time>
-							<time class="mes">
-								<?php echo __( $month_inicio, 'impa' ); ?>
-							</time>
-						</div>
-						<!-- /.inicio -->
-						
-						<div class="thumbnail">
-							<?php if( $imagem_16_9 ) { ?>
-							<figure><a href="<?php the_permalink(); ?>"><img src="<?php echo $imagem_16_9[ 'url' ] ?>" alt="<?php echo $imagem_16_9[ 'alt' ] ?>" ></a></figure>
-							<?php } else { ?>
-							<figure><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail(); ?></a></figure>
-							<?php } ?>
-						</div>
-						<!-- /.thumbnail -->	
-						
-						<div class="eventos-content">
-							<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-							
-							<?php
-							// eliminar os elementos vazios e colocar 
-							$texto = array( 
-								$evento_local_do_evento[ 'local' ],
-								$evento_local_do_evento[ 'bairro' ],
-								$evento_local_do_evento[ 'cidade' ],
-								$evento_local_do_evento[ 'estado' ]
-							);
-							
-							$texto = implode( ' - ', array_filter( $texto ) );
-							?>
-							<p><?php echo $texto; ?></p>
-						</div>
-						<!-- /.eventos-content -->
-					</li>
-					
-				<?php	
-				endwhile;
-				?>
-			
-			</ul>
-			<!-- /.eventos eventos-cientificos -->
-		<?php
-		else :
-			_e( 'Sorry, no posts matched your criteria.', 'impa' );
-		endif;
-		
-		wp_reset_query();
-		?>
-	</section>
+	
 </main>
 
 <?php

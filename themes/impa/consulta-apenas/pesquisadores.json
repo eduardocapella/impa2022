@@ -1,1 +1,2546 @@
-[{"id":17154,"nome":"Airton de Medeiros","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17154&token=3c8179de1979ed5f080f0871c7bd9bde","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":16986,"nome":"Alcides Lins Neto","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=16986&token=2851389c12fee533abfa505b4c7551d1","qrcode":"http://w3.impa.br/~dac/qrcode/alcides.png","sala":"308","ramal":"5108","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783214Y6","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Complexa e Folheações Holomorfas","nomeEn":"Complex Geometry and Holomorphic Foliations"}},{"id":2877,"nome":"Alexei Mailybaev","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2877&token=f076073b2082f8741a9cd07b789c77a0","qrcode":"http://w3.impa.br/~dac/qrcode/alexei.png","sala":"406","ramal":"5206","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://alexei.impa.br/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Dinâmica dos Fluidos           ","nomeEn":"Fluid Dynamics "}},{"id":38945,"nome":"Alfredo Iusem","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38945&token=48b928005eb587644756f16e5705e3f0","qrcode":"http://w3.impa.br/~dac/qrcode/alfredo.png","sala":"320","ramal":"5120","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~iusp/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Otimização","nomeEn":"Optimization"}},{"id":20821,"nome":"Aloísio Araújo","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20821&token=f40fe967870174ded9323bae71c5ce50","qrcode":"http://w3.impa.br/~dac/qrcode/aloisio.png","sala":"340","ramal":"5140","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~aloisio/","categoria":{"id":null,"nomePt":"Pesquisador Emérito","nomeEn":"Professor Emeritus"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Economia Matemática","nomeEn":"Mathematical Economics"}},{"id":38949,"nome":"André Nachbin","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38949&token=6ca1b5fd5fa5acb612e8e06e8b180dc5","qrcode":"http://w3.impa.br/~dac/qrcode/andre%20nachbin.png","sala":"414","ramal":"5214","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://nachbin.impa.br/Home","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Dinâmica dos Fluidos           ","nomeEn":"Fluid Dynamics "}},{"id":21176,"nome":"Arnaldo Garcia","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21176&token=d3771dbda05117c970b350da0021662c","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781570Z2","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":38941,"nome":"Aron Simis","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38941&token=4ea8982596915ae3bf5e9dc46e17222c","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787579H3","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":20946,"nome":"Artur Avila","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20946&token=9833dfe00e523737467c90974b3ff70c","qrcode":"http://w3.impa.br/~dac/qrcode/artur.png","sala":"326","ramal":"5126","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4794781E6","categoria":{"id":null,"nomePt":"Pesquisador Extraordinário","nomeEn":"Extraordinary Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":3687,"nome":"Augusto Teixeira","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3687&token=6754e06e46dfa419d5afe3c9781cecad","qrcode":"http://w3.impa.br/~dac/qrcode/augusto.png","sala":"403","ramal":"5203","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~augusto/","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":17600,"nome":"Barry Rees James","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17600&token=82a008560ab8fa4bd01994e2ff52bb6a","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://www.d.umn.edu/~bjames","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":3934,"nome":"Béla Bollobás","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3934&token=f8f122d50eba11c3af5607575b277bc6","qrcode":"http://w3.impa.br/~dac/qrcode/bela.png","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"https://www.memphis.edu/msci/people/bollobas.php","categoria":{"id":null,"nomePt":"Pesquisador Visitante Especial","nomeEn":"Special Visiting Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":20823,"nome":"Benar Svaiter","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20823&token=30aaa035ea6addf3032dc3d63b674344","qrcode":"http://w3.impa.br/~dac/qrcode/benar.png","sala":"312","ramal":"5112","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~benar/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Otimização","nomeEn":"Optimization"}},{"id":17601,"nome":"Bent Jørgensen","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17601&token=76b9419064e61d1a0a82607b0cbd7fc4","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Estatística","nomeEn":"Statistics"}},{"id":20997,"nome":"Carlos Gustavo Moreira","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20997&token=c249e9902551985fca7bb2c496f67cc1","qrcode":"http://w3.impa.br/~dac/qrcode/gugu.png","sala":"322","ramal":"5122","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~gugu/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":20819,"nome":"Carlos Gutierrez Vidalon","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20819&token=50008da8657acfd5d8424ca570a6e93f","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":3737,"nome":"Carlos Isnard","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3737&token=3db11d259a9db7fb8965bdf25ec850b9","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":17605,"nome":"Carlos José Ferraris","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17605&token=ec8da1b5980e5c90358cfe8ffee27108","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787047H6","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":21169,"nome":"Carolina Araujo","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21169&token=81ea0fcc88f87dc34ec2351dc57b711c","qrcode":"http://w3.impa.br/~dac/qrcode/carolina.png","sala":"416-B","ramal":"5183","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4795750Y4","categoria":{"id":null,"nomePt":"Pesquisadora Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":20909,"nome":"César Camacho","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20909&token=6565bedc3b88da2412ea122c87433f0a","qrcode":"http://w3.impa.br/~dac/qrcode/cesar.png","sala":"348","ramal":"5148","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~camacho/","categoria":{"id":null,"nomePt":"Pesquisador Emérito","nomeEn":"Professor Emeritus"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Complexa e Folheações Holomorfas","nomeEn":"Complex Geometry and Holomorphic Foliations"}},{"id":75972,"nome":"Charles Tresser","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=75972&token=fd58bcbdaa3e04d7455430269d17d6e0","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"","categoria":{"id":null,"nomePt":"Pesquisador Extraordinário","nomeEn":"Extraordinary Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos","nomeEn":"Dynamical Systems"}},{"id":21000,"nome":"Claudio Landim","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21000&token=6896521bf2c62949dbdfa65176cc45f9","qrcode":"http://w3.impa.br/~dac/qrcode/claudio.png","sala":"306","ramal":"5106","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~landim/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":21170,"nome":"Dan Marchesin","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21170&token=b6d69c1c07b1d8d83b953b28563999ae","qrcode":"http://w3.impa.br/~dac/qrcode/dan.png","sala":"356","ramal":"5156","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://marchesi.impa.br/Home","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Dinâmica dos Fluidos           ","nomeEn":"Fluid Dynamics "}},{"id":42235,"nome":"Diego Nehab","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=42235&token=c64fa745fa1d9b2a6835cf63d3fa103b","qrcode":"http://w3.impa.br/~dac/qrcode/diego.png","sala":"410","ramal":"5210","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://www.impa.br/~diego","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Computação Gráfica","nomeEn":"Computer Graphics "}},{"id":84821,"nome":"Djalma Pessoa","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=84821&token=e465cf1f5a5137c51bf9afb4b29a4caa","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781592D2","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":18819,"nome":"Eduardo Esteves","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=18819&token=af7fc8485f40dc495bc626d6dbe7faf1","qrcode":"http://w3.impa.br/~dac/qrcode/eduardo.png","sala":"418","ramal":"5218","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4788548J1","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":6125,"nome":"Elon Lages Lima","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=6125&token=6e3b0bf8b7d5956ae572b15cd7ddb0e1","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781907T2","categoria":{"id":null,"nomePt":"Pesquisador Emérito","nomeEn":"Professor Emeritus"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Topologia","nomeEn":"Topology"}},{"id":2159,"nome":"Emanuel Carneiro","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2159&token=ddd9dda6bfaf0bb1525a8a27c3ee6131","qrcode":"http://w3.impa.br/~dac/qrcode/emanuel.png","sala":"412","ramal":"5212","seExibeNoSite":true,"seExibeNaTV":true,"ativa":false,"tipo":null,"paginaPessoal":"http://carneiro.impa.br/","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":2588,"nome":"Enrique Daniel Andjel","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2588&token=fb89fd138b104dcf8e2077ad2a23954d","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783280J0","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":21008,"nome":"Enrique Pujals","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21008&token=8ed700a6d0de777200111377efb82f53","qrcode":"http://w3.impa.br/~dac/qrcode/enrique%20pujals.png","sala":"416","ramal":"5216","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://w3.impa.br/~enrique/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":17611,"nome":"Étienne Ghys","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17611&token=f46b28e1e1b9a56483b1e4058f9f9d97","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":true,"tipo":null,"paginaPessoal":"http://perso.ens-lyon.fr/ghys/home/","categoria":{"id":null,"nomePt":"Pesquisador Honorário","nomeEn":"Honorary Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":20942,"nome":"Felipe Linares","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20942&token=8e047e51a0262a54c2dffb2274683c07","qrcode":"http://w3.impa.br/~dac/qrcode/felipel.png","sala":"424","ramal":"5224","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~linares/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":20881,"nome":"Fernando Codá","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20881&token=ea575071bd2ce6da53a62a2b147ea96c","qrcode":"","sala":"","ramal":"","seExibeNoSite":false,"seExibeNaTV":false,"ativa":true,"tipo":null,"paginaPessoal":"","categoria":null,"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":17670,"nome":"Francisco Javier Thayer","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17670&token=12bfe8169664a265eb2fd8b9fd067b05","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Eq. Dif. Parciais","nomeEn":"Partial Differential Equations"}},{"id":17619,"nome":"Gudlaugur Thorbergsson","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17619&token=6a89030139adc3d2fc4aade3433e8d16","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8754228J5","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":12506,"nome":"Guillermo Fleitas Morales","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=12506&token=30637ce29549ac951061fd211d43c3b0","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://eguia.ull.es/matematicas/queryprof.php?id=4","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":2577,"nome":"Harold Rosenberg","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2577&token=74934548253bcab8490ebd74afed7031","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://w3.impa.br/~rosen/","categoria":{"id":null,"nomePt":"Pesquisador Extraordinário","nomeEn":"Extraordinary Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":5895,"nome":"Henrique Bursztyn","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=5895&token=33853141e0873909be88f5c3e6144cc6","qrcode":"http://w3.impa.br/~dac/qrcode/henriqueb.png","sala":"420","ramal":"5220","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~henrique/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Simplética","nomeEn":"Symplectic Geometry"}},{"id":20945,"nome":"Hermano Frid","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20945&token=5b011d9e8a36fa05832f9c3032d10123","qrcode":"http://w3.impa.br/~dac/qrcode/hermano.png","sala":"316","ramal":"5116","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~hermano/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":12541,"nome":"Hildeberto Eulálio Cabral","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=12541&token=2aa99900aa004f52980b7c2cad7ed31a","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787759H0","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":21105,"nome":"Hossein Movasati","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21105&token=28fd3872c62aad371e8b21061f1a35bd","qrcode":"http://w3.impa.br/~dac/qrcode/hossein.png","sala":"416-A","ramal":"5180","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~hossein/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Complexa e Folheações Holomorfas","nomeEn":"Complex Geometry and Holomorphic Foliations"}},{"id":55825,"nome":"Hubert Lacoin","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=55825&token=9215b69bf3fc8955f31f72c4bd4e577a","qrcode":"http://w3.impa.br/~dac/qrcode/hubert.png","sala":"318","ramal":"5118","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~lacoin/","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":17621,"nome":"Jack Schechtman","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17621&token=0d1f9ed41c577b9ad97ebe248806ca70","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Otimização","nomeEn":"Optimization"}},{"id":20863,"nome":"Jacob Palis","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20863&token=00ca4dc5c4d94396ae3966f3b0ab1f1b","qrcode":"http://w3.impa.br/~dac/qrcode/jacob.png","sala":"336","ramal":"5136","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~jpalis/","categoria":{"id":null,"nomePt":"Pesquisador Emérito","nomeEn":"Professor Emeritus"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":17622,"nome":"Jaime Ignácio Lesmes","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17622&token=6a62253c673325a7be239b84a9f879d2","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://www.ecured.cu/Jaime_Ignacio_Lesmes_Camacho","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Eq. Dif. Parciais","nomeEn":"Partial Differential Equations"}},{"id":17704,"nome":"Jean-Christophe Yoccoz","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17704&token=5f9449ba01fb3bf921996d83dd46e9de","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://mathshistory.st-andrews.ac.uk/Biographies/Yoccoz/","categoria":{"id":null,"nomePt":"Pesquisador Honorário","nomeEn":"Honorary Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":12627,"nome":"Jonas Gomes","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=12627&token=1879d84e181b6262704e95372dc9f4dc","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://w3.impa.br/~jgomes/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Computação Gráfica","nomeEn":"Computer Graphics "}},{"id":17623,"nome":"Jörg Blatter","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17623&token=616996895f8fbde61cf176ee9e7aecfd","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Eq. Dif. Parciais","nomeEn":"Partial Differential Equations"}},{"id":1651,"nome":"Jorge Sotomayor","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=1651&token=be3e9d3f7d70537357c67bb3f4086846","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":2110,"nome":"Jorge Vitório Pereira","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2110&token=c3535febaff29fcb7c0d20cbe94391c7","qrcode":"http://w3.impa.br/~dac/qrcode/jorgev.png","sala":"426","ramal":"5226","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":" http://www.impa.br/~jvp","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Complexa e Folheações Holomorfas","nomeEn":"Complex Geometry and Holomorphic Foliations"}},{"id":20969,"nome":"Jorge Zubelli","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20969&token=1815de90dcf9f6b27dd6bff0f7a487bd","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://w3.impa.br/~zubelli/Nova_pagina_pessoal/index.html","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":6444,"nome":"José Espinar","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=6444&token=8a36dfc67ebfbbea9bd01cd8a4c8ad32","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4368411Z6","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":18820,"nome":"José Felipe Voloch","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=18820&token=146017373d58c750fab8341254cf6c16","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://www.math.canterbury.ac.nz/~f.voloch/cv.html","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":17625,"nome":"Jürgen K. Moser","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17625&token=2cd2e570d324ece8ff21b15d1fbe3db3","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Honorário","nomeEn":"Honorary Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":7968,"nome":"Kaizô Iwakami Beltrão","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=7968&token=9dd30287dc5ffcfb4efb1e0521c3c8f8","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780283D4","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":17626,"nome":"Kang Ling James","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17626&token=5c9d54bf8c2ade6c7ad0bafd578e5f09","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://www.d.umn.edu/~kjames/","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":3796,"nome":"Karl-Otto Stöhr","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3796&token=41c542dfe6e4fc3deb251d64cf6ed2e4","qrcode":"http://w3.impa.br/~dac/qrcode/karl.png","sala":"362","ramal":"5162","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4788621J1","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":76443,"nome":"Khadim War","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=76443&token=4de13e504962c8f81055bf09363b79de","qrcode":"http://w3.impa.br/~dac/qrcode/khadim.png","sala":"402","ramal":"5202","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://users.ictp.it/~kwar/","categoria":{"id":null,"nomePt":"Pesquisador Adjunto","nomeEn":"Deputy Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":17628,"nome":"Leopoldo Nachbin","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17628&token=60aaa4b2fc3fcf6a41c454149ab76592","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://pt.wikipedia.org/wiki/Leopoldo_Nachbin","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":15683,"nome":"Lucas Ambrozio","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=15683&token=8b5871528335103533d02d1a9f8c629e","qrcode":"","sala":"405","ramal":"5205","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~l.ambrozio/","categoria":{"id":null,"nomePt":"Pesquisador Adjunto","nomeEn":"Deputy Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":20918,"nome":"Luciano Irineu de Castro","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20918&token=0e668474147b19cfdc7c8cbef7f9f2e3","qrcode":"http://w3.impa.br/~dac/qrcode/luciano.png","sala":"368","ramal":"5168","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4706037U4","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Economia Matemática","nomeEn":"Mathematical Economics"}},{"id":3739,"nome":"Lucio Rodriguez","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3739&token=20885c72ca35d75619d6a378edea9f76","qrcode":"http://w3.impa.br/~dac/qrcode/lucio.png","sala":"324","ramal":"5124","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781574J8","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":64393,"nome":"Luis Caffarelli","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=64393&token=340198557f49a846acdc1129c67815d1","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":true,"tipo":null,"paginaPessoal":"https://web.ma.utexas.edu/users/caffarel/","categoria":{"id":null,"nomePt":"Pesquisador Honorário","nomeEn":"Honorary Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Eq. Dif. Parciais","nomeEn":"Partial Differential Equations"}},{"id":21090,"nome":"Luis Florit","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21090&token=30b6b8f7a8e3dba528fe76dec93d773a","qrcode":"http://w3.impa.br/~dac/qrcode/luisf.png","sala":"404","ramal":"5204","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://luis.impa.br/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":3797,"nome":"Luiz Henrique de Figueiredo","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3797&token=36072923bfc3cf47745d704feb489480","qrcode":"http://w3.impa.br/~dac/qrcode/luizhf.png","sala":"342","ramal":"5142","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://lhf.impa.br/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Computação Gráfica","nomeEn":"Computer Graphics "}},{"id":1781,"nome":"Luiz Velho","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=1781&token=8b6a80c3cf2cbd5f967063618dc54f39","qrcode":"http://w3.impa.br/~dac/qrcode/luizv.png","sala":"354","ramal":"5154","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://lvelho.impa.br/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Computação Gráfica","nomeEn":"Computer Graphics "}},{"id":77722,"nome":"Luna Lomonaco","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=77722&token=aefa054c968f7d0b480db2cd848044cc","qrcode":"http://w3.impa.br/~dac/qrcode/Luna%20Lomonaco.png","sala":"5134","ramal":"334","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8144263J6","categoria":{"id":null,"nomePt":"Pesquisadora Adjunta","nomeEn":"Deputy Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":21181,"nome":"Manfredo do Carmo","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21181&token=96d266834024baec8b64b960391c31e5","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780416T2","categoria":{"id":null,"nomePt":"Pesquisador Emérito","nomeEn":"Professor Emeritus"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":2674,"nome":"Marcelo Viana","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2674&token=a8345c3bb9e3896ea538ce77ffaf2c20","qrcode":"http://w3.impa.br/~dac/qrcode/marcelov.png","sala":"314","ramal":"5114","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://www.impa.br/~viana/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":38948,"nome":"Marcos Dajczer","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38948&token=e2d1a6e73522ced82377206f4ac503de","qrcode":"http://w3.impa.br/~dac/qrcode/marcosd.png","sala":"366","ramal":"5166","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787704U9","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":21087,"nome":"Marcus Sarkis-Martins","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21087&token=794b7ff3de411a7bb686761ca410038c","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787337H0","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Dinâmica dos Fluidos           ","nomeEn":"Fluid Dynamics "}},{"id":1595,"nome":"Maria Eulália Vares","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=1595&token=d88518acbcc3d08d1f18da62f9bb26ec","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783190Z6","categoria":{"id":null,"nomePt":"Pesquisadora Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":20888,"nome":"Maurício Peixoto","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20888&token=873e84c5c8a793c20a0762a801bcb446","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780849Y4","categoria":{"id":null,"nomePt":"Pesquisador Emérito","nomeEn":"Professor Emeritus"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":48816,"nome":"Mikhail Belolipetsky","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=48816&token=fc804d532af1ae8155de91061e37d756","qrcode":"http://w3.impa.br/~dac/qrcode/mikhailb.png","sala":"407","ramal":"5207","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~mbel/","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":21122,"nome":"Mikhail Solodov","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21122&token=eae6b5d089d0b287174df2742875b515","qrcode":"http://w3.impa.br/~dac/qrcode/mikhails.png","sala":"428","ramal":"5228","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~optim/solodov.html","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Otimização","nomeEn":"Optimization"}},{"id":69285,"nome":"Mikhail Verbitskiy","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=69285&token=70770ef72356199a4b2b994266f11501","qrcode":"http://w3.impa.br/~dac/qrcode/mikhailv.png","sala":"344","ramal":"5144","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8833383Z1","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Simplética","nomeEn":"Symplectic Geometry"}},{"id":20808,"nome":"Milton Jara","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20808&token=b9cc29ff23a908aaf7f741dabbe5b0f6","qrcode":"http://w3.impa.br/~dac/qrcode/milton.png","sala":"430","ramal":"5230","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://www.impa.br/~monets","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":55149,"nome":"Oliver Lorscheid","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=55149&token=1a9f530e9d612238a20cff3f8369cb5e","qrcode":"http://w3.impa.br/~dac/qrcode/oliver.png","sala":"350","ramal":"5150","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://oliver.impa.br/","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":2548,"nome":"Oscar Humberto Bustos","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2548&token=0e4a2c65bdaddd66a53422d93daebe68","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://www.famaf.unc.edu.ar/~ciem/personas/bustos.html","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Estatística","nomeEn":"Statistics"}},{"id":17690,"nome":"Otto Endler","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17690&token=b237e7e6bada3f572c342dc4bbcda0d2","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":10965,"nome":"Paulo César Coutinho","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=10965&token=b5d17ed2b502da15aa727af0d51508d6","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781898Z8","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Economia Matemática","nomeEn":"Mathematical Economics"}},{"id":3800,"nome":"Paulo Cezar Pinto Carvalho","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3800&token=63c6598e9ddd2961e7dfa4d4eb8144a1","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4721463Y6","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Computação Gráfica","nomeEn":"Computer Graphics "}},{"id":3705,"nome":"Paulo Klinger Monteiro","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3705&token=2cfa3753d6a524711acb5fce38eeca1a","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783999D6","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Economia Matemática","nomeEn":"Mathematical Economics"}},{"id":79627,"nome":"Paulo Orenstein","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=79627&token=8b361d620160b143214310905816c6f2","qrcode":"http://w3.impa.br/~dac/qrcode/pauloorenstein.png","sala":"401","ramal":"5201","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~pauloo/","categoria":{"id":null,"nomePt":"Pesquisador Adjunto","nomeEn":"Deputy Researcher"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":16965,"nome":"Paulo Sad","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=16965&token=4d1d732a3fd7efdacb4b26a0ca945eba","qrcode":"http://w3.impa.br/~dac/qrcode/paulos.png","sala":"422","ramal":"5222","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787570Y2","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Complexa e Folheações Holomorfas","nomeEn":"Complex Geometry and Holomorphic Foliations"}},{"id":13019,"nome":"Pedro Luiz Valls Pereira","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13019&token=a2b834e585967887c4522fa09f0b6395","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787992J3","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Economia Matemática","nomeEn":"Mathematical Economics"}},{"id":17645,"nome":"Pedro Nowosad","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17645&token=2d48dc37435b338396739948524ccee8","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":20937,"nome":"Rafael Iório","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20937&token=5c6c364bf5f3e00a2e2b017859dde995","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787910J1","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":43090,"nome":"Reimundo Heluani","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=43090&token=9926b3ed9e0bc20b2ed7f32711b8b45f","qrcode":"http://w3.impa.br/~dac/qrcode/reimundo.png","sala":"432","ramal":"5232","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~heluani/","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}},{"id":84822,"nome":"René Thom","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=84822&token=8dbe5bae98d79e33166891c075387088","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Honorário","nomeEn":"Honorary Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":13076,"nome":"Ricardo Mañé","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13076&token=897dfc4f20f0edf00528e4c6f4ad2c5b","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":6588,"nome":"Robert Morris","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=6588&token=565e8a413d0562de9ee4378402d2b481","qrcode":"http://w3.impa.br/~dac/qrcode/robert.png","sala":"310","ramal":"5110","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~rob/index.html","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":21085,"nome":"Roberto Imbuzeiro","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21085&token=6060d12ec4413d29a17e7584783c23be","qrcode":"http://w3.impa.br/~dac/qrcode/robertoi.png","sala":"408","ramal":"5208","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://lattes.cnpq.br/8861097282658615","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":13143,"nome":"Ruben Klein","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13143&token=f048e308e7e425a59898a5339731e429","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787530P4","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":13146,"nome":"Rubens Leão de Andrade","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13146&token=cc580a0617b08b2ce02582e0af20875c","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=347176","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Análise/Eq. Dif. Parciais","nomeEn":"Analysis/Partial Differential Equations "}},{"id":17658,"nome":"Sancho Berenguer","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17658&token=548b57cc0fd23358084548f3bbd9fdbc","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Otimização","nomeEn":"Optimization"}},{"id":11453,"nome":"Sergio Granville","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=11453&token=0ec96be397dd6d3cf2fecb4a2d627c1c","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781031P8","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Otimização","nomeEn":"Optimization"}},{"id":15171,"nome":"Sérgio Werlang","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=15171&token=126548d403b6c39820e63fed2cd54db3","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://epge.fgv.br/pt/professor/sergio-werlang","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Economia Matemática","nomeEn":"Mathematical Economics"}},{"id":84823,"nome":"Shiing-Shen Chern","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=84823&token=e8c89ea71719b3bbd7c6aa353805cb84","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":null,"categoria":{"id":null,"nomePt":"Pesquisador Honorário","nomeEn":"Honorary Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":2539,"nome":"Steve Smale","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2539&token=2aedcba61ca55ceb62d785c6b7f10a83","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":true,"tipo":null,"paginaPessoal":"https://math.berkeley.edu/~smale/","categoria":{"id":null,"nomePt":"Pesquisador Honorário","nomeEn":"Honorary Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Topologia","nomeEn":"Topology"}},{"id":17664,"nome":"Tenkasi Viswanathan","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17664&token=8d98ea39261415654200fc3faa058283","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":17571,"nome":"Vinicius Ramos","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17571&token=c0aa6afda9e17aea0a32959bdf142439","qrcode":"http://w3.impa.br/~dac/qrcode/viniciusr.png","sala":"352","ramal":"5152","seExibeNoSite":true,"seExibeNaTV":true,"ativa":true,"tipo":null,"paginaPessoal":"http://w3.impa.br/~vgbramos/","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Simplética","nomeEn":"Symplectic Geometry"}},{"id":38952,"nome":"Vladas Sidoravicius","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38952&token=0387e752de768f5209f20749c0d910ad","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://shanghai.nyu.edu/academics/faculty/directory/vladas-sidoravicius","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Probabilidade","nomeEn":"Probability"}},{"id":15129,"nome":"Washington Mio","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=15129&token=cfa31d8130bef0e6643e5de9d0a0cac9","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://www.math.fsu.edu/People/faculty.php?id=27","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Topologia","nomeEn":"Topology"}},{"id":16863,"nome":"Welington Celso de Melo","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=16863&token=fe33b4901179d6118f8859c27426e45b","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787570H6","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Sistemas Dinâmicos e Teoria Ergódica","nomeEn":"Dynamical Systems and Ergodic Theory"}},{"id":21889,"nome":"William Glenn Whitley","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21889&token=6fcbe90edddbc8bc99ec9fb4960ef0b9","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780480T7","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":71587,"nome":"William Hamiltton Meeks III","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=71587&token=9a676cac9257a36095c23cd6077d838c","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"https://www.math.umass.edu/directory/emeritus-faculty/william-meeks","categoria":{"id":null,"nomePt":"Pesquisador Associado","nomeEn":"Associate Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Geometria Diferencial","nomeEn":"Differential Geometry "}},{"id":17715,"nome":"Yves Albert Emile Lequain","nomeConhecido":null,"foto":"https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17715&token=03f49b05efdd5edf3b57ed84b1cfb226","qrcode":"","sala":"","ramal":"","seExibeNoSite":true,"seExibeNaTV":false,"ativa":false,"tipo":null,"paginaPessoal":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787243E6","categoria":{"id":null,"nomePt":"Pesquisador Titular","nomeEn":"Full Professor"},"pessoaFisicaId":null,"area":{"id":null,"nomePt":"Álgebra","nomeEn":"Algebra"}}]
+[
+	{
+		"id": 17154,
+		"nome": "Airton de Medeiros",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17154&token=3c8179de1979ed5f080f0871c7bd9bde",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 16986,
+		"nome": "Alcides Lins Neto",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=16986&token=2851389c12fee533abfa505b4c7551d1",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/alcides.png",
+		"sala": "308",
+		"ramal": "5108",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783214Y6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Complexa e Folheações Holomorfas",
+			"nomeEn": "Complex Geometry and Holomorphic Foliations"
+		}
+	},
+	{
+		"id": 2877,
+		"nome": "Alexei Mailybaev",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2877&token=f076073b2082f8741a9cd07b789c77a0",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/alexei.png",
+		"sala": "406",
+		"ramal": "5206",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://alexei.impa.br/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Dinâmica dos Fluidos           ",
+			"nomeEn": "Fluid Dynamics "
+		}
+	},
+	{
+		"id": 38945,
+		"nome": "Alfredo Iusem",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38945&token=48b928005eb587644756f16e5705e3f0",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/alfredo.png",
+		"sala": "320",
+		"ramal": "5120",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~iusp/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Otimização", "nomeEn": "Optimization" }
+	},
+	{
+		"id": 20821,
+		"nome": "Aloísio Araújo",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20821&token=f40fe967870174ded9323bae71c5ce50",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/aloisio.png",
+		"sala": "340",
+		"ramal": "5140",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~aloisio/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Emérito",
+			"nomeEn": "Professor Emeritus"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Economia Matemática",
+			"nomeEn": "Mathematical Economics"
+		}
+	},
+	{
+		"id": 38949,
+		"nome": "André Nachbin",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38949&token=6ca1b5fd5fa5acb612e8e06e8b180dc5",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/andre%20nachbin.png",
+		"sala": "414",
+		"ramal": "5214",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://nachbin.impa.br/Home",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Dinâmica dos Fluidos           ",
+			"nomeEn": "Fluid Dynamics "
+		}
+	},
+	{
+		"id": 21176,
+		"nome": "Arnaldo Garcia",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21176&token=d3771dbda05117c970b350da0021662c",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781570Z2",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 38941,
+		"nome": "Aron Simis",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38941&token=4ea8982596915ae3bf5e9dc46e17222c",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787579H3",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 20946,
+		"nome": "Artur Avila",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20946&token=9833dfe00e523737467c90974b3ff70c",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/artur.png",
+		"sala": "326",
+		"ramal": "5126",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4794781E6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Extraordinário",
+			"nomeEn": "Extraordinary Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 3687,
+		"nome": "Augusto Teixeira",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3687&token=6754e06e46dfa419d5afe3c9781cecad",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/augusto.png",
+		"sala": "403",
+		"ramal": "5203",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~augusto/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 17600,
+		"nome": "Barry Rees James",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17600&token=82a008560ab8fa4bd01994e2ff52bb6a",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://www.d.umn.edu/~bjames",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 3934,
+		"nome": "Béla Bollobás",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3934&token=f8f122d50eba11c3af5607575b277bc6",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/bela.png",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "https://www.memphis.edu/msci/people/bollobas.php",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Visitante Especial",
+			"nomeEn": "Special Visiting Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 20823,
+		"nome": "Benar Svaiter",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20823&token=30aaa035ea6addf3032dc3d63b674344",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/benar.png",
+		"sala": "312",
+		"ramal": "5112",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~benar/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Otimização", "nomeEn": "Optimization" }
+	},
+	{
+		"id": 17601,
+		"nome": "Bent Jørgensen",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17601&token=76b9419064e61d1a0a82607b0cbd7fc4",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Estatística", "nomeEn": "Statistics" }
+	},
+	{
+		"id": 20997,
+		"nome": "Carlos Gustavo Moreira",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20997&token=c249e9902551985fca7bb2c496f67cc1",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/gugu.png",
+		"sala": "322",
+		"ramal": "5122",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~gugu/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 20819,
+		"nome": "Carlos Gutierrez Vidalon",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20819&token=50008da8657acfd5d8424ca570a6e93f",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 3737,
+		"nome": "Carlos Isnard",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3737&token=3db11d259a9db7fb8965bdf25ec850b9",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 17605,
+		"nome": "Carlos José Ferraris",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17605&token=ec8da1b5980e5c90358cfe8ffee27108",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787047H6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 21169,
+		"nome": "Carolina Araujo",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21169&token=81ea0fcc88f87dc34ec2351dc57b711c",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/carolina.png",
+		"sala": "416-B",
+		"ramal": "5183",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4795750Y4",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisadora Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 20909,
+		"nome": "César Camacho",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20909&token=6565bedc3b88da2412ea122c87433f0a",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/cesar.png",
+		"sala": "348",
+		"ramal": "5148",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~camacho/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Emérito",
+			"nomeEn": "Professor Emeritus"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Complexa e Folheações Holomorfas",
+			"nomeEn": "Complex Geometry and Holomorphic Foliations"
+		}
+	},
+	{
+		"id": 75972,
+		"nome": "Charles Tresser",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=75972&token=fd58bcbdaa3e04d7455430269d17d6e0",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Extraordinário",
+			"nomeEn": "Extraordinary Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos",
+			"nomeEn": "Dynamical Systems"
+		}
+	},
+	{
+		"id": 21000,
+		"nome": "Claudio Landim",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21000&token=6896521bf2c62949dbdfa65176cc45f9",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/claudio.png",
+		"sala": "306",
+		"ramal": "5106",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~landim/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 21170,
+		"nome": "Dan Marchesin",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21170&token=b6d69c1c07b1d8d83b953b28563999ae",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/dan.png",
+		"sala": "356",
+		"ramal": "5156",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://marchesi.impa.br/Home",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Dinâmica dos Fluidos           ",
+			"nomeEn": "Fluid Dynamics "
+		}
+	},
+	{
+		"id": 42235,
+		"nome": "Diego Nehab",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=42235&token=c64fa745fa1d9b2a6835cf63d3fa103b",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/diego.png",
+		"sala": "410",
+		"ramal": "5210",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://www.impa.br/~diego",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Computação Gráfica",
+			"nomeEn": "Computer Graphics "
+		}
+	},
+	{
+		"id": 84821,
+		"nome": "Djalma Pessoa",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=84821&token=e465cf1f5a5137c51bf9afb4b29a4caa",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781592D2",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 18819,
+		"nome": "Eduardo Esteves",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=18819&token=af7fc8485f40dc495bc626d6dbe7faf1",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/eduardo.png",
+		"sala": "418",
+		"ramal": "5218",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4788548J1",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 6125,
+		"nome": "Elon Lages Lima",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=6125&token=6e3b0bf8b7d5956ae572b15cd7ddb0e1",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781907T2",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Emérito",
+			"nomeEn": "Professor Emeritus"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Topologia", "nomeEn": "Topology" }
+	},
+	{
+		"id": 2159,
+		"nome": "Emanuel Carneiro",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2159&token=ddd9dda6bfaf0bb1525a8a27c3ee6131",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/emanuel.png",
+		"sala": "412",
+		"ramal": "5212",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://carneiro.impa.br/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 2588,
+		"nome": "Enrique Daniel Andjel",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2588&token=fb89fd138b104dcf8e2077ad2a23954d",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783280J0",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 21008,
+		"nome": "Enrique Pujals",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21008&token=8ed700a6d0de777200111377efb82f53",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/enrique%20pujals.png",
+		"sala": "416",
+		"ramal": "5216",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~enrique/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 17611,
+		"nome": "Étienne Ghys",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17611&token=f46b28e1e1b9a56483b1e4058f9f9d97",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://perso.ens-lyon.fr/ghys/home/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Honorário",
+			"nomeEn": "Honorary Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 20942,
+		"nome": "Felipe Linares",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20942&token=8e047e51a0262a54c2dffb2274683c07",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/felipel.png",
+		"sala": "424",
+		"ramal": "5224",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~linares/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 20881,
+		"nome": "Fernando Codá",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20881&token=ea575071bd2ce6da53a62a2b147ea96c",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": false,
+		"seExibeNaTV": false,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "",
+		"categoria": null,
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 17670,
+		"nome": "Francisco Javier Thayer",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17670&token=12bfe8169664a265eb2fd8b9fd067b05",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Eq. Dif. Parciais",
+			"nomeEn": "Partial Differential Equations"
+		}
+	},
+	{
+		"id": 17619,
+		"nome": "Gudlaugur Thorbergsson",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17619&token=6a89030139adc3d2fc4aade3433e8d16",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8754228J5",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 12506,
+		"nome": "Guillermo Fleitas Morales",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=12506&token=30637ce29549ac951061fd211d43c3b0",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://eguia.ull.es/matematicas/queryprof.php?id=4",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 2577,
+		"nome": "Harold Rosenberg",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2577&token=74934548253bcab8490ebd74afed7031",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~rosen/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Extraordinário",
+			"nomeEn": "Extraordinary Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 5895,
+		"nome": "Henrique Bursztyn",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=5895&token=33853141e0873909be88f5c3e6144cc6",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/henriqueb.png",
+		"sala": "420",
+		"ramal": "5220",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~henrique/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Simplética",
+			"nomeEn": "Symplectic Geometry"
+		}
+	},
+	{
+		"id": 20945,
+		"nome": "Hermano Frid",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20945&token=5b011d9e8a36fa05832f9c3032d10123",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/hermano.png",
+		"sala": "316",
+		"ramal": "5116",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~hermano/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 12541,
+		"nome": "Hildeberto Eulálio Cabral",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=12541&token=2aa99900aa004f52980b7c2cad7ed31a",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787759H0",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 21105,
+		"nome": "Hossein Movasati",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21105&token=28fd3872c62aad371e8b21061f1a35bd",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/hossein.png",
+		"sala": "416-A",
+		"ramal": "5180",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~hossein/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Complexa e Folheações Holomorfas",
+			"nomeEn": "Complex Geometry and Holomorphic Foliations"
+		}
+	},
+	{
+		"id": 55825,
+		"nome": "Hubert Lacoin",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=55825&token=9215b69bf3fc8955f31f72c4bd4e577a",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/hubert.png",
+		"sala": "318",
+		"ramal": "5118",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~lacoin/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 17621,
+		"nome": "Jack Schechtman",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17621&token=0d1f9ed41c577b9ad97ebe248806ca70",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Otimização", "nomeEn": "Optimization" }
+	},
+	{
+		"id": 20863,
+		"nome": "Jacob Palis",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20863&token=00ca4dc5c4d94396ae3966f3b0ab1f1b",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/jacob.png",
+		"sala": "336",
+		"ramal": "5136",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~jpalis/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Emérito",
+			"nomeEn": "Professor Emeritus"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 17622,
+		"nome": "Jaime Ignácio Lesmes",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17622&token=6a62253c673325a7be239b84a9f879d2",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://www.ecured.cu/Jaime_Ignacio_Lesmes_Camacho",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Eq. Dif. Parciais",
+			"nomeEn": "Partial Differential Equations"
+		}
+	},
+	{
+		"id": 17704,
+		"nome": "Jean-Christophe Yoccoz",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17704&token=5f9449ba01fb3bf921996d83dd46e9de",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://mathshistory.st-andrews.ac.uk/Biographies/Yoccoz/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Honorário",
+			"nomeEn": "Honorary Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 12627,
+		"nome": "Jonas Gomes",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=12627&token=1879d84e181b6262704e95372dc9f4dc",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~jgomes/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Computação Gráfica",
+			"nomeEn": "Computer Graphics "
+		}
+	},
+	{
+		"id": 17623,
+		"nome": "Jörg Blatter",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17623&token=616996895f8fbde61cf176ee9e7aecfd",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Eq. Dif. Parciais",
+			"nomeEn": "Partial Differential Equations"
+		}
+	},
+	{
+		"id": 1651,
+		"nome": "Jorge Sotomayor",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=1651&token=be3e9d3f7d70537357c67bb3f4086846",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 2110,
+		"nome": "Jorge Vitório Pereira",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2110&token=c3535febaff29fcb7c0d20cbe94391c7",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/jorgev.png",
+		"sala": "426",
+		"ramal": "5226",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": " http://www.impa.br/~jvp",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Complexa e Folheações Holomorfas",
+			"nomeEn": "Complex Geometry and Holomorphic Foliations"
+		}
+	},
+	{
+		"id": 20969,
+		"nome": "Jorge Zubelli",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20969&token=1815de90dcf9f6b27dd6bff0f7a487bd",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~zubelli/Nova_pagina_pessoal/index.html",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 6444,
+		"nome": "José Espinar",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=6444&token=8a36dfc67ebfbbea9bd01cd8a4c8ad32",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4368411Z6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 18820,
+		"nome": "José Felipe Voloch",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=18820&token=146017373d58c750fab8341254cf6c16",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://www.math.canterbury.ac.nz/~f.voloch/cv.html",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 17625,
+		"nome": "Jürgen K. Moser",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17625&token=2cd2e570d324ece8ff21b15d1fbe3db3",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Honorário",
+			"nomeEn": "Honorary Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 7968,
+		"nome": "Kaizô Iwakami Beltrão",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=7968&token=9dd30287dc5ffcfb4efb1e0521c3c8f8",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780283D4",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 17626,
+		"nome": "Kang Ling James",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17626&token=5c9d54bf8c2ade6c7ad0bafd578e5f09",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://www.d.umn.edu/~kjames/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 3796,
+		"nome": "Karl-Otto Stöhr",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3796&token=41c542dfe6e4fc3deb251d64cf6ed2e4",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/karl.png",
+		"sala": "362",
+		"ramal": "5162",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4788621J1",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 76443,
+		"nome": "Khadim War",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=76443&token=4de13e504962c8f81055bf09363b79de",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/khadim.png",
+		"sala": "402",
+		"ramal": "5202",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://users.ictp.it/~kwar/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Adjunto",
+			"nomeEn": "Deputy Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 17628,
+		"nome": "Leopoldo Nachbin",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17628&token=60aaa4b2fc3fcf6a41c454149ab76592",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://pt.wikipedia.org/wiki/Leopoldo_Nachbin",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 15683,
+		"nome": "Lucas Ambrozio",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=15683&token=8b5871528335103533d02d1a9f8c629e",
+		"qrcode": "",
+		"sala": "405",
+		"ramal": "5205",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~l.ambrozio/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Adjunto",
+			"nomeEn": "Deputy Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 20918,
+		"nome": "Luciano Irineu de Castro",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20918&token=0e668474147b19cfdc7c8cbef7f9f2e3",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/luciano.png",
+		"sala": "368",
+		"ramal": "5168",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4706037U4",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Economia Matemática",
+			"nomeEn": "Mathematical Economics"
+		}
+	},
+	{
+		"id": 3739,
+		"nome": "Lucio Rodriguez",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3739&token=20885c72ca35d75619d6a378edea9f76",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/lucio.png",
+		"sala": "324",
+		"ramal": "5124",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781574J8",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 64393,
+		"nome": "Luis Caffarelli",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=64393&token=340198557f49a846acdc1129c67815d1",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "https://web.ma.utexas.edu/users/caffarel/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Honorário",
+			"nomeEn": "Honorary Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Eq. Dif. Parciais",
+			"nomeEn": "Partial Differential Equations"
+		}
+	},
+	{
+		"id": 21090,
+		"nome": "Luis Florit",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21090&token=30b6b8f7a8e3dba528fe76dec93d773a",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/luisf.png",
+		"sala": "404",
+		"ramal": "5204",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://luis.impa.br/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 3797,
+		"nome": "Luiz Henrique de Figueiredo",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3797&token=36072923bfc3cf47745d704feb489480",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/luizhf.png",
+		"sala": "342",
+		"ramal": "5142",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://lhf.impa.br/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Computação Gráfica",
+			"nomeEn": "Computer Graphics "
+		}
+	},
+	{
+		"id": 1781,
+		"nome": "Luiz Velho",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=1781&token=8b6a80c3cf2cbd5f967063618dc54f39",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/luizv.png",
+		"sala": "354",
+		"ramal": "5154",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://lvelho.impa.br/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Computação Gráfica",
+			"nomeEn": "Computer Graphics "
+		}
+	},
+	{
+		"id": 77722,
+		"nome": "Luna Lomonaco",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=77722&token=aefa054c968f7d0b480db2cd848044cc",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/Luna%20Lomonaco.png",
+		"sala": "5134",
+		"ramal": "334",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8144263J6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisadora Adjunta",
+			"nomeEn": "Deputy Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 21181,
+		"nome": "Manfredo do Carmo",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21181&token=96d266834024baec8b64b960391c31e5",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780416T2",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Emérito",
+			"nomeEn": "Professor Emeritus"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 2674,
+		"nome": "Marcelo Viana",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2674&token=a8345c3bb9e3896ea538ce77ffaf2c20",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/marcelov.png",
+		"sala": "314",
+		"ramal": "5114",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://www.impa.br/~viana/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 38948,
+		"nome": "Marcos Dajczer",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38948&token=e2d1a6e73522ced82377206f4ac503de",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/marcosd.png",
+		"sala": "366",
+		"ramal": "5166",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787704U9",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 21087,
+		"nome": "Marcus Sarkis-Martins",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21087&token=794b7ff3de411a7bb686761ca410038c",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787337H0",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Dinâmica dos Fluidos           ",
+			"nomeEn": "Fluid Dynamics "
+		}
+	},
+	{
+		"id": 1595,
+		"nome": "Maria Eulália Vares",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=1595&token=d88518acbcc3d08d1f18da62f9bb26ec",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783190Z6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisadora Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 20888,
+		"nome": "Maurício Peixoto",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20888&token=873e84c5c8a793c20a0762a801bcb446",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780849Y4",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Emérito",
+			"nomeEn": "Professor Emeritus"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 48816,
+		"nome": "Mikhail Belolipetsky",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=48816&token=fc804d532af1ae8155de91061e37d756",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/mikhailb.png",
+		"sala": "407",
+		"ramal": "5207",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~mbel/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 21122,
+		"nome": "Mikhail Solodov",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21122&token=eae6b5d089d0b287174df2742875b515",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/mikhails.png",
+		"sala": "428",
+		"ramal": "5228",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~optim/solodov.html",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Otimização", "nomeEn": "Optimization" }
+	},
+	{
+		"id": 69285,
+		"nome": "Mikhail Verbitskiy",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=69285&token=70770ef72356199a4b2b994266f11501",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/mikhailv.png",
+		"sala": "344",
+		"ramal": "5144",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8833383Z1",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Simplética",
+			"nomeEn": "Symplectic Geometry"
+		}
+	},
+	{
+		"id": 20808,
+		"nome": "Milton Jara",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20808&token=b9cc29ff23a908aaf7f741dabbe5b0f6",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/milton.png",
+		"sala": "430",
+		"ramal": "5230",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://www.impa.br/~monets",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 55149,
+		"nome": "Oliver Lorscheid",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=55149&token=1a9f530e9d612238a20cff3f8369cb5e",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/oliver.png",
+		"sala": "350",
+		"ramal": "5150",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://oliver.impa.br/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 2548,
+		"nome": "Oscar Humberto Bustos",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2548&token=0e4a2c65bdaddd66a53422d93daebe68",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://www.famaf.unc.edu.ar/~ciem/personas/bustos.html",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Estatística", "nomeEn": "Statistics" }
+	},
+	{
+		"id": 17690,
+		"nome": "Otto Endler",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17690&token=b237e7e6bada3f572c342dc4bbcda0d2",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 10965,
+		"nome": "Paulo César Coutinho",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=10965&token=b5d17ed2b502da15aa727af0d51508d6",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781898Z8",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Economia Matemática",
+			"nomeEn": "Mathematical Economics"
+		}
+	},
+	{
+		"id": 3800,
+		"nome": "Paulo Cezar Pinto Carvalho",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3800&token=63c6598e9ddd2961e7dfa4d4eb8144a1",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4721463Y6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Computação Gráfica",
+			"nomeEn": "Computer Graphics "
+		}
+	},
+	{
+		"id": 3705,
+		"nome": "Paulo Klinger Monteiro",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=3705&token=2cfa3753d6a524711acb5fce38eeca1a",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4783999D6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Economia Matemática",
+			"nomeEn": "Mathematical Economics"
+		}
+	},
+	{
+		"id": 79627,
+		"nome": "Paulo Orenstein",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=79627&token=8b361d620160b143214310905816c6f2",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/pauloorenstein.png",
+		"sala": "401",
+		"ramal": "5201",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~pauloo/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Adjunto",
+			"nomeEn": "Deputy Researcher"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 16965,
+		"nome": "Paulo Sad",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=16965&token=4d1d732a3fd7efdacb4b26a0ca945eba",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/paulos.png",
+		"sala": "422",
+		"ramal": "5222",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787570Y2",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Complexa e Folheações Holomorfas",
+			"nomeEn": "Complex Geometry and Holomorphic Foliations"
+		}
+	},
+	{
+		"id": 13019,
+		"nome": "Pedro Luiz Valls Pereira",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13019&token=a2b834e585967887c4522fa09f0b6395",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787992J3",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Economia Matemática",
+			"nomeEn": "Mathematical Economics"
+		}
+	},
+	{
+		"id": 17645,
+		"nome": "Pedro Nowosad",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17645&token=2d48dc37435b338396739948524ccee8",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 20937,
+		"nome": "Rafael Iório",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=20937&token=5c6c364bf5f3e00a2e2b017859dde995",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787910J1",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 43090,
+		"nome": "Reimundo Heluani",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=43090&token=9926b3ed9e0bc20b2ed7f32711b8b45f",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/reimundo.png",
+		"sala": "432",
+		"ramal": "5232",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~heluani/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	},
+	{
+		"id": 84822,
+		"nome": "René Thom",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=84822&token=8dbe5bae98d79e33166891c075387088",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Honorário",
+			"nomeEn": "Honorary Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 13076,
+		"nome": "Ricardo Mañé",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13076&token=897dfc4f20f0edf00528e4c6f4ad2c5b",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 6588,
+		"nome": "Robert Morris",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=6588&token=565e8a413d0562de9ee4378402d2b481",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/robert.png",
+		"sala": "310",
+		"ramal": "5110",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~rob/index.html",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 21085,
+		"nome": "Roberto Imbuzeiro",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21085&token=6060d12ec4413d29a17e7584783c23be",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/robertoi.png",
+		"sala": "408",
+		"ramal": "5208",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://lattes.cnpq.br/8861097282658615",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 13143,
+		"nome": "Ruben Klein",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13143&token=f048e308e7e425a59898a5339731e429",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787530P4",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 13146,
+		"nome": "Rubens Leão de Andrade",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=13146&token=cc580a0617b08b2ce02582e0af20875c",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=347176",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Análise/Eq. Dif. Parciais",
+			"nomeEn": "Analysis/Partial Differential Equations "
+		}
+	},
+	{
+		"id": 17658,
+		"nome": "Sancho Berenguer",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17658&token=548b57cc0fd23358084548f3bbd9fdbc",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Otimização", "nomeEn": "Optimization" }
+	},
+	{
+		"id": 11453,
+		"nome": "Sergio Granville",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=11453&token=0ec96be397dd6d3cf2fecb4a2d627c1c",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781031P8",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Otimização", "nomeEn": "Optimization" }
+	},
+	{
+		"id": 15171,
+		"nome": "Sérgio Werlang",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=15171&token=126548d403b6c39820e63fed2cd54db3",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://epge.fgv.br/pt/professor/sergio-werlang",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Economia Matemática",
+			"nomeEn": "Mathematical Economics"
+		}
+	},
+	{
+		"id": 84823,
+		"nome": "Shiing-Shen Chern",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=84823&token=e8c89ea71719b3bbd7c6aa353805cb84",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": null,
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Honorário",
+			"nomeEn": "Honorary Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 2539,
+		"nome": "Steve Smale",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=2539&token=2aedcba61ca55ceb62d785c6b7f10a83",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "https://math.berkeley.edu/~smale/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Honorário",
+			"nomeEn": "Honorary Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Topologia", "nomeEn": "Topology" }
+	},
+	{
+		"id": 17664,
+		"nome": "Tenkasi Viswanathan",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17664&token=8d98ea39261415654200fc3faa058283",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 17571,
+		"nome": "Vinicius Ramos",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17571&token=c0aa6afda9e17aea0a32959bdf142439",
+		"qrcode": "http://w3.impa.br/~dac/qrcode/viniciusr.png",
+		"sala": "352",
+		"ramal": "5152",
+		"seExibeNoSite": true,
+		"seExibeNaTV": true,
+		"ativa": true,
+		"tipo": null,
+		"paginaPessoal": "http://w3.impa.br/~vgbramos/",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Simplética",
+			"nomeEn": "Symplectic Geometry"
+		}
+	},
+	{
+		"id": 38952,
+		"nome": "Vladas Sidoravicius",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=38952&token=0387e752de768f5209f20749c0d910ad",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://shanghai.nyu.edu/academics/faculty/directory/vladas-sidoravicius",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Probabilidade", "nomeEn": "Probability" }
+	},
+	{
+		"id": 15129,
+		"nome": "Washington Mio",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=15129&token=cfa31d8130bef0e6643e5de9d0a0cac9",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://www.math.fsu.edu/People/faculty.php?id=27",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Topologia", "nomeEn": "Topology" }
+	},
+	{
+		"id": 16863,
+		"nome": "Welington Celso de Melo",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=16863&token=fe33b4901179d6118f8859c27426e45b",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787570H6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Sistemas Dinâmicos e Teoria Ergódica",
+			"nomeEn": "Dynamical Systems and Ergodic Theory"
+		}
+	},
+	{
+		"id": 21889,
+		"nome": "William Glenn Whitley",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=21889&token=6fcbe90edddbc8bc99ec9fb4960ef0b9",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4780480T7",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 71587,
+		"nome": "William Hamiltton Meeks III",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=71587&token=9a676cac9257a36095c23cd6077d838c",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "https://www.math.umass.edu/directory/emeritus-faculty/william-meeks",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Associado",
+			"nomeEn": "Associate Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": {
+			"id": null,
+			"nomePt": "Geometria Diferencial",
+			"nomeEn": "Differential Geometry "
+		}
+	},
+	{
+		"id": 17715,
+		"nome": "Yves Albert Emile Lequain",
+		"nomeConhecido": null,
+		"foto": "https://institucional.impa.br/pessoas/pessoaFisica/foto/viewPesquisador.action?pessoaFisicaId=17715&token=03f49b05efdd5edf3b57ed84b1cfb226",
+		"qrcode": "",
+		"sala": "",
+		"ramal": "",
+		"seExibeNoSite": true,
+		"seExibeNaTV": false,
+		"ativa": false,
+		"tipo": null,
+		"paginaPessoal": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4787243E6",
+		"categoria": {
+			"id": null,
+			"nomePt": "Pesquisador Titular",
+			"nomeEn": "Full Professor"
+		},
+		"pessoaFisicaId": null,
+		"area": { "id": null, "nomePt": "Álgebra", "nomeEn": "Algebra" }
+	}
+]

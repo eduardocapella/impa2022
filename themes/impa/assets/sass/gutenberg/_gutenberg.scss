@@ -44,16 +44,10 @@
 	margin-bottom: 40px;
 }
 
-.wp-block-image figcaption {
-	margin-top: 0.5em;
-	margin-bottom: 1em;
-	position: absolute;
-	bottom: 0;
-	background: white;
-	left: 15px;
-	padding: 2px 7px;
+figcaption {
+	margin: 0.2rem 0.5rem 1rem 0.5rem;
+	font-size: 0.6875rem;
 	text-transform: uppercase;
-	font-size: 0.625rem;
 }
 
 .wpml-ls-legacy-list-horizontal .wpml-ls-item {

@@ -22,16 +22,7 @@ get_header();
 	</div>
 	<!-- /.container -->
 		
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-12">
-				<?php tem_atalhos_com_icone(); ?>
-			</div>
-			<!-- /.col-sm-12 -->
-		</div>
-		<!-- /.row -->
-	</div>
-	<!-- /.container-fluid -->
+	<?php exibe_atalhos(); ?>
 				
 	<?php 
 	// Check rows exists.

@@ -1,8 +1,17 @@
+.col1_80 {
+	td {
+		&:first-child {
+			min-width: 80px;
+			text-align: center;
+		}
+	}
+}
 table,
 .tablepress {
 	border: 1px solid $cor_linhas;
 	max-width: 100%;
 	border-collapse: collapse;
+	margin-top: 1rem;
 
 	tr {
 		border: 1px solid $cor_linhas;
@@ -12,10 +21,6 @@ table,
 	th {
 		border: 1px solid $cor_linhas !important;
 		padding: 5px 10px;
-
-		&:first-child {
-			min-width: 100px;
-		}
 	}
 
 	th {

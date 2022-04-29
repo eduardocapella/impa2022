@@ -8,7 +8,7 @@ add_action('init', 'type_post_divulgacao_da_matematica');
 
 function type_post_divulgacao_da_matematica() { 
 	$labels = array(
-		'name' => _x( 'Outreach', 'post type general name' ),
+		'name' => _x( 'Outreach', 'post type general name', 'impa' ),
 		'singular_name' => _x( 'Outreach', 'post type singular name' ),
 		'add_new' => _x( 'Add New', 'Novo item' ),
 		'add_new_item' => __( 'New Item' ),
@@ -28,7 +28,11 @@ function type_post_divulgacao_da_matematica() {
 		'public_queryable' => true,
 		'show_ui' => true,           
 		'query_var' => true,
-		'rewrite' => true,
+		// 'rewrite' => true,
+		'rewrite' => array(
+			'slug' => _x( 'divulgacao-da-matematica', 'slug', 'custom_plugin_textdomain' ),
+			'with_front' => FALSE
+		),
 		'capability_type' => 'post',
 		'has_archive' => true,
 		'hierarchical' => false,

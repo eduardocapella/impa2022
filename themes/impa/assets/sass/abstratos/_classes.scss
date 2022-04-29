@@ -5,6 +5,18 @@
 	display: none !important;
 }
 
+.warning {
+	background-color: $warning;
+	color: black;
+
+	font-size: 0.625rem;
+	font-weight: 700;
+	text-transform: uppercase;
+
+	display: inline-block;
+	padding: 0px 8px;
+}
+
 .no-padding {
 	padding-left: 0;
 	padding-right: 0;
@@ -91,6 +103,11 @@
 	@extend %reseta-lista;
 	margin-top: 0;
 }
+
+h4 + .wp-block-columns {
+	margin-top: 30px;
+}
+
 
 .ul-separador-virgula {
 	display: inline-block;
@@ -337,9 +354,9 @@
 	flex-wrap: wrap;
 	gap: 30px;
 
-	li {
+	figure {
 		border-radius: 10px;
-		overflow: hidden;
+		border: 0;
 		a {
 			img {
 				display: block;
@@ -352,10 +369,14 @@
 .bc-biblioteca {
 	.logos-com-links {
 		li {
-			border-radius: 0;
+			padding-left: 10px;
+			padding-right: 10px;
+			border: 1px solid $cor_linhas;
+			background-color: #fff;
 		}
 		img {
 			height: 50px;
+			border: 0 !important;
 		}
 	}
 }
@@ -401,12 +422,59 @@
 	}
 }
 
+.bc-pesquisa section {
+	background-color: $cor_bg_breadcrumb;
+	margin-top: 50px;
+}
+
+.lista-thumbs {
+	@extend %reseta-lista;
+	
+	h4 {
+		font-size: 1rem;
+		font-weight: normal;
+		line-height: 1.4rem;
+		margin-top: 0;
+		a {
+			text-decoration: none;
+		}
+	}
+	
+	li {
+		margin-bottom: 15px;
+	}
+	
+	time {
+		margin-bottom: 0px;
+	}
+}
+
+.container-sidebar {
+	margin: 0 15px;
+	padding: 0 15px;
+	background-color: $cor_bg_breadcrumb;
+}
+
+.page-divulgacao-da-matematica {
+	.wp-block-buttons {
+		margin-top: 0;
+		margin-bottom: 40px;
+	}
+	
+	.wp-block-button {
+		display: flex;
+		gap: 10px;
+	}
+}
+
 // BOOTSTRAP TABS
 
 // BOOTSTRAP ACCORDION
 
-.accordion {
-	margin-top: 50px;
+.page-videos {
+	.accordion {
+		margin-top: 50px;
+	}
 }
 .accordion-header {
 	margin-bottom: 0;

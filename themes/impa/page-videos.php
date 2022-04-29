@@ -6,17 +6,11 @@ get_header();
 		<div class="row">
 			<div class="col-sm-12">
 				<h2><?php the_title(); ?></h2>
-				
-				<?php
-				if ( has_post_thumbnail() ) { ?>
-					<figure><?php the_post_thumbnail(); ?></figure>
-				<?php }
-				?>
 			</div>
 		</div>
 	</div>
 	
-	<?php tem_atalhos_com_icone(); ?>
+	<?php exibe_destaque(); ?>
 	
 	<div class="container">
 		<div class="row">
@@ -83,8 +77,7 @@ get_header();
 		<!-- /.row -->
 	</div>
 	<!-- /.container -->
-		
-	<?php tem_saiba_mais(); ?>
+
 </main>
 
 <?php

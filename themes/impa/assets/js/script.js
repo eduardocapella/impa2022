@@ -28,6 +28,29 @@ jQuery(document).ready(function ($) {
 			});
 		});
 
+		$('#lista-json-pessoas figure').each(function (index) {
+			$figure = $(this);
+			$imagem = $figure.find('img');
+			$width = $figure.width();
+			$height = ($width * 4) / 3;
+
+			$figure.css({
+				height: $height,
+			});
+		});
+
+		$('.lista-de-pessoas figure').each(function (index) {
+			$figure = $(this);
+			$width = $figure.width();
+			$height = ($width * 4) / 3;
+
+			console.log('$width', $width);
+
+			$figure.css({
+				height: $height,
+			});
+		});
+
 		$('.list-thumb-title-link figure').each(function () {
 			$figure = $(this);
 			$imagem = $figure.find('img');
@@ -45,34 +68,37 @@ jQuery(document).ready(function ($) {
 
 	$('.menu-toggle').click(function () {
 		$('.main-navigation ul').toggle();
+		$('.main-navigation ul .sub-menu').css('display', 'block !important');
 	});
 
-	$('.filtro-anos')
-		.find('button')
-		.click(function () {
-			$cat = $(this).attr('class');
-			// $cat = $cat.split('-')[1];
-			console.log('$cat = ' + $cat);
-
-			$('.filtro-anos').find('button').prop('disabled', false);
-			$(this).prop('disabled', true);
-
-			$('.filtro-anos').find('button').removeClass('selecionado');
-			$(this).toggleClass('selecionado');
-
-			if ($(this).hasClass('todos')) {
-				$('.eventos-cientificos').find('li').show();
-				console.log('$cat', $cat);
-			} else {
-				$('.eventos-cientificos').find('li').hide();
-				$('.eventos-cientificos')
-					.find('.' + $cat)
-					.fadeIn('fast');
-				console.log('$cat = ' + $cat);
-			}
-
-			// filtraEventos($cat);
+	const $termosFiltro = [];
+	$('.filtro li').each(function () {
+		$(this).click(function () {
+			$data_status = $(this).data('status');
+			executaFiltro($data_status);
 		});
+		$data_status = $(this).data('status');
+		$termosFiltro.push($data_status);
+	});
+	if ($termosFiltro.length > 0) {
+		$('#lista-json-pessoas li').hide();
+		$('#lista-json-pessoas [data-status=' + $termosFiltro[0] + ']').show();
+	}
+
+	function executaFiltro(param) {
+		$('.filtro button').removeClass('active');
+		$('.filtro [data-status=' + param + ']')
+			.find('button')
+			.addClass('active');
+
+		if (param == 'todos') {
+			$('#lista-json-pessoas li').show();
+		} else {
+			$('#lista-json-pessoas li').hide();
+			$('#lista-json-pessoas .' + param).show();
+		}
+		console.log('param', param);
+	}
 
 	function filtraEventos($cat) {
 		if ($cat == 'todos') {
@@ -87,11 +113,11 @@ jQuery(document).ready(function ($) {
 		}
 	}
 
-	$('#lista-de-anos a').click(function (e) {
-		e.preventDefault();
-		const $ano = this.text;
-
-		$('#lista-de-defesas li').hide();
-		$('#lista-de-defesas .' + $ano).show();
-	});
+	// 	$('#lista-de-anos a').click(function (e) {
+	// 		e.preventDefault();
+	// 		const $ano = this.text;
+	//
+	// 		$('#lista-de-defesas li').hide();
+	// 		$('#lista-de-defesas .' + $ano).show();
+	// 	});
 });

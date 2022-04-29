@@ -7,12 +7,17 @@ get_header();
 		<?php
 		if ( have_posts() ) : 
 			while ( have_posts() ) : the_post();
-				
+			
+			$today = date( 'd-m-Y g:i a' );
+			$today_int = strtotime( $today );
+			
 			$data_de_inicio = get_field( 'evento_data_de_inicio' );
 			$data_de_inicio_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_de_inicio);
+			$data_de_inicio_int = $data_de_inicio_obj->getTimestamp();
 			
 			$data_de_encerramento = get_field( 'evento_data_de_encerramento' );
 			$data_de_encerramento_obj = DateTime::createFromFormat('d/m/Y g:i a', $data_de_encerramento);
+			$encerramento_int = $data_de_encerramento_obj->getTimestamp();
 			
 			$month_inicio = $data_de_inicio_obj->format( 'M' );
 			$month_encerramento = $data_de_encerramento_obj->format( 'M' );
@@ -75,7 +80,11 @@ get_header();
 							
 						<div class="row local">
 							<div class="col-sm-12">
-								
+								<?php
+								if( $today_int > $data_de_inicio_int && $today_int < $encerramento_int ) {
+									echo '<p class="warning">' . __( 'In Progress', 'impa' ) . '</p>';
+								}
+								?>
 								<div class="box evento-local">
 									<?php $local = get_field( 'evento_local_do_evento' ); ?>
 									
@@ -129,13 +138,19 @@ get_header();
 									<p><?php echo get_field( 'evento_telefone' ); ?></p>
 								</div>
 								<!-- /.datas -->
-									
-								<div class="wp-block-button is-style-fill">
-									<a href="<?php echo get_field( 'url_do_botao' ); ?>" class="wp-block-button__link">
-										<?php echo get_field( 'texto_do_botao' ); ?>
-									</a>
-									<!-- /.wp-block-button__link --></div>
-								<!-- /.wp-block-button -->
+								
+								<?php if( $today_int < $data_de_inicio_int ) { ?>
+									<div class="wp-block-button is-style-fill">
+										<a href="<?php echo get_field( 'url_do_botao' ); ?>" class="wp-block-button__link">
+											<?php echo get_field( 'texto_do_botao' ); ?>
+										</a>
+										<!-- /.wp-block-button__link -->
+									</div>
+									<!-- /.wp-block-button -->
+								<?php } else { ?>
+									<p class="destaque"><?php echo __( 'Registrations closed', 'impa' ); ?></p>
+									<!-- /.destaque -->
+								<?php } ?>
 
 							</div>
 							<!-- /.col-sm-12 -->

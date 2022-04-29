@@ -65,10 +65,20 @@
 			border-right: 0;
 			border-bottom: 0;
 		}
+
+		&:nth-last-child(-n + 3) {
+			// border-bottom: 1px solid $cor_linhas;
+		}
 	}
 
 	.header {
 		display: flex;
+		align-items: flex-end;
+
+		.categorias {
+			margin-left: 7px;
+		}
+
 		time {
 			margin: 0;
 		}
@@ -113,5 +123,75 @@
 	p {
 		margin-top: 0;
 		margin-bottom: 0;
+	}
+}
+
+p.defesa-de-tese,
+p.seminario,
+p.evento {
+	font-size: 0.6875rem;
+	display: block;
+	text-transform: uppercase;
+}
+p.defesa-de-tese {
+	color: $cor_educacao;
+}
+p.seminario {
+	color: $cor_educacao;
+}
+p.evento {
+	color: $cor_eventos;
+}
+
+p.defesa-de-tese-neg {
+	span {
+		background-color: $cor_educacao;
+	}
+}
+
+p.seminario-neg {
+	span {
+		background-color: $cor_educacao;
+	}
+}
+p.evento-neg {
+	span {
+		background-color: $cor_eventos;
+	}
+}
+
+p.defesa-de-tese-neg,
+p.seminario-neg,
+p.evento-neg {
+	color: white;
+	font-size: 0.6875rem;
+	padding: 0 4px;
+	text-transform: uppercase;
+	display: table;
+}
+
+p.defesa-de-tese-neg {
+	span {
+		// background-color: $cor_educacao;
+		box-shadow: -2px 0px 0 2px $cor_educacao, -2px 0px 0 2px $cor_educacao,
+			0 0 0 5px $cor_educacao;
+		box-decoration-break: clone;
+	}
+}
+
+p.seminario-neg {
+	span {
+		// background-color: $cor_educacao;
+		box-shadow: -2px 0px 0 2px $cor_educacao, -2px 0px 0 2px $cor_educacao,
+			0 0 0 5px $cor_educacao;
+		box-decoration-break: clone;
+	}
+}
+p.evento-neg {
+	span {
+		// background-color: $cor_eventos;
+		box-shadow: -2px 0px 0 2px $cor_eventos, -2px 0px 0 2px $cor_eventos,
+			0 0 0 5px $cor_eventos;
+		box-decoration-break: clone;
 	}
 }

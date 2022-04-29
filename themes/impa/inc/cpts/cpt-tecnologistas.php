@@ -8,7 +8,7 @@ add_action( 'init', 'type_post_tecnologistas' );
 
 function type_post_tecnologistas() { 
 	$labels = array(
-		'name' => _x( 'Technologists', 'post type general name' ),
+		'name' => _x( 'Technologists', 'post type general name', 'impa' ),
 		'singular_name' => _x( 'Technologist', 'post type singular name' ),
 		'add_new' => _x( 'Add New', 'Novo item' ),
 		'add_new_item' => __( 'New Item' ),
@@ -19,7 +19,7 @@ function type_post_tecnologistas() {
 		'not_found' =>  __( 'No record found' ),
 		'not_found_in_trash' => __( 'Nenhum registro encontrado na lixeira' ),
 		'parent_item_colon' => '',
-		'menu_name' => __( 'Technologists','impa' )
+		'menu_name' => _x( 'Technologists', 'impa' )
 	);
 
 	$args = array(
